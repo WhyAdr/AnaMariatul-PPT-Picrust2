@@ -5,44 +5,52 @@
 **Dataset Reference:** Sample `SC` (`barcode13` / `N701-1`; Oxford Nanopore Technologies [ONT] Long-Read ITS Amplicon Reanalysis; single sample, `n = 1`, no negative control or site replicates)  
 **Host & Compartment Metadata:**  
 * *Original Host Designation:* *Sonneratia caseolaris* (source of the `SC` sample code)
-* *Updated Botanical Taxonomic Assessment:* *Sonneratia alba* (pioneer seaward mangrove species adapted to high salinity and daily tidal immersion)
+* *Updated Botanical Taxonomic Assessment:* *Sonneratia alba* (pioneer seaward mangrove species adapted to high salinity and daily tidal immersion; habitat confirmed by the project owner on 1 November 2026)
 * *Sample Compartment:* **Cut rhizosphere root tissue and surrounding intertidal sediment** (consistent with detecting both root-associated fungi, waterlogged sediment-dwelling zoosporic fungi, and co-amplified rhizosphere microfauna)  
-**Target Audience:** Research Colleague (Ana Mariatul) — new to bioinformatics; requires clear, intuitive, and well-calibrated plain-English explanations of each figure.  
-**Tone & Perspective:** Educational, encouraging, and scientifically careful. Connects the sequence results to plausible *Sonneratia alba* rhizosphere and sediment biology while clearly distinguishing direct sequence observations from database-derived ecological/metabolic hypotheses in a single-sample dataset.  
+**Target PPT Presentation:** `AnaMariatul-SC-PICRUSt2-FUNGuild-Explainer-ver2.pptx` (19 slides; SHA-256 `2f3d8dd5a5abd692b1bdb5b2c76264dcfc43aba414fc77ec861c30f23fd19458`)  
+**Target Audience:** Research Colleague (Ana Mariatul) — new to bioinformatics; requires clear, intuitive, and well-calibrated plain-English explanations of each figure paired with ready-to-copy-paste thesis/manuscript drafts.  
+**Tone & Perspective:** Educational, encouraging, and scientifically careful. Connects sequence results to plausible *Sonneratia alba* rhizosphere and sediment biology while clearly distinguishing direct sequence observations from database-derived ecological/metabolic hypotheses in a single-sample dataset.  
 **Visual Asset & Layout Standard for PPT Generation:**  
-* **Images:** 240 DPI PNG files in `figures/01_*.png` through `08_*.png`, plus `Report/data/electrophoresis.PNG` on Slide 08.
-* **Density & Text Placement Rule:** To keep 16:9 widescreen slides visually clean (especially on dense slides like Slides 08, 10, 11, and 12), place the **"Visual Elements Guide (On-Slide Callouts)"** directly on the slide canvas next to the PNG, and place the longer **"Plain-English Elaboration (Extended Companion / Notes Pane)"** in the PowerPoint notes pane (or an optional companion handout slide).
-* **Table-Only Callouts:** Items explicitly tagged **`[Table Callout — From Companion TSV, Not Plotted in PNG]`** come from the underlying source tables rather than the PNG labels, so the PPT layout should format them as supplementary side-boxes rather than pointing arrows at the image.
+* **Images:** 240 DPI PNG files in `figures/01_*.png` through `08_*.png`, plus `Report/data/electrophoresis.PNG` on Slide 09.
+* **Density & Text Placement Rule:** To keep 16:9 widescreen slides visually clean (especially on dense slides like Slides 09, 12, 13, and 14), place the **"Visual Elements Guide (On-Slide Callouts)"** directly on the slide canvas next to the PNG, and place the longer **"Plain-English Elaboration (Extended Companion / Notes Pane)"** in the PowerPoint notes pane (or an optional companion handout slide).
+* **Table-Only Callouts:** Items explicitly tagged **`[Table Callout — From Companion TSV, Not Plotted in PNG]`** come from the underlying source tables rather than the PNG labels, formatted as supplementary side-boxes.
 * **Typography:** Plain text and standard Unicode symbols are used throughout (no LaTeX `$...$` wrappers) for clean automated PPT generation and bilingual adaptation.
 
 ---
 
-## Deck Overview & Navigation Structure
+## Deck Overview & Navigation Structure (19 Slides Total)
 
 ```
 PART 1: INTRODUCTION & BIOINFORMATICS FOUNDATIONS
 ├── Slide 01: Title Slide & Project Context (Welcome to Your Mangrove ITS Data)
-├── Slide 02: Quick Guide to Key Concepts (OTUs, Reads vs. Biomass, Guilds & NSTI)
+├── Slide 02: Quick Guide to Key Concepts (Bioinformatics 101: OTUs, Reads vs. Biomass, Guilds, NSTI)
 └── Slide 03: Overview of the Sequencing Pipeline (From 103k Raw Reads to 34 Fungal Core OTUs)
 
 PART 2: WHO IS IN YOUR SAMPLE? (COMMUNITY TAXONOMY)
-└── Slide 04: Figure 01 — Community Context & Taxonomic Resolution (Sediment Chytrids & Unresolved Fungal Taxa)
+├── Slide 04: Figure 01 — Community Context & Taxonomic Resolution (Read Fates & Phylum Distribution)
+└── Slide 05: [NEW NARRATIVE 1] Thesis Drafting Text: Community Composition, Chytrids & Dark Taxa
 
 PART 3: WHAT ARE THEY DOING? (ECOLOGICAL GUILDS & LIFESTYLES)
-├── Slide 05: Figure 02 — Ecological Annotation Coverage (FungalTraits vs. FUNGuild)
-├── Slide 06: Figure 03 — Putative Lifestyles & Ecological Guilds (Rhizosphere vs. Sediment Roles)
-├── Slide 07: Figure 04 — Sensitivity Analysis & Workflow Concordance
-└── Slide 08: SPECIAL SPOTLIGHT — Demystifying OTU_9 (Gibellulopsis: Gel Band Size Match, Chimera Audit & Ecology)
+├── Slide 06: Figure 02 — Ecological Annotation Coverage (FungalTraits vs. FUNGuild)
+├── Slide 07: Figure 03 — Putative Lifestyles & Ecological Guilds (Rhizosphere vs. Sediment Roles)
+├── Slide 08: Figure 04 — Sensitivity Analysis & Workflow Concordance
+├── Slide 09: Special Spotlight — Demystifying OTU_9 (Gibellulopsis: Gel Band, Chimera Audit & Ecology)
+└── Slide 10: [NEW NARRATIVE 2] Thesis Drafting Text: Ecological Guilds, the OTU_9 Factor & Root Endophytes
 
 PART 4: WHAT IS THEIR METABOLIC POTENTIAL? (PICRUSt2 FUNCTIONAL PREDICTIONS)
-├── Slide 09: Figure 05 — PICRUSt2 Diagnostics: Representation & Reference Distance (NSTI)
-├── Slide 10: Figure 06 — Predicted Enzyme Categories (Housekeeping, Nomenclature Flags & Detritus Hydrolases)
-├── Slide 11: Figure 07 — Predicted MetaCyc Metabolic Pathways (Core Fungal Metabolism in an Intertidal Milieu)
-└── Slide 12: Figure 08 — Deconvoluting Pathways: Which OTUs & Reference Genomes Drive Predictions?
+├── Slide 11: Figure 05 — PICRUSt2 Diagnostics: Representation & Reference Distance (NSTI)
+├── Slide 12: Figure 06 — Predicted Enzyme Profiles (Top 15 ECs, Nomenclature Flags & Detrital Hydrolases)
+├── Slide 13: Figure 07 — Predicted MetaCyc Pathways (Core Fungal Metabolism in an Intertidal Milieu)
+├── Slide 14: Figure 08 — Deconvoluting Pathways: Which OTUs & Reference Genomes Drive Predictions?
+└── Slide 15: [NEW NARRATIVE 3] Thesis Drafting Text: Predicted Functional Repertoire & Reference Limits
 
 PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
-├── Slide 13: The Sonneratia alba Rhizosphere Synthesis: Connecting Mud Chytrids, Root Associates & Core Metabolism
-└── Slide 14: Practical Takeaways & Exciting Directions for Future Research
+├── Slide 16: The Sonneratia alba Rhizosphere Synthesis: Connecting Mud Chytrids, Root Associates & Core Metabolism
+└── Slide 17: Practical Takeaways & Exciting Directions for Future Research
+
+PART 6: ACTION AT THE BENCH & THE THESIS DEFENSE
+├── Slide 18: [NEW PROTOCOL] Experimental Validation Blueprint: Culturing, Gel Band Verification & Salinity
+└── Slide 19: [NEW DEFENSE] Thesis Defense Cheat Sheet: Navigating Tough Committee Questions
 ```
 
 ---
@@ -69,7 +77,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     * All Supported Core ITS OTUs: `41` OTUs (`48,988` reads)
     * Conservative Fungal Core OTUs: `34` OTUs (`40,364` reads)
     * PICRUSt2 Functionally Predicted OTUs: `27` OTUs (`28,587` reads)
-* **Plain Description for Slide:**
+* **Plain Description for Slide Canvas & Notes Pane:**
   * Welcome to the sequence-level reanalysis of your fungal amplicon dataset! Using Oxford Nanopore long-read sequencing with universal `ITS1` and `ITS4` primers, we captured the complete internal transcribed spacer (`ITS1–5.8S–ITS2`) region in single reads.
   * Sequencing `ITS1` and `ITS2` together provides stronger sequence resolution for environmental fungi than short-read amplicons, and allows us to reconstruct polished consensus sequences required for guild and functional exploration.
   * Because your sample represents a composite interface—**cut rhizosphere root tissue combined with surrounding intertidal mud and litter** beneath a seaward *Sonneratia alba* mangrove—the dataset captures both root-associated fungi and waterlogged sediment-dwelling fungi.
@@ -101,7 +109,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     1. **Delivered Raw ONT Reads (`103,015` reads):** Starting raw basecalled reads (`300–2,000 bp`), bypassing the service provider's `400–900 bp` length cutoff and TaxID-only k-mer table so true sequence representatives could be reconstructed.
     2. **Strict Primer & Quality Gate (`52,404` reads retained):** Retained reads with canonical `ITS1` and `ITS4` terminal primers, no internal tandem-primer artifacts, trimmed length ≥200 bp, and mean read quality `Q ≥ 12`. Notably, **`13,021` retained reads were originally `>900 bp`**—retaining long amplicons that match the **`~1,100–1,150 bp` upper band visible on your PCR agarose gel** (`Report/data/electrophoresis.PNG`), which a `900 bp` ceiling discards.
     3. **Consensus Discovery, 2× Racon Polishing & ITSx Normalization (`41` core OTUs, `48,988` reads):** Using `amplicon_sorter` (`amplicon_sorter_strict`), consensuses were polished twice with Racon on training reads (`41,743` reads) and trimmed to standardized `ITS` boundaries via `ITSx`. Across the **`10,661` held-out validation reads**, **`93.18%` (`9,934` reads)** mapped uniquely (`0.01%` ambiguous); across **all `52,404` preprocessed reads**, **`93.48%` (`48,988` reads)** mapped uniquely to the `41` core OTUs (`0.01%` [`4` reads] ambiguous; `6.51%` [`3,412` reads] unmapped).
-    4. **Conservative Fungal Core Extraction (`34` fungal OTUs, `40,364` reads):** Screened against the all-eukaryote UNITE database and `ITSx` origin models. Because universal `ITS1`–`ITS4` primers also amplify non-fungal soil eukaryotes, this step separated **`7` non-fungal/uncertain core OTUs (`8,624` reads, `16.46%`)**—including rhizosphere nematodes (*Cervidellus* `OTU_15`/`OTU_38` and a Chromadorea nematode match for `OTU_3`)—before running fungal guild and PICRUSt2 analyses.
+    4. **Conservative Fungal Core Extraction (`34` fungal OTUs, `40,364` reads):** Screened against the all-eukaryote UNITE database and `ITSx` origin models. Because universal `ITS1`–`ITS4` primers also amplify non-fungal soil eukaryotes, this step separated **`7` non-fungal/uncertain core OTUs (`8,624` reads, `16.46%`)**—including rhizosphere nematodes (*Cervidellus* `OTU_15` [`632` reads] and unresolved Nematoda `OTU_38` [`56` reads], totaling **`688` nematode reads**)—before running fungal guild and PICRUSt2 analyses.
 
 ---
 
@@ -119,10 +127,10 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     * `Ambiguous assignment`: **`0.01%` (`4` reads)** with tied alignment scores between two OTUs.
     * `No qualifying assignment` (light gray): **`6.51%` (`3,412` reads)** below the read-to-OTU mapping threshold (`≥85%` identity / `≥90%` span).
   * **Panel B (Fungal Phylum Resolution — OTU-to-UNITE Taxonomy Gate: `≥90%` identity, `≥90%` query cov, `≥80%` ref cov):**
-    * `Unresolved fungal phylum` (light gray): **`45.24%` (`23,705` reads)** — confirmed fungal `ITS` sequences (`ITSx` fungal origin) that cannot be conservatively assigned a named phylum under the UNITE database taxonomy thresholds.
-    * `Chytridiomycota` (green): **`26.52%` (`13,895` reads)** — zoosporic aquatic/semi-aquatic fungi.
+    * `Unresolved fungal phylum` (light gray): **`45.24%` (`23,705` reads across 23 OTUs)** — confirmed fungal `ITS` sequences (`ITSx` fungal origin) that cannot be conservatively assigned a named phylum under the UNITE database taxonomy thresholds.
+    * `Chytridiomycota` (green): **`26.52%` (`13,895` reads across 5 OTUs)** — zoosporic aquatic/semi-aquatic fungi.
     * `Outside fungal input` (medium gray): **`22.98%` (`12,040` reads)** — combines the non-fungal/uncertain core (`8,624`), ambiguous (`4`), and unassigned (`3,412`) reads from Panel A (`77.02% + 22.98% = 100%`).
-    * `Ascomycota` (green): **`5.27%` (`2,764` reads)** — filamentous micro-ascomycetes.
+    * `Ascomycota` (green): **`5.27%` (`2,764` reads across 6 OTUs)** — filamentous micro-ascomycetes.
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
   * **Why There Are Two Different Thresholds in Panel A vs. Panel B:** Panel A maps noisy individual Nanopore reads back to our own polished OTU consensus sequences (requiring `≥85%` read identity and `≥90%` aligned length). Panel B compares those polished OTU consensus sequences against the external UNITE reference database to assign taxonomy names (requiring `≥90%` sequence identity, `≥90%` query coverage, and `≥80%` reference coverage).
   * **Chytridiomycota (`26.52%`) in Context:** Over a quarter of preprocessed reads belong to **Chytridiomycota** (led by *Lobulomycetales* `OTU_1` with `9,715` reads and *Spizellomycetaceae* `OTU_7` with `2,982` reads). Because chytrids disperse via motile flagellated zoospores in water films, a high chytrid share is consistent with waterlogged, tidally inundated mangrove sediment where zoosporic fungi colonize submerged plant detritus, algae, pollen, and chitin.
@@ -130,9 +138,26 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
 ---
 
+### Slide 05: [NEW NARRATIVE 1] Thesis Drafting Text: Community Composition, Chytrids & Dark Taxa
+* **Slide Category:** Thesis / Manuscript Drafting Companion (Interleaved after Figure 01)
+* **Header Tag:** `PART 2 · WHO IS IN YOUR SAMPLE? · THESIS & MANUSCRIPT NARRATIVE`
+* **Slide Title:** Thesis Draft: Community Context & Taxonomic Resolution
+* **Subtitle:** Results and Discussion Drafts to Adapt for a Thesis or Manuscript
+* **Visual Wireframe (16:9 Widescreen):**
+  * Two equal-width cards side-by-side with distinct colored header ribbons:
+  * **Left Card (Navy Ribbon):** `RESULTS PARAGRAPH (Objective Sequence Findings)`
+  * **Right Card (Green Ribbon):** `DISCUSSION & ECOLOGICAL INTERPRETATION`
+* **Card 1: Draft Results Text (Copy-Paste Ready):**
+  > "Oxford Nanopore ITS1–ITS4 amplicon sequencing of the *Sonneratia alba* cut rhizosphere root and sediment composite (sample SC) yielded 103,015 raw reads. Primer matching, quality filtering, and trimming retained 52,404 preprocessed reads (Q ≥ 12; trimmed length ≥ 200 bp). De novo clustering with amplicon_sorter resolved 41 supported ITS operational taxonomic units (OTUs), accounting for 48,988 reads (93.48% of preprocessed reads; 0.01% ambiguous; 6.51% unmapped). UNITE all-eukaryote taxonomy together with ITSx origin evidence separated 7 other or uncertain core OTUs (8,624 reads, 16.46%); two of these have full-query nematode matches (688 reads across OTU_15 and OTU_38). The conservative fungal input comprised 34 OTUs and 40,364 reads (77.02% of preprocessed reads). Chytridiomycota was the largest classified fungal phylum (26.52%, 13,895 reads across 5 OTUs), followed by Ascomycota (5.27%, 2,764 reads across 6 OTUs). Another 45.24% of preprocessed reads (23,705 reads across 23 fungal-origin OTUs) lacked a named phylum under the study's conservative UNITE assignment criteria (≥ 90% identity, ≥ 90% query coverage, and ≥ 80% reference coverage)."
+* **Card 2: Draft Discussion Text (Copy-Paste Ready):**
+  > "Chytridiomycota outnumbered Ascomycota by about five to one in sequenced reads. This pattern fits the confirmed intertidal, waterlogged setting: motile chytrid zoospores can exploit water films, and chytrid lineages may colonize submerged detritus, pollen, and chitin. These are ecological interpretations of the sequence profile, not measurements of decomposition or a test of what caused the read ratio. The large unresolved fungal-origin fraction makes this sample especially interesting for tropical mangrove mycology. Some OTUs match environmental fungal references yet lack a named phylum; others do not meet the conservative full-query assignment gates. Database gaps are a plausible contributor, while partial ITSx boundaries and the lack of controls prevent declaring every unresolved sequence a novel lineage or excluding every technical explanation."
+* **Notes Pane Guide:** Draft for adaptation: add literature and dataset citations before reuse outside the presentation deck. The right-hand card is an interpretation of plausible ecological mechanisms, clearly separated from measured sequence counts.
+
+---
+
 ## PART 3: WHAT ARE THEY DOING? (ECOLOGICAL GUILDS & LIFESTYLES)
 
-### Slide 05: Figure 02 — Ecological Annotation Coverage
+### Slide 06: Figure 02 — Ecological Annotation Coverage
 * **Visual Asset:** `figures/02_guild_annotation_coverage.png`
 * **Slide Title:** Figure 02: Ecological Annotation Coverage
 * **Subtitle:** How Much of Your Mangrove Fungal Community Can Literature Databases Currently Explain?
@@ -150,13 +175,13 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
 ---
 
-### Slide 06: Figure 03 — Putative Lifestyles & Ecological Guilds
+### Slide 07: Figure 03 — Putative Lifestyles & Ecological Guilds
 * **Visual Asset:** `figures/03_guild_lifestyle_composition.png`
 * **Slide Title:** Figure 03: Putative Lifestyles & Guild Composition
 * **Subtitle:** Deconstructing FungalTraits Lifestyles, FUNGuild Trophic Modes, and the Role of OTU_9
 * **Visual Elements Guide (On-Slide Callouts):**
   * **All x-axes retain the `52,404`-read denominator** so bar lengths reflect true shares of preprocessed reads.
-  * **The Diagonal Hatching Key:** Hatched segments indicate the contribution of **`OTU_9` (*Gibellulopsis*, `2,101` reads = `4.01%`)**, tracked separately because of an automated `?` reference-chimera flag audited on Slide 08.
+  * **The Diagonal Hatching Key:** Hatched segments indicate the contribution of **`OTU_9` (*Gibellulopsis*, `2,101` reads = `4.01%`)**, tracked separately because of an automated `?` reference-chimera flag audited on Slide 09.
   * **Panel A (FungalTraits Primary Lifestyle):** `plant pathogen` at **`4.01%` (`2,101` reads — 100% hatched, entirely `OTU_9`)** and `soil saprotroph` at **`0.70%` (`365` reads — solid**, contributed by *Wardomycopsis* `OTU_19` [`235`], *Microascus* `OTU_31` [`98`], and *Alloconiothyrium aptrootii* `OTU_41` [`32`]).
   * **Panel B (FungalTraits Secondary Lifestyle):** `litter saprotroph` at **`4.20%` (`2,199` reads** — a small **solid `0.19%` [`98`-read] left segment** from *Microascus* `OTU_31` plus **`4.01%` [`2,101` reads] hatched** from `OTU_9`) and `foliar endophyte` at **`0.45%` (`235` reads — solid**, *Wardomycopsis* `OTU_19`).
   * **Panel C (FUNGuild Combined Guild Labels):** Led by `Plant Pathogen-Undefined Parasite-Undefined Saprotroph` (**`5.69%`, `2,982` reads — solid purple**, family-level match to chytrid *Spizellomycetaceae* `OTU_7`) and `Plant Pathogen` (**`4.01%`, `2,101` reads — 100% hatched**, `OTU_9`), followed by four smaller Ascomycota saprotroph/endophyte/mixed categories (`0.45%`, `0.28%`, `0.19%`, `0.06%`).
@@ -166,7 +191,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
 ---
 
-### Slide 07: Figure 04 — Sensitivity Analysis & Workflow Concordance
+### Slide 08: Figure 04 — Sensitivity Analysis & Workflow Concordance
 * **Visual Asset:** `figures/04_guild_sensitivity.png`
 * **Slide Title:** Figure 04: Sensitivity Analysis & Pipeline Stability
 * **Subtitle:** Testing the Impact of Omitting OTU_9 and Comparing Three Independent Clustering Workflows
@@ -175,18 +200,19 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
   * **Panel B (Alternative Processing Workflows):** Compares annotated read percentages across three independent discovery pipelines run on the same reads: `VSEARCH 90%` (**`4.89%` / `10.76%`**), `VSEARCH 95%` (**`4.87%` / `10.71%`**), and our primary `amplicon_sorter` workflow (**`4.71%` / `10.67%`**).
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
   * **Technical Stability Across Algorithms (Panel B):** Although greedy `VSEARCH` clustering splits noisy ONT reads into more low-support clusters (`72–77` OTUs vs. `41` in `amplicon_sorter`), the resulting guild totals remain virtually unchanged (`~4.7–4.9%` FungalTraits; `~10.7–10.8%` FUNGuild). This confirms that the guild summary is stable across clustering methods within this sample.
-  * **Why `OTU_9` Sensitivity Matters (Panel A):** Because only `4` to `6` OTUs receive database guild assignments, `OTU_9` alone accounts for `85%` of FungalTraits-annotated reads (`2,101 / 2,466`). That makes our next slide—a closer examination of `OTU_9`—important for interpreting the guild charts.
+  * **Why `OTU_9` Sensitivity Matters (Panel A):** Because only `4` to `6` OTUs receive database guild assignments, `OTU_9` alone accounts for `85%` of FungalTraits-annotated reads (`2,101 / 2,466`). That makes our next slide—Slide 09, a closer examination of `OTU_9`—important for interpreting the guild charts.
 
 ---
 
-### Slide 08: SPECIAL SPOTLIGHT — Demystifying OTU_9 (Gibellulopsis)
-* **Visual Asset:** `Report/data/electrophoresis.PNG` (cropped to show Lane 1's multi-band PCR profile including the `~1,100–1,150 bp` upper band, paired with a schematic comparing `OTU_9`'s `520 bp` vs. `1,131 bp` consensuses and UCHIME alignment)
+### Slide 09: SPECIAL SPOTLIGHT — Demystifying OTU_9 (Gibellulopsis)
+* **Visual Asset:** `Report/data/electrophoresis.PNG` (cropped to show Lane 1's multi-band PCR profile including the `~1,100–1,150 bp` upper band, paired with a schematic comparing `OTU_9`'s `520 bp` vs. `1,129/1,131 bp` consensuses and UCHIME alignment)
 * **Slide Title:** Special Spotlight: What Exactly Is OTU_9 (*Gibellulopsis*)?
 * **Subtitle:** Amplicon Structure, Gel Band Size Consistency, Chimera Audit, and Plausible Rhizosphere Ecology
 * **Visual Elements Guide (On-Slide Callouts — Split-Screen Dossier):**
   * **Left Card (Sequence Identity, Intron Structure & Ecology):**
-    * *UNITE Match:* ***Gibellulopsis*** (Ascomycota: *Plectosphaerellaceae*, `2,101` reads = `4.01%` of preprocessed reads), aligning at **`99.55%` identity (`446/448 bp`, 2 SNPs)** to *Gibellulopsis piscis* (`DQ825985`).
-    * *Two Amplicon Lengths (`520 bp` & `1,131 bp`):* `OTU_9` merges an intronless `520 bp` consensus (`00012`) and a `1,131 bp` consensus (`00039`, carrying a ~600 bp `18S SSU` 3' insertion spliced out by `ITSx`) whose extracted `470 bp` `ITS` regions are `98.9%` identical. The `1,131 bp` length (alongside three minor `1,133–1,185 bp` ascomycetes `OTU_19`, `OTU_31`, `OTU_39`) **is consistent with the `~1,100–1,150 bp` upper band visible on the PCR agarose gel** (`Report/data/electrophoresis.PNG`).
+    * *UNITE Match:* ***Gibellulopsis*** (Ascomycota: *Plectosphaerellaceae*, `2,101` reads = `4.01%` of preprocessed reads; genus-level assignment).
+    * *Identity:* Aligns at **`99.55%` identity (`446/448 bp`, 2 SNPs)** to *Gibellulopsis piscis* (`DQ825985`); species is not definitively confirmed.
+    * *Two Amplicon Lengths (`520 bp` & `1,129/1,131 bp`):* `OTU_9` merges an intronless `520 bp` consensus (`00012`) and a `1,129 bp` initial consensus (`00039`, polished to `1,131 bp` by Racon), carrying a `622 bp` `18S SSU` 3' extension identified by `ITSx`. The extracted `470 bp` `ITS` regions are `98.9%` identical. The `~1,130 bp` length **is similar in size to the `~1,100–1,150 bp` upper band visible on the PCR agarose gel** (`Report/data/electrophoresis.PNG`), which does not establish sequence identity.
     * *Literature Guilds:* FungalTraits lists primary `plant_pathogen` and secondary **`litter_saprotroph`**.
   * **Right Card (Why UCHIME-Ref Emitted `?` Instead of `N` or `Y`):**
     * *De Novo Chimera Screen:* Passed (`N`, score `0.0317`).
@@ -198,9 +224,24 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
 ---
 
+### Slide 10: [NEW NARRATIVE 2] Thesis Drafting Text: Ecological Guilds, the OTU_9 Factor & Root Endophytes
+* **Slide Category:** Thesis / Manuscript Drafting Companion (Interleaved after Figures 02–04 & Spotlight)
+* **Header Tag:** `PART 3 · WHAT ARE THEY DOING? · THESIS & MANUSCRIPT NARRATIVE`
+* **Slide Title:** Thesis Draft: Ecological Annotation & *Gibellulopsis* (OTU_9)
+* **Subtitle:** Results and Discussion Drafts to Adapt for a Thesis or Manuscript
+* **Visual Wireframe (16:9 Widescreen):**
+  * Two equal-width cards side-by-side:
+* **Card 1: Draft Results Text (Copy-Paste Ready):**
+  > "Ecological guild annotation of the 34 conservative fungal OTUs using FungalTraits (v1.2) and FUNGuild (v1.1) covered a minority of the community. FungalTraits assigned primary lifestyles to 4 OTUs (11.76% of fungal OTUs), representing 2,466 reads (4.71% of 52,404 preprocessed reads; 6.11% of 40,364 fungal-core reads). FUNGuild assigned probable or highly probable guilds to 6 OTUs (17.65% of fungal OTUs), representing 5,594 reads (10.67% of preprocessed reads; 13.86% of fungal-core reads). Thus 86.14% of fungal-core reads lacked a probable/highly probable FUNGuild label; accepted genus or family placements and database entries were insufficient to annotate most OTUs. FungalTraits primary lifestyles comprised putative plant pathogen (4.01% of preprocessed reads) and soil saprotroph (0.70%) labels. All of its primary plant pathogen reads came from OTU_9 (*Gibellulopsis*, 2,101 reads), which also had a secondary litter saprotroph label. Omitting OTU_9 from the existing annotation summary reduced FungalTraits coverage from 4.71% to 0.70%. Across VSEARCH 90%, VSEARCH 95%, and amplicon_sorter workflow settings, aggregate FungalTraits coverage was similar (4.71%–4.89%)."
+* **Card 2: Draft Discussion Text (Copy-Paste Ready):**
+  > "Low annotation coverage (<14% of fungal-core reads) reflects the limits of matching this sample's taxonomic placements to literature trait databases: FungalTraits uses genus-level matching, while FUNGuild can also match families. OTU_9's closest listed UNITE hit is a *Gibellulopsis piscis* reference at 99.55% identity, but the study assigns the OTU to *Gibellulopsis* rather than confirming a species. In this cut-root and sediment setting, a root-associated endophytic or litter-saprotrophic role is a useful ecological hypothesis; neither the sequence nor its trait labels establish host infection, tissue localization, or a change of lifestyle. The reference-chimera screen marked OTU_9 borderline ('?'), not positive ('Y'). A short 5′ reference relative to the study sequence offers a plausible explanation for the borderline alignment, but does not prove the absence of a mosaic. Showing both its primary plant pathogen and secondary litter saprotroph labels avoids equating one database category with disease in the host."
+* **Notes Pane Guide:** Draft for adaptation: add literature and dataset citations before reuse outside the presentation deck. The right-hand card is an interpretation of plausible ecological mechanisms, clearly separated from measured sequence counts.
+
+---
+
 ## PART 4: WHAT IS THEIR METABOLIC POTENTIAL? (PICRUSt2 FUNCTIONAL PREDICTIONS)
 
-### Slide 09: Figure 05 — PICRUSt2 Diagnostics: Representation & Reference Distance
+### Slide 11: Figure 05 — PICRUSt2 Diagnostics: Representation & Reference Distance
 * **Visual Asset:** `figures/05_picrust2_diagnostics.png`
 * **Slide Title:** Figure 05: Fungal PICRUSt2 Diagnostics & Reference Distance
 * **Subtitle:** Evaluating Read Retention (`54.55%`) and Evolutionary Distance (`Weighted NSTI = 1.047`) Before Interpreting Pathways
@@ -217,7 +258,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
 ---
 
-### Slide 10: Figure 06 — Predicted Enzyme Categories (EC Profile)
+### Slide 12: Figure 06 — Predicted Enzyme Categories (EC Profile)
 * **Visual Asset:** `figures/06_picrust2_ec_profile.png`
 * **Slide Title:** Figure 06: Predicted Enzyme Profiles (840 EC Categories)
 * **Subtitle:** Core Housekeeping Machinery, Database Nomenclature Status, and Detrital Polysaccharide Hydrolases
@@ -231,14 +272,14 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     3. **`EC 1` Oxidoreductases** (`5.42M` units, `208` ECs)
     4. **`EC 6` Ligases** (`3.80M`, `54` ECs), **`EC 5` Isomerases** (`2.62M`, `38` ECs), and **`EC 4` Lyases** (`2.14M`, `74` ECs).
   * **`[Table Callout — From Companion TSV, Not Plotted in PNG]` Ranks 17–23 in `tables/ec_predicted_profiles.tsv`:**
-    * Just below the Top-15 plot cutoff, the full 840-EC table includes conserved fungal enzymes involved in cell-wall and detrital processing: **Chitin synthase (`EC:2.4.1.16`, Rank 17)**, **Glutathione transferase (`EC:2.5.1.18`, Rank 18)**, **L-arabinose isomerase (`EC:5.3.1.4`, Rank 19)**, and **Chitinase (`EC:3.2.1.14`, Rank 23)**.
+    * Just below the Top-15 plot cutoff, the full 840-EC table includes conserved fungal enzymes involved in cell-wall and detrital processing: **Chitin synthase (`EC:2.4.1.16`, Rank 17)**, **Glutathione transferase (`EC:2.5.1.18`, Rank 18)**, **L-arabinose isomerase (`EC:5.3.1.4`, Rank 19)**, and **Chitinase (`EC:3.2.1.14`, Rank 23)**. Note: L-arabinose isomerase belongs to EC 5 Isomerases, not the hydrolase group.
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
   * **Interpreting Predicted Enzymes:** The dominance of ATPases, polymerases, chaperones, and proteasome/phosphatase enzymes in Panel A reflects universal eukaryotic housekeeping genes present in every sequenced fungal reference genome.
   * **Polysaccharide & Chitin Turnover Potential:** The presence of *Glucan 1,4-alpha-glucosidase* (`EC:3.2.1.3`, Rank 6 on the chart) and lower-rank *L-arabinose isomerase* (`EC:5.3.1.4`) and *Chitinase* (`EC:3.2.1.14`) in the companion table reflects conserved fungal capacities for breaking down starch/glucans, plant hemicellulose pentoses, and fungal/arthropod chitin—functions plausibly relevant to saprotrophic turnover in litter-bearing mangrove sediment.
 
 ---
 
-### Slide 11: Figure 07 — Predicted MetaCyc Metabolic Pathways
+### Slide 13: Figure 07 — Predicted MetaCyc Metabolic Pathways
 * **Visual Asset:** `figures/07_picrust2_pathway_profile.png`
 * **Slide Title:** Figure 07: Predicted MetaCyc Metabolic Pathway Profile
 * **Subtitle:** Top 20 of 67 Reconstructed Fungal Pathways: Core Eukaryotic Bioenergetics & Conserved Fungal Metabolism
@@ -252,12 +293,12 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     * *Ranks 16–20 (Nucleoside Salvage & Branched-Chain Fermentation):* Pyrimidine/guanosine salvage and degradation (`PWY-7196`, `PWY-6606`, `PWY-7208`, `PWY-7221`) plus **`pyruvate fermentation to isobutanol (engineered) (PWY-7111)` at Rank 18**.
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
   * **How Conserved Pathways Relate to Sediment & Rhizosphere Life (Ranks 13–15):** GDP-mannose biosynthesis (`PWY-5659`) supplies precursors for cell-wall mannoproteins; inositol trisphosphate biosynthesis (`PWY-6351`) supports eukaryotic membrane/stress signaling; and the glyoxylate cycle (`GLYOXYLATE-BYPASS`, paired with Rank 3 fatty-acid beta-oxidation) allows fungi to assimilate 2-carbon compounds (such as acetate and fatty acids) without losing carbon as CO₂.
-  * **Crucial Caveat Against Over-Claiming:** As shown on Slide 12, `81.5%–87.1%` of the predicted abundance of `GLYOXYLATE-BYPASS`, `PWY-5659`, and `PWY-6351` is projected from a single terrestrial soil chytrid reference genome (*Spizellomyces punctatus* `Spipu1`). Therefore, these pathways represent **universal core fungal metabolic machinery** that is plausibly useful in organic-rich intertidal sediment—**not** habitat-specific marine halotolerance genes discovered in *Sonneratia alba* strains.
+  * **Crucial Caveat Against Over-Claiming:** As detailed on Slide 14, `84%–93%` of the top-12 pathways and over `81%–87%` of ranks 13–15 project from taxa whose closest sequenced genome is the terrestrial soil chytrid *Spizellomyces punctatus* (`Spipu1`). Therefore, these pathways represent **universal core fungal metabolic machinery** that is plausibly useful in organic-rich intertidal sediment—**not** habitat-specific marine halotolerance genes discovered in *Sonneratia alba* strains.
   * **Why Does Rank 18 Say `(engineered)` (`PWY-7111`)?** MetaCyc names pathway entries after the experimental organism or engineered system in which the complete pathway record was curated. Wild fungi naturally possess the component enzymes (involved in valine/isoleucine biosynthesis and Ehrlich fusel-alcohol metabolism, particularly in *Gibellulopsis* reference relative `Veral1`), so PICRUSt2 scores the shared enzyme reactions—it does **not** indicate engineered organisms in the sample.
 
 ---
 
-### Slide 12: Figure 08 — Deconvoluting Pathways: Which Fungi Drive Predictions?
+### Slide 14: Figure 08 — Deconvoluting Pathways: Which Fungi Drive Predictions?
 * **Visual Asset:** `figures/08_picrust2_otu_contributions.png`
 * **Slide Title:** Figure 08: Deconvoluting Pathways: Which OTUs Drive the Predictions?
 * **Subtitle:** Stratified Heatmap of the Top 12 MetaCyc Pathways Across All 27 Retained Fungal OTUs
@@ -272,45 +313,113 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
   * **`[Table Callout — From Companion TSV, Not Plotted in PNG]` Reference Genomes & NSTI (`tables/marker_predicted_and_nsti.tsv` & `tables/otu_annotation_and_nsti.tsv`):**
     * **Predicted `ITS` copy number = `1`** for all `29` placed OTUs (draft fungal genome assemblies collapse repetitive rDNA arrays, so copy-normalized abundance order equals raw read count order).
     * **14 of the 27 retained OTUs (`24,696 / 28,587` reads = `86.4%` of predicted reads—including `OTU_1` [`NSTI = 1.38`], `OTU_4` [`0.83`], `OTU_6` [`1.11`], and `OTU_7` [`0.91`]) share the exact same closest sequenced reference genome: *Spizellomyces punctatus* (`Spipu1`)!**
+    * Across the Top 12 pathways in `tables/top_pathways_otu_contribution_percent.tsv`, these Spipu1-associated OTUs supply **`84.29%` to `93.33%`** of each predicted pathway.
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
   * **Why Columns 1–4 Look Like Uniform Vertical Stripes (`34, 16, 11, 11`):** Because `OTU_1`, `OTU_4`, `OTU_6`, and `OTU_7` all inherit their predicted enzyme counts primarily from the same nearest chytrid reference genome (`Spipu1`) with `ITS_count = 1`, their relative contributions to nearly every housekeeping pathway simply mirror their share of total predicted reads (`34.0%`, `16.3%`, `11.1%`, and `10.4%`, summing to `71.8%`).
   * This directly explains the footnote printed at the bottom of Figure 08: *"Contribution similarity can reflect shared reference predictions and organism abundance; it does not demonstrate metabolic interactions."* Note also that placement near `Spipu1` for `OTU_4` and `OTU_6` only identifies the closest genome on PICRUSt2's sparse fungal tree (`NSTI = 0.83–1.11`), not a confirmed taxonomic phylum assignment.
 
 ---
 
+### Slide 15: [NEW NARRATIVE 3] Thesis Drafting Text: Predicted Functional Repertoire & Reference Limits
+* **Slide Category:** Thesis / Manuscript Drafting Companion (Interleaved after Figures 05–08)
+* **Header Tag:** `PART 4 · METABOLIC POTENTIAL · THESIS & MANUSCRIPT NARRATIVE`
+* **Slide Title:** Thesis Draft: PICRUSt2 Diagnostics & Predicted Functions
+* **Subtitle:** Results and Discussion Drafts to Adapt for a Thesis or Manuscript
+* **Visual Wireframe (16:9 Widescreen):**
+  * Two equal-width cards side-by-side:
+* **Card 1: Draft Results Text (Copy-Paste Ready):**
+  > "Exploratory fungal PICRUSt2 profiling placed 29 of 34 fungal OTUs on the reference tree (56.16% of preprocessed reads); five OTUs, including the unresolved OTU_2/OTU_5 complex, failed alignment. The default nearest sequenced taxon index cutoff (NSTI ≤ 2.0) retained 27 OTUs representing 28,587 reads (54.55% of preprocessed reads; 27.75% of raw reads). Their abundance-weighted NSTI was 1.047 (median eligible OTU NSTI = 0.913). The pipeline reported 840 predicted enzyme categories (ECs) and 67 predicted MetaCyc pathways. Broad predicted EC totals were led by EC 3 Hydrolases (14.48 million model units; 238 ECs), EC 2 Transferases (10.32 million), and EC 1 Oxidoreductases (5.42 million). The leading EC predictions included ATPases and polymerases; leading pathways included TCA cycle II and peroxisomal fatty-acid β-oxidation. Pathway ranks 13–15 were GDP-mannose biosynthesis (PWY-5659), D-myo-inositol trisphosphate biosynthesis (PWY-6351), and the glyoxylate cycle (GLYOXYLATE-BYPASS). Fourteen of the 27 retained OTUs, representing 24,696 of 28,587 predicted-input reads (86.4%), had *Spizellomyces punctatus* (Spipu1) as their closest sequenced reference genome."
+* **Card 2: Draft Discussion Text (Copy-Paste Ready):**
+  > "The weighted NSTI of 1.047 and concentrated nearest-reference assignments show how far this sample sits from the fungal genome references. PICRUSt2 infers traits across a reference tree; the 86.4% figure identifies a nearest-genome concentration, not a literal transfer of pathways from Spipu1. Predicted glucan 1,4-α-glucosidase (EC:3.2.1.3, rank 6) and chitinase (EC:3.2.1.14, rank 23) give a plausible detrital-processing hypothesis in mangrove sediment. Predicted L-arabinose isomerase (EC:5.3.1.4, rank 19) belongs to sugar isomerization, not the hydrolase group. The glyoxylate cycle and fatty-acid β-oxidation suggest possible carbon-use routes, but do not establish activity, hypoxic survival, or marine adaptation. Given the developers' caution about fungal predictive accuracy, these profiles should guide targeted experiments rather than serve as evidence of measured gene content, expression, or enzyme activity."
+* **Notes Pane Guide:** Draft for adaptation: add literature and dataset citations before reuse outside the presentation deck. The right-hand card is an interpretation of plausible ecological mechanisms, clearly separated from measured sequence counts.
+
+---
+
 ## PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 
-### Slide 13: The Sonneratia alba Rhizosphere Synthesis: Putting the Pieces Together
+### Slide 16: The Sonneratia alba Rhizosphere Synthesis: Putting the Pieces Together
 * **Slide Title:** Ecological Synthesis: Interpreting Sample SC in a *Sonneratia alba* Context
 * **Subtitle:** Connecting Sequence Observations to Plausible Roles in Cut Rhizosphere Roots and Intertidal Sediment
 * **Visual Wireframe:**
   * 3 thematic summary pillars separating **Observed Sequence Evidence** from **Plausible Ecological Interpretation** in this single-sample dataset:
 * **Pillar 1: Abundant Zoosporic Chytrids & Unresolved Fungal Lineages**
-  * *Observed in Sample SC:* **Chytridiomycota (`26.52%`, `13,895` reads)** outnumber Ascomycota (**`5.27%`, `2,764` reads**) by 5-to-1, alongside **`45.24%` (`23,705` reads)** unresolved-phylum fungal reads and **`16.46%` (`8,624` reads)** non-fungal/uncertain eukaryotic amplicons (including rhizosphere nematodes).
+  * *Observed in Sample SC:* **Chytridiomycota (`26.52%`, `13,895` reads across 5 OTUs)** outnumber Ascomycota (**`5.27%`, `2,764` reads across 6 OTUs**) by ~5-to-1, alongside **`45.24%` (`23,705` reads across 23 OTUs)** unresolved-phylum fungal reads and **`16.46%` (`8,624` reads)** non-fungal/uncertain eukaryotic amplicons (including rhizosphere nematodes).
   * *Plausible Ecological Context:* The high proportion of zoosporic chytrids (*Lobulomycetales* `OTU_1`, *Spizellomycetaceae* `OTU_7`) is consistent with waterlogged, tidally inundated *Sonneratia alba* mud, where flagellated fungi colonize submerged particulate detritus, algae, pollen, and chitin while remaining underrepresented at genus rank in reference databases.
 * **Pillar 2: Root- and Litter-Associated Ascomycetes**
-  * *Observed in Sample SC:* Detection of ***Gibellulopsis* (`OTU_9`, `4.01%`, whose `1,131 bp` intron-bearing consensus matches the size of the `~1,100–1,150 bp` upper band on the PCR gel)** alongside minor saprotrophs/endophytes (*Wardomycopsis* `OTU_19`, *Microascus* `OTU_31`, *Alloconiothyrium aptrootii* `OTU_41`, *Herpotrichiellaceae* `OTU_23`).
+  * *Observed in Sample SC:* Detection of ***Gibellulopsis* (`OTU_9`, `4.01%`, whose longer `1,129/1,131 bp` consensus is similar in size to the `~1,100–1,150 bp` upper band on the PCR gel)** alongside minor saprotrophs/endophytes (*Wardomycopsis* `OTU_19`, *Microascus* `OTU_31`, *Alloconiothyrium aptrootii* `OTU_41`, *Herpotrichiellaceae* `OTU_23`).
   * *Plausible Ecological Context:* While database lookup assigns *Gibellulopsis* a primary `plant_pathogen` label from crop literature, its secondary `litter_saprotroph` annotation is equally consistent with an asymptomatic root-associated endophyte or saprotroph in cut rhizosphere roots and litter-containing sediment.
 * **Pillar 3: Conserved Core Fungal Metabolism (`Weighted NSTI = 1.047`)**
   * *Observed in PICRUSt2 Output:* `840` predicted ECs (led by `EC 3` Hydrolases, including Rank 6 glucanase `EC:3.2.1.3` and lower-rank chitinase/cell-wall/antioxidant enzymes) and `67` MetaCyc pathways (aerobic respiration, fatty-acid beta-oxidation, glyoxylate cycle, GDP-mannose, and inositol signaling) across `54.55%` of preprocessed reads.
-  * *Plausible Ecological Context:* Projected largely (`86.4%`) from terrestrial chytrid reference *Spizellomyces punctatus* (`Spipu1`), these predictions reflect conserved baseline fungal pathways for C2 lipid/acetate assimilation and polysaccharide/chitin breakdown rather than direct detections of marine-specific adaptation genes.
+  * *Plausible Ecological Context:* Projected largely (`86.4%`) from nearest reference genome *Spizellomyces punctatus* (`Spipu1`), these predictions reflect conserved baseline fungal pathways for C2 lipid/acetate assimilation and polysaccharide/chitin breakdown rather than direct detections of marine-specific adaptation genes.
 
 ---
 
-### Slide 14: Practical Takeaways & Exciting Directions for Future Research
+### Slide 17: Practical Takeaways & Exciting Directions for Future Research
 * **Slide Title:** Key Takeaways and Next Steps for Your Research Project
 * **Subtitle:** What You Can Conclude Confidently Today — and How to Build on This Single-Sample Baseline
 * **Visual Wireframe:**
   * Two-column split: "Conclusions Directly Supported by This Dataset" vs. "Recommended Next Steps":
 * **Left Column: What You Can Conclude Confidently**
-  1. *Full-Length ONT Consensus Recovery:* Rebuilding consensus OTUs from primer-verified `Q≥12` reads retained `13,021` long reads `>900 bp` (consistent with the `~1,100–1,150 bp` upper band on the PCR gel), separated `7` co-amplified non-fungal/uncertain OTUs (including rhizosphere nematodes), and defined `34` conservative fungal OTUs (`40,364` reads).
-  2. *Chytrid & Unresolved-Lineage Dominance:* In this composite cut-root and sediment sample, Chytridiomycota (`26.52%`) and unresolved-phylum fungi (`45.24%`) account for the vast majority of fungal reads, while Ascomycota account for `5.27%`.
-  3. *Transparent Guild Coverage & `OTU_9` Verification:* Existing trait databases annotate `4.71%` (FungalTraits) and `10.67%` (FUNGuild) of preprocessed reads (`6.1%` and `13.9%` of fungal reads). Sequence alignment confirms `OTU_9` (*Gibellulopsis*, `99.55%` match to *G. piscis*) is non-chimeric (`?` caused by reference 5' truncation) and drives `100%` of the single-guild `plant pathogen` bar while also carrying a secondary `litter_saprotroph` annotation.
-  4. *Exploratory Functional Supplement:* PICRUSt2 predictions (`27` OTUs, `54.55%` of preprocessed reads, `Weighted NSTI = 1.047`, `86.4%` mapped to reference `Spipu1`) provide hypothesis-generating profiles of conserved fungal hydrolases and core metabolic pathways, not direct measurements of in situ gene expression or marine adaptation.
+  1. *Full-Length ONT Consensus Recovery:* Rebuilding consensus OTUs from primer-verified `Q≥12` reads retained `13,021` long reads `>900 bp` (similar in size to the `~1,100–1,150 bp` upper band on the PCR gel), separated `7` co-amplified non-fungal/uncertain OTUs (including rhizosphere nematodes), and defined `34` conservative fungal OTUs (`40,364` reads).
+  2. *Chytrid & Unresolved-Lineage Dominance:* In this composite cut-root and sediment sample, Chytridiomycota (`26.52%`, 5 OTUs) and unresolved-phylum fungi (`45.24%`, 23 OTUs) account for the vast majority of fungal reads, while Ascomycota account for `5.27%` (6 OTUs).
+  3. *Transparent Guild Coverage & `OTU_9` Verification:* Existing trait databases annotate `4.71%` (FungalTraits) and `10.67%` (FUNGuild) of preprocessed reads (`6.1%` and `13.9%` of fungal reads). Sequence alignment confirms `OTU_9` (*Gibellulopsis*, `99.55%` match to *G. piscis*) retains a borderline `?` chimera flag caused by reference 5' truncation and drives `100%` of the single-guild `plant pathogen` bar while also carrying a secondary `litter_saprotroph` annotation.
+  4. *Exploratory Functional Supplement:* PICRUSt2 predictions (`27` OTUs, `54.55%` of preprocessed reads, `Weighted NSTI = 1.047`, `86.4%` mapped to nearest reference `Spipu1`) provide hypothesis-generating profiles of conserved fungal hydrolases and core metabolic pathways, not direct measurements of in situ gene expression or marine adaptation.
 * **Right Column: Recommended Future Work**
   1. *Biological Replication, Controls & Compartment Separation:* Collect multi-tree replicates (`n ≥ 3–5` per site/zone) alongside DNA extraction and PCR negative controls, separating **washed surface-sterilized roots**, **rhizosphere mud**, and **bulk sediment** to test which taxa are true root endophytes versus sediment dwellers.
-  2. *Targeted Culturing & Gel-Band / Salinity Assays:* Isolate root-associated ascomycetes and bait zoosporic chytrids across estuarine NaCl gradients (or excise and sequence the `~1,130 bp` gel band directly) to experimentally verify salinity tolerance and intron structure.
+  2. *Targeted Culturing & Gel-Band / Salinity Assays:* Isolate root-associated ascomycetes, bait zoosporic chytrids across estuarine NaCl gradients, and repeat the PCR to sequence the longer amplicon directly to test amplicon structure.
   3. *Shotgun Metagenomics or Metatranscriptomics (RNA-Seq):* Because fungal ITS PICRUSt2 relies on sparse reference genomes, direct shotgun metagenomics or RNA-Seq is the definitive way to measure true mangrove-adapted functional genes and active transcription in situ.
 
 ---
-*Explainer layout document compiled for Ana Mariatul's ONT ITS Reanalysis (`SC` / `barcode13`). All counts, percentages, rankings, and visual descriptions reconciled against `12_visualizations_2026-10-30` PNG renders, source TSVs, and `10_picrust2` placement tables.*
+
+## PART 6: ACTION AT THE BENCH & THE THESIS DEFENSE
+
+### Slide 18: [NEW PROTOCOL] Experimental Validation Blueprint: Bench Action
+* **Slide Category:** Laboratory Action & Bench Protocols (Following Takeaways)
+* **Header Tag:** `PART 6 · ACTION & DEFENSE · EXPERIMENTAL BLUEPRINT`
+* **Slide Title:** Experimental Validation Blueprint
+* **Subtitle:** Proposed Follow-ups for Amplicon Structure, Root Associates, and Salinity Responses
+* **Visual Wireframe (16:9 Widescreen):**
+  * 3 vertical protocol cards across the slide canvas:
+* **Card 1: Testing the Longer `OTU_9`-Associated Amplicon:**
+  * *Objective:* Determine whether the stored `1,129 bp` consensus `00039` contains an insertion relative to the `520 bp` consensus `00012`, and establish its identity and location. A Group I intron is a testable possibility, not a confirmed structure.
+  * *Proposed experiment:*
+    1. Repeat ITS1/ITS4 PCR from available source material with a negative PCR control; run a fresh gel and record the band pattern. The photographed historical gel cannot itself be excised.
+    2. Excise and purify the appropriate fresh band; obtain overlapping bidirectional sequence coverage of the entire product, adding internal sequencing primers if needed.
+    3. Align the assembled product to `00039`, `00012`, and reference sequences; document insertion boundaries and sequence evidence before assigning an intron type. Gel-band size alone does not establish OTU identity.
+* **Card 2: Testing Putative *Sonneratia alba* Root Associates:**
+  * *Objective:* Test whether culturable *Gibellulopsis* (`OTU_9`) or *Wardomycopsis* (`OTU_19`) can be recovered from root tissue rather than adhering sediment.
+  * *Proposed experiment:*
+    1. Collect replicate root and adjacent sediment samples separately, with collection and processing controls.
+    2. Wash roots and apply a root-tissue surface-sterilization procedure validated by the local lab; include a final-rinse or tissue-imprint control to check surface carryover.
+    3. Culture root sections on appropriate medium with lab-approved antibacterial supplementation, identify isolates by ITS sequencing, and compare their sequences with the target OTUs. Culture recovery alone does not prove an in-plant lifestyle.
+* **Card 3: Sediment Chytrid Baiting & Salinity Assays:**
+  * *Objective:* Recover zoosporic fungi and test isolate growth across a defined salt gradient.
+  * *Proposed experiment:*
+    1. Bait replicate fresh sediment subsamples in defined brackish medium with pollen or chitin substrates; include uninoculated and substrate controls, then document sporangia and sequence any recovered isolates.
+    2. Compare replicate isolates on a constant base medium with 0%, 2%, 4%, and 6% added NaCl, recording total medium salinity and growth endpoints. These percentages describe added NaCl, not automatically total salinity or an in situ tolerance limit.
+  * *Protocol status:* These are study-design starting points. Select exact sterilization, medium, incubation, and control conditions from a cited method and the local laboratory SOP before bench work.
+
+---
+
+### Slide 19: [NEW DEFENSE] Thesis Defense Cheat Sheet: Committee Inquiries
+* **Slide Category:** Scientific Defense & Committee Preparation (Final Slide)
+* **Header Tag:** `PART 6 · ACTION & DEFENSE · THESIS DEFENSE CHEAT SHEET`
+* **Slide Title:** Thesis Defense Cheat Sheet: Navigating Tough Committee Questions
+* **Subtitle:** Evidence-Based Answers to Four Likely Examiner Questions
+* **Visual Wireframe (16:9 Widescreen):**
+  * 4 horizontal Q&A blocks pairing the **Likely Concern** with an **Evidence-Based Response** and its limit:
+* **Box 1: "Your sample is unreplicated (n = 1). How can you draw scientific conclusions?"**
+  * *Likely Concern:* Claiming regional generalizability or seasonal stability.
+  * *Evidence-Based Response:* *"SC describes one confirmed cut-root and sediment sample under defined processing gates. We make no site-wide or seasonal claim. A read-ID train/held-out split gave 93.18% unique assignment of held-out reads, and VSEARCH at two thresholds plus amplicon_sorter gave similar aggregate guild-annotation coverage. These checks show technical consistency within this sample; biological replication remains future work."*
+* **Box 2: "Why is your ecological guild coverage below 11% of preprocessed reads?"**
+  * *Likely Concern:* Treating unannotated reads as lacking ecological roles.
+  * *Evidence-Based Response:* *"FungalTraits annotated 4.71% and probable/highly probable FUNGuild annotated 10.67% of all 52,404 preprocessed reads, or 6.11% and 13.86% of fungal-core reads. Chytridiomycota plus unresolved-phylum fungi account for 71.75% of preprocessed reads (93.15% of fungal-core reads). Many OTUs lack an accepted genus or family match in the trait tables; unresolved classification does not mean they are functionless or necessarily uncultured. We retain conservative assignment gates rather than inflate coverage."*
+* **Box 3: "FUNGuild shows 4% Plant Pathogens. Is the mangrove tree dying or diseased?"**
+  * *Likely Concern:* Diagnosing disease from a trait label.
+  * *Evidence-Based Response:* *"The sequence data cannot diagnose disease in the host. OTU_9 (*Gibellulopsis*) supplies all of the FungalTraits primary plant-pathogen reads and the exact single-label FUNGuild 'Plant Pathogen' bar; OTU_7 and OTU_31 have separate combined FUNGuild labels that also include plant pathogen. OTU_9's secondary litter-saprotroph label and this root/sediment setting make alternative ecological roles plausible, but host symptoms and root localization were not measured."*
+* **Box 4: "PICRUSt2 was designed for bacterial 16S. Can you trust it for fungal ITS?"**
+  * *Likely Concern:* Treating inferred pathways as verified fungal activity.
+  * *Evidence-Based Response:* *"We used the fungal ITS reference and present PICRUSt2 only as an exploratory supplement. Weighted NSTI is 1.047, and 14 of 27 retained OTUs representing 86.4% of predicted-input reads have Spipu1 as their nearest sequenced reference. PICRUSt2 infers functions across the tree rather than copying that one genome. Its developers caution that fungal predictions have limited accuracy. These pathways motivate experiments; they are not direct measurements of genes, transcription, or enzyme activity."*
+
+---
+*Explainer layout document compiled for Ana Mariatul's ONT ITS Reanalysis (`SC` / `barcode13`). Reconciled against `AnaMariatul-SC-PICRUSt2-FUNGuild-Explainer-ver2.pptx`, `12_visualizations_2026-10-30` PNG renders, source TSVs, and `10_picrust2` placement tables.*
