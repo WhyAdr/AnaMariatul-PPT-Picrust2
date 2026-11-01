@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1080pt" height="828pt" viewBox="0 0 1080 828" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T17:01:29.288617</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 828 
+L 1080 828 
+L 1080 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 207.3525 608.031406 
+L 674.536071 608.031406 
+L 674.536071 149.44 
+L 207.3525 149.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 207.3525 170.285064 
+L 652.289235 170.285064 
+L 652.289235 192.820268 
+L 207.3525 192.820268 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 207.3525 198.454069 
+L 508.025572 198.454069 
+L 508.025572 220.989273 
+L 207.3525 220.989273 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #a7afb5"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 207.3525 226.623075 
+L 485.884054 226.623075 
+L 485.884054 249.158279 
+L 207.3525 249.158279 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 207.3525 254.79208 
+L 469.47099 254.79208 
+L 469.47099 277.327284 
+L 207.3525 277.327284 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 207.3525 282.961085 
+L 441.179743 282.961085 
+L 441.179743 305.496289 
+L 207.3525 305.496289 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 207.3525 311.13009 
+L 437.187214 311.13009 
+L 437.187214 333.665295 
+L 207.3525 333.665295 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 207.3525 339.299096 
+L 394.269651 339.299096 
+L 394.269651 361.8343 
+L 207.3525 361.8343 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 207.3525 367.468101 
+L 388.584296 367.468101 
+L 388.584296 390.003305 
+L 207.3525 390.003305 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 207.3525 395.637106 
+L 384.006565 395.637106 
+L 384.006565 418.172311 
+L 207.3525 418.172311 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #a7afb5"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 207.3525 423.806112 
+L 377.591265 423.806112 
+L 377.591265 446.341316 
+L 207.3525 446.341316 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 207.3525 451.975117 
+L 364.782339 451.975117 
+L 364.782339 474.510321 
+L 207.3525 474.510321 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 207.3525 480.144122 
+L 357.899923 480.144122 
+L 357.899923 502.679326 
+L 207.3525 502.679326 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 207.3525 508.313127 
+L 343.636586 508.313127 
+L 343.636586 530.848332 
+L 207.3525 530.848332 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 207.3525 536.482133 
+L 318.31694 536.482133 
+L 318.31694 559.017337 
+L 207.3525 559.017337 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #a7afb5"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 207.3525 564.651138 
+L 308.592719 564.651138 
+L 308.592719 587.186342 
+L 207.3525 587.186342 
+z
+" clip-path="url(#pde56252ab7)" style="fill: #a7afb5"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m3a6c8b3d26" d="M 0 0 
+L 0 3.5 
+" style="stroke: #23313a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="207.3525" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="207.3525" y="622.629062" transform="rotate(-0 207.3525 622.629062)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="269.63455" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="269.63455" y="622.629062" transform="rotate(-0 269.63455 622.629062)">0.25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="331.916599" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="331.916599" y="622.629062" transform="rotate(-0 331.916599 622.629062)">0.50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="394.198649" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="394.198649" y="622.629062" transform="rotate(-0 394.198649 622.629062)">0.75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="456.480699" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="456.480699" y="622.629062" transform="rotate(-0 456.480699 622.629062)">1.00</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="518.762748" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="518.762748" y="622.629062" transform="rotate(-0 518.762748 622.629062)">1.25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="581.044798" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="581.044798" y="622.629062" transform="rotate(-0 581.044798 622.629062)">1.50</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="643.326848" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="643.326848" y="622.629062" transform="rotate(-0 643.326848 622.629062)">1.75</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="440.944286" y="636.629844" transform="rotate(-0 440.944286 636.629844)">Predicted abundance (million model units)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m48f22782d9" d="M 0 0 
+L -3.5 0 
+" style="stroke: #23313a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="181.552666" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(85.9175 180.021523)">Adenosinetriphosphatase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 190.823281)">EC:3.6.1.3</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="209.721671" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(20.114844 202.78965)">Transferred entry 2.3.2.23, 2.3.2.27 and</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(163.140313 213.591408)">6.2.1.45</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 224.393165)">EC:6.3.2.19</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="237.890677" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(62.845156 236.359534)">DNA-directed RNA polymerase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 247.161292)">EC:2.7.7.6</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="266.059682" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(90.074375 264.528539)">Peptidylprolyl isomerase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 275.330297)">EC:5.2.1.8</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="294.228687" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(62.16875 292.697545)">DNA-directed DNA polymerase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 303.499302)">EC:2.7.7.7</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="322.397693" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(67.374688 320.86655)">Glucan 1,4-alpha-glucosidase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 331.668308)">EC:3.2.1.3</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="350.566698" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(30.958438 349.035555)">Protein-serine/threonine phosphatase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 359.837313)">EC:3.1.3.16</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="378.735703" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(36.219219 377.204561)">Proteasome endopeptidase complex</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 388.006318)">EC:3.4.25.1</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="406.904708" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(35.111094 405.373566)">H(+)-transporting two-sector ATPase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 416.175324)">EC:3.6.3.14</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="435.073714" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(27.094063 428.141692)">1-alkyl-2-acetylglycerophosphocholine</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(161.61875 438.94345)">esterase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 449.745208)">EC:3.1.1.47</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="463.242719" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(113.339375 461.711576)">Exo-alpha-sialidase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 472.513334)">EC:3.2.1.18</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="491.411724" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(97.548594 489.880582)">2.7.11.30 and 2.7.12.1</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 500.68234)">EC:2.7.1.37</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="519.58073" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(84.618125 518.049587)">Histone acetyltransferase</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 528.851345)">EC:2.3.1.48</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="547.749735" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(138.41 546.218592)">Deleted entry</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(148.137031 557.02035)">EC:3.1.2.15</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m48f22782d9" x="207.3525" y="575.91874" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(88.566875 574.387598)">Transferred entry 5.6.1.8</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(153.863281 585.189355)">EC:3.6.4.1</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_18">
+    <path d="M 207.3525 608.031406 
+L 207.3525 149.44 
+" style="fill: none; stroke: #66727a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 207.3525 608.031406 
+L 674.536071 608.031406 
+" style="fill: none; stroke: #66727a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="440.944286" y="143.44" transform="rotate(-0 440.944286 143.44)">A  Top 15 predicted EC categories</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_20">
+    <path d="M 803.453571 608.031406 
+L 1063 608.031406 
+L 1063 149.44 
+L 803.453571 149.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 803.453571 170.285064 
+L 1050.640646 170.285064 
+L 1050.640646 227.788689 
+L 803.453571 227.788689 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 803.453571 242.164595 
+L 979.529995 242.164595 
+L 979.529995 299.668219 
+L 803.453571 299.668219 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 803.453571 314.044125 
+L 896.012958 314.044125 
+L 896.012958 371.54775 
+L 803.453571 371.54775 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 803.453571 385.923656 
+L 868.230425 385.923656 
+L 868.230425 443.427281 
+L 803.453571 443.427281 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 803.453571 457.803187 
+L 848.120424 457.803187 
+L 848.120424 515.306812 
+L 803.453571 515.306812 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 803.453571 529.682718 
+L 839.945526 529.682718 
+L 839.945526 587.186342 
+L 803.453571 587.186342 
+z
+" clip-path="url(#pee518eea75)" style="fill: #216b91"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="803.453571" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="803.453571" y="622.629062" transform="rotate(-0 803.453571 622.629062)">0</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="837.589753" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="837.589753" y="622.629062" transform="rotate(-0 837.589753 622.629062)">2</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="871.725935" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="871.725935" y="622.629062" transform="rotate(-0 871.725935 622.629062)">4</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="905.862117" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="905.862117" y="622.629062" transform="rotate(-0 905.862117 622.629062)">6</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="939.998299" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="939.998299" y="622.629062" transform="rotate(-0 939.998299 622.629062)">8</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="974.134482" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="974.134482" y="622.629062" transform="rotate(-0 974.134482 622.629062)">10</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="1008.270664" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="1008.270664" y="622.629062" transform="rotate(-0 1008.270664 622.629062)">12</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m3a6c8b3d26" x="1042.406846" y="608.031406" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="1042.406846" y="622.629062" transform="rotate(-0 1042.406846 622.629062)">14</text>
+     </g>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(856.186161 637.63082)">Summed predicted abundance</text>
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #23313a" transform="translate(881.631473 649.633555)">(million model units)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_16">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="199.036876" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="202.456173" transform="rotate(-0 796.453571 202.456173)">EC 3  Hydrolases</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="270.916407" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="274.335704" transform="rotate(-0 796.453571 274.335704)">EC 2  Transferases</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="342.795938" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="346.215235" transform="rotate(-0 796.453571 346.215235)">EC 1  Oxidoreductases</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="414.675469" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="418.094765" transform="rotate(-0 796.453571 418.094765)">EC 6  Ligases</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="486.554999" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="489.973945" transform="rotate(-0 796.453571 489.973945)">EC 5  Isomerases</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m48f22782d9" x="803.453571" y="558.43453" style="fill: #23313a; stroke: #23313a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #23313a" x="796.453571" y="561.853475" transform="rotate(-0 796.453571 561.853475)">EC 4  Lyases</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_27">
+    <path d="M 803.453571 608.031406 
+L 803.453571 149.44 
+" style="fill: none; stroke: #66727a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 803.453571 608.031406 
+L 1063 608.031406 
+" style="fill: none; stroke: #66727a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23313a" x="933.226786" y="143.44" transform="rotate(-0 933.226786 143.44)">B  Broad EC classes</text>
+   </g>
+  </g>
+  <g id="text_42">
+   <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23313a" x="21.6" y="17.131719" transform="rotate(-0 21.6 17.131719)">SC | Predicted enzyme categories</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23313a" x="21.6" y="53.182188" transform="rotate(-0 21.6 53.182188)">27 retained OTUs | 840 EC categories; 60 transferred/deleted IDs flagged | weighted NSTI 1.047.</text>
+  </g>
+  <g id="text_44">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #45545e" x="21.6" y="811.054008" transform="rotate(-0 21.6 811.054008)">Predictions cover 54.55% of preprocessed reads and use distant fungal references. Labels describe reaction categories, not local activity.</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_29">
+    <path d="M 335.425078 763.917891 
+L 353.425078 763.917891 
+L 353.425078 757.617891 
+L 335.425078 757.617891 
+z
+" style="fill: #216b91"/>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23313a" x="360.625078" y="763.917891" transform="rotate(-0 360.625078 763.917891)">Named EC entry in bundled map</text>
+   </g>
+   <g id="patch_30">
+    <path d="M 525.746953 763.917891 
+L 543.746953 763.917891 
+L 543.746953 757.617891 
+L 525.746953 757.617891 
+z
+" style="fill: #a7afb5"/>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #23313a" x="550.946953" y="763.917891" transform="rotate(-0 550.946953 763.917891)">Transferred / deleted entry in bundled map</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pde56252ab7">
+   <rect x="207.3525" y="149.44" width="467.183571" height="458.591406"/>
+  </clipPath>
+  <clipPath id="pee518eea75">
+   <rect x="803.453571" y="149.44" width="259.546429" height="458.591406"/>
+  </clipPath>
+ </defs>
+</svg>
