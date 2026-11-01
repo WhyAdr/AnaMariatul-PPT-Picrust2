@@ -1,0 +1,42 @@
+amplicon_sorter_strict_00001	556 bp.	SSU: Not found	ITS1: 1-147	5.8S: 148-305	ITS2: 306-516	LSU: 517-556	
+amplicon_sorter_strict_00002	633 bp.	SSU: Not found	ITS1: 1-253	5.8S: No end	ITS2: 299-593	LSU: 594-633	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00003	640 bp.	SSU: Not found	ITS1: 1-261	5.8S: No end	ITS2: 307-600	LSU: 601-640	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00004	641 bp.	SSU: Not found	ITS1: 1-200	5.8S: No end	ITS2: 246-601	LSU: 602-641	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00005	699 bp.	SSU: Not found	ITS1: 1-264	5.8S: 265-421	ITS2: 422-659	LSU: 660-699	
+amplicon_sorter_strict_00006	713 bp.	SSU: Not found	ITS1: 1-301	5.8S: 302-459	ITS2: 460-673	LSU: 674-713	
+amplicon_sorter_strict_00007	716 bp.	SSU: Not found	ITS1: 1-277	5.8S: 278-435	ITS2: 436-676	LSU: 677-716	
+amplicon_sorter_strict_00008	563 bp.	SSU: Not found	ITS1: 1-157	5.8S: 158-311	ITS2: 312-523	LSU: 524-563	
+amplicon_sorter_strict_00009	575 bp.	SSU: Not found	ITS1: 1-166	5.8S: No end	ITS2: 212-535	LSU: 536-575	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00010	718 bp.	SSU: Not found	ITS1: 1-293	5.8S: 294-449	ITS2: 450-678	LSU: 679-718	
+amplicon_sorter_strict_00011	600 bp.	SSU: Not found	ITS1: 1-189	5.8S: 190-339	ITS2: 340-560	LSU: 561-600	
+amplicon_sorter_strict_00012	520 bp.	SSU: Not found	ITS1: 1-152	5.8S: 153-310	ITS2: 311-480	LSU: 481-520	
+amplicon_sorter_strict_00013	760 bp.	SSU: Not found	ITS1: 1-274	5.8S: 275-431	ITS2: 432-720	LSU: 721-760	
+amplicon_sorter_strict_00014	927 bp.	SSU: Not found	ITS1: 1-318	5.8S: 319-475	ITS2: 476-887	LSU: 888-927	
+amplicon_sorter_strict_00015	716 bp.	SSU: Not found	ITS1: 1-260	5.8S: 261-418	ITS2: 419-676	LSU: 677-716	
+amplicon_sorter_strict_00016	744 bp.	SSU: Not found	ITS1: 1-252	5.8S: 253-409	ITS2: 410-704	LSU: 705-744	
+amplicon_sorter_strict_00017	757 bp.	SSU: Not found	ITS1: 1-269	5.8S: No end	ITS2: 315-717	LSU: 718-757	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00018	652 bp.	SSU: Not found	ITS1: 1-208	5.8S: No end	ITS2: 254-612	LSU: 613-652	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00019	693 bp.	SSU: Not found	ITS1: 1-218	5.8S: 219-376	ITS2: 377-653	LSU: 654-693	
+amplicon_sorter_strict_00020	769 bp.	SSU: Not found	ITS1: 1-335	5.8S: 336-493	ITS2: 494-729	LSU: 730-769	
+amplicon_sorter_strict_00021	504 bp.	SSU: Not found	ITS1: 1-161	5.8S: 162-319	ITS2: 320-464	LSU: 465-504	
+amplicon_sorter_strict_00022	588 bp.	SSU: Not found	ITS1: 1-205	5.8S: 206-364	ITS2: 365-548	LSU: 549-588	
+amplicon_sorter_strict_00023	822 bp.	SSU: Not found	ITS1: 1-236	5.8S: 237-393	ITS2: 394-782	LSU: 783-822	
+amplicon_sorter_strict_00024	491 bp.	SSU: Not found	ITS1: 1-150	5.8S: 151-308	ITS2: 309-451	LSU: 452-491	
+amplicon_sorter_strict_00025	711 bp.	SSU: Not found	ITS1: 1-254	5.8S: 255-412	ITS2: 413-671	LSU: 672-711	
+amplicon_sorter_strict_00026	914 bp.	SSU: Not found	ITS1: 1-295	5.8S: 296-453	ITS2: 454-874	LSU: 875-914	
+amplicon_sorter_strict_00027	739 bp.	SSU: Not found	ITS1: 1-303	5.8S: 304-460	ITS2: 461-699	LSU: 700-739	
+amplicon_sorter_strict_00028	519 bp.	SSU: Not found	ITS1: 1-169	5.8S: 170-327	ITS2: 328-479	LSU: 480-519	
+amplicon_sorter_strict_00029	560 bp.	SSU: Not found	ITS1: 1-195	5.8S: 196-353	ITS2: 354-520	LSU: 521-560	
+amplicon_sorter_strict_00030	575 bp.	SSU: Not found	ITS1: 1-205	5.8S: 206-363	ITS2: 364-535	LSU: 536-575	
+amplicon_sorter_strict_00031	849 bp.	SSU: Not found	ITS1: 1-323	5.8S: 324-480	ITS2: 481-809	LSU: 810-849	
+amplicon_sorter_strict_00032	366 bp.	SSU: Not found	ITS1: 1-94	5.8S: No end	ITS2: 140-326	LSU: 327-366	Broken or partial sequence, only partial 5.8S! 
+amplicon_sorter_strict_00033	823 bp.	SSU: Not found	ITS1: 1-314	5.8S: 315-472	ITS2: 473-783	LSU: 784-823	
+amplicon_sorter_strict_00034	743 bp.	SSU: Not found	ITS1: 1-285	5.8S: 286-443	ITS2: 444-703	LSU: 704-743	
+amplicon_sorter_strict_00035	760 bp.	SSU: Not found	ITS1: 1-314	5.8S: 315-472	ITS2: 473-720	LSU: 721-760	
+amplicon_sorter_strict_00036	733 bp.	SSU: Not found	ITS1: 1-286	5.8S: 287-444	ITS2: 445-693	LSU: 694-733	
+amplicon_sorter_strict_00037	882 bp.	SSU: Not found	ITS1: 1-441	5.8S: 442-600	ITS2: 601-842	LSU: 843-882	
+amplicon_sorter_strict_00039	1131 bp.	SSU: 1-622	ITS1: 623-763	5.8S: 764-921	ITS2: 922-1091	LSU: 1092-1131	
+amplicon_sorter_strict_00040	1171 bp.	SSU: 1-620	ITS1: 621-778	5.8S: 779-936	ITS2: 937-1131	LSU: 1132-1171	
+amplicon_sorter_strict_00041	1182 bp.	SSU: 1-620	ITS1: 621-802	5.8S: 803-960	ITS2: 961-1142	LSU: 1143-1182	
+amplicon_sorter_strict_00042	1133 bp.	SSU: 1-620	ITS1: 621-736	5.8S: 737-894	ITS2: 895-1093	LSU: 1094-1133	
+amplicon_sorter_strict_00046	1139 bp.	SSU: Not found	ITS1: 1-337	5.8S: 338-495	ITS2: 496-1099	LSU: 1100-1139	

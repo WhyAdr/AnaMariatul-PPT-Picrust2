@@ -1,0 +1,42 @@
+FeatureID	SC	Length	Kingdom	Phylum	Class	Order	Family	Genus	Species	Taxonomy	Evidence	BestReference	BestIdentity	BestQueryCoverage	NearBestHits	ITSxOrigins	ITSxAnyFullBoundary	DenovoChimera	ReferenceChimera	PutativeChimera	TrustedFungalCore
+OTU_1	9715	517	Fungi	Chytridiomycota	Lobulomycetes	Lobulomycetales				k__Fungi;p__Chytridiomycota;c__Lobulomycetes;o__Lobulomycetales;f__;g__;s__	UNITE full-query match	SH1272208.10FU_UDB03107581_reps	0.9901000000000001	0.98	1	F	False	N	N	False	True
+OTU_2	6025	594	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_3	5739	784								k__;p__;c__;o__;f__;g__;s__	Unresolved/nonfungal ITSx origin				0	M	False	N	N	False	False
+OTU_4	4650	660	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_5	3575	601	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_6	3180	602	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	UNITE full-query match	SH1269561.10FU_UDB02170552_reps	0.99154	0.98	1	F	False	N	N	False	True
+OTU_7	2982	674	Fungi	Chytridiomycota	Spizellomycetes	Spizellomycetales	Spizellomycetaceae			k__Fungi;p__Chytridiomycota;c__Spizellomycetes;o__Spizellomycetales;f__Spizellomycetaceae;g__;s__	UNITE full-query match	SH1361723.10FU_UDB02490385_reps	0.99247	0.98	1	F	False	N	N	False	True
+OTU_8	1857	327								k__;p__;c__;o__;f__;g__;s__	Unresolved/nonfungal ITSx origin				0	M	False	N	N	False	False
+OTU_9	2101	470	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Gibellulopsis		k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Glomerellales;f__Plectosphaerellaceae;g__Gibellulopsis;s__	UNITE full-query match	SH1385271.10FU_DQ825985_refs	0.99554	0.95	2	F	True	N	?	False	True
+OTU_10	1338	843	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_11	1087	888	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_12	1083	679	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_13	750	536	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_14	740	677	Fungi	Chytridiomycota						k__Fungi;p__Chytridiomycota;c__;o__;f__;g__;s__	UNITE full-query match	SH1409889.10FU_UDB02303405_reps	0.9864499999999999	0.98	1	F	False	N	N	False	True
+OTU_15	632	704	Metazoa	Nematoda	Chromadorea	Rhabditida	Cephalobidae	Cervidellus		k__Metazoa;p__Nematoda;c__Chromadorea;o__Rhabditida;f__Cephalobidae;g__Cervidellus;s__	UNITE full-query match	SH1166547.10FU_UDB01725266_reps	0.99129	0.98	1	M	False	N	N	False	False
+OTU_16	373	677	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_17	331	705	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_18	293	524	Fungi	Chytridiomycota	Rhizophydiomycetes					k__Fungi;p__Chytridiomycota;c__Rhizophydiomycetes;o__;f__;g__;s__	UNITE full-query match	SH1292931.10FU_UDB0221030_reps	0.92218	0.98	1	F	False	N	N	False	True
+OTU_19	235	512	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Wardomycopsis		k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Microascales;f__Microascaceae;g__Wardomycopsis;s__	UNITE full-query match	SH1870959.10FU_MK329142_refs_singleton	0.9668000000000001	1.0	1	F	True	N	N	False	True
+OTU_20	172	718								k__;p__;c__;o__;f__;g__;s__	Unresolved/nonfungal ITSx origin				0	M	False	N	N	False	False
+OTU_21	165	721	Fungi	Chytridiomycota	Spizellomycetes	Spizellomycetales				k__Fungi;p__Chytridiomycota;c__Spizellomycetes;o__Spizellomycetales;f__;g__;s__	UNITE full-query match	SH1216247.10FU_UDB07392083_reps	0.9873099999999999	0.98	1	F	False	N	N	False	True
+OTU_22	152	465	Fungi	Ascomycota	Dothideomycetes	Capnodiales				k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__;g__;s__	UNITE full-query match	SH1367666.10FU_UDB01616060_reps	1.0	0.97	1	F	False	N	N	False	True
+OTU_23	146	549	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae			k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Chaetothyriales;f__Herpotrichiellaceae;g__;s__	UNITE full-query match	SH1352276.10FU_LR993754_reps	0.93648	1.0	1	F	False	N	N	False	True
+OTU_24	151	561	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_25	141	875	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_26	129	810	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_27	115	730	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_28	116	536	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	UNITE full-query match	SH1307427.10FU_UDB0627151_reps	0.92015	0.98	4	F	False	N	N	False	True
+OTU_29	117	783	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_30	109	521	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	UNITE full-query match	SH1308228.10FU_MW215062_reps	0.97481	0.98	1	F	False	N	N	False	True
+OTU_31	98	523	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Microascus		k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Microascales;f__Microascaceae;g__Microascus;s__	UNITE full-query match	SH1300530.10FU_OR713168_reps	0.96947	1.0	2	F	True	N	N	False	True
+OTU_32	97	1100	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_33	92	613	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_34	89	654	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_35	91	452								k__;p__;c__;o__;f__;g__;s__	Unresolved/nonfungal ITSx origin				0	T	False	N	N	False	False
+OTU_36	77	721								k__;p__;c__;o__;f__;g__;s__	Unresolved/nonfungal ITSx origin				0	M	False	N	N	False	False
+OTU_37	64	700	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_38	56	694	Metazoa	Nematoda	Chromadorea	Rhabditida	Cephalobidae			k__Metazoa;p__Nematoda;c__Chromadorea;o__Rhabditida;f__Cephalobidae;g__;s__	UNITE full-query match	SH1166547.10FU_UDB01725266_reps	0.9490500000000001	0.98	1	M	False	N	N	False	False
+OTU_39	48	474	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	True	N	N	False	True
+OTU_40	45	672	Fungi							k__Fungi;p__;c__;o__;f__;g__;s__	ITSx origin only				0	F	False	N	N	False	True
+OTU_41	32	480	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Alloconiothyrium	Alloconiothyrium aptrootii	k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Didymosphaeriaceae;g__Alloconiothyrium;s__Alloconiothyrium_aptrootii	UNITE full-query match	SH1328633.10FU_JX496121_refs	0.9936	0.98	1	F	False	N	N	False	True
