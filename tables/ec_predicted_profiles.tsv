@@ -1,0 +1,841 @@
+FeatureID	PredictedAbundance	Description	ReferenceStatus	Rank	OTU9Contribution	OTU9ContributionPct
+EC:3.6.1.3	1785975	Adenosinetriphosphatase	Named in bundled map	1	109252	6.117218886
+EC:6.3.2.19	1206901	Transferred entry 2.3.2.23, 2.3.2.27 and 6.2.1.45	Transferred in bundled map	2	71434	5.918795328
+EC:2.7.7.6	1118025	DNA-directed RNA polymerase	Named in bundled map	3	67232	6.013461237
+EC:5.2.1.8	1052143	Peptidylprolyl isomerase	Named in bundled map	4	56727	5.391567496
+EC:2.7.7.7	938582	DNA-directed DNA polymerase	Named in bundled map	5	46222	4.924662949
+EC:3.2.1.3	922556	Glucan 1,4-alpha-glucosidase	Named in bundled map	6	31515	3.416052792
+EC:3.1.3.16	750285	Protein-serine/threonine phosphatase	Named in bundled map	7	42020	5.600538462
+EC:3.4.25.1	727464	Proteasome endopeptidase complex	Named in bundled map	8	44121	6.065042394
+EC:3.6.3.14	709089	H(+)-transporting two-sector ATPase	Transferred in bundled map	9	50424	7.111096068
+EC:3.1.1.47	683338	1-alkyl-2-acetylglycerophosphocholine esterase	Named in bundled map	10	12606	1.844767889
+EC:3.2.1.18	631923	Exo-alpha-sialidase	Named in bundled map	11	48323	7.646975977
+EC:2.7.1.37	604297	2.7.11.30 and 2.7.12.1	Named in bundled map	12	29414	4.867474106
+EC:2.3.1.48	547044	Histone acetyltransferase	Named in bundled map	13	44121	8.065347577
+EC:3.1.2.15	445411	Deleted entry	Deleted in bundled map	14	25212	5.660390067
+EC:3.6.4.1	406378	Transferred entry 5.6.1.8	Transferred in bundled map	15	16808	4.136050672
+EC:6.5.1.1	358426	DNA ligase (ATP)	Named in bundled map	16	18909	5.275565947
+EC:2.4.1.16	353177	Chitin synthase	Named in bundled map	17	14707	4.164200953
+EC:2.5.1.18	347833	Glutathione transferase	Named in bundled map	18	27313	7.852331435
+EC:5.3.1.4	344990	L-arabinose isomerase	Named in bundled map	19	77737	22.5331169
+EC:3.1.3.48	337274	Protein-tyrosine-phosphatase	Named in bundled map	20	21010	6.229356547
+EC:4.6.1.1	290890	Adenylate cyclase	Named in bundled map	21	6303	2.166798446
+EC:3.6.3.8	227547	Calcium-transporting ATPase	Transferred in bundled map	22	16808	7.386605844
+EC:3.2.1.14	208191	Chitinase	Named in bundled map	23	21010	10.09169465
+EC:1.6.5.5	200698	NADPH:quinone reductase	Named in bundled map	24	31515	15.70269759
+EC:3.1.1.3	200011	Triacylglycerol lipase	Named in bundled map	25	14707	7.35309558
+EC:3.1.26.5	194394	Ribonuclease P	Named in bundled map	26	10505	5.403973374
+EC:3.6.3.1	193432	Phospholipid-translocating ATPase	Transferred in bundled map	27	10505	5.430849084
+EC:3.6.4.4	184815	Transferred entry 5.6.1.3	Transferred in bundled map	28	4202	2.273624976
+EC:3.1.4.17	184568	3',5'-cyclic-nucleotide phosphodiesterase	Named in bundled map	29	4202	2.276667678
+EC:6.2.1.3	174777	Long-chain-fatty-acid--CoA ligase	Named in bundled map	30	14707	8.414722761
+EC:1.2.1.3	173159	Aldehyde dehydrogenase (NAD(+))	Named in bundled map	31	12606	7.280014322
+EC:1.10.2.2	171115	Quinol--cytochrome-c reductase	Transferred in bundled map	32	12606	7.366975426
+EC:5.3.4.1	168076	Protein disulfide-isomerase	Named in bundled map	33	10505	6.250148742
+EC:1.9.3.1	167980	Cytochrome-c oxidase	Named in bundled map	34	10505	6.253720681
+EC:2.7.1.137	167901	Phosphatidylinositol 3-kinase	Named in bundled map	35	10505	6.256663153
+EC:3.1.3.2	149751	Acid phosphatase	Named in bundled map	36	14707	9.820969476
+EC:3.1.13.4	143100	Poly(A)-specific ribonuclease	Named in bundled map	37	10505	7.341020266
+EC:1.1.1.100	140156	3-oxoacyl-[acyl-carrier-protein] reductase	Named in bundled map	38	44121	31.47992237
+EC:5.4.99.7	139964	Lanosterol synthase	Named in bundled map	39	8404	6.004401132
+EC:3.6.4.9	136648	Transferred entry 5.6.1.7	Transferred in bundled map	40	6303	4.612581231
+EC:1.14.14.1	134231	Unspecific monooxygenase	Named in bundled map	41	35717	26.60860755
+EC:3.6.4.2	133532	Transferred entry 5.6.1.2	Transferred in bundled map	42	4202	3.146811251
+EC:6.2.1.12	124751	4-coumarate--CoA ligase	Named in bundled map	43	12606	10.10492902
+EC:4.2.1.17	124694	Enoyl-CoA hydratase	Named in bundled map	44	14707	11.79447287
+EC:3.2.1.20	121151	Alpha-glucosidase	Named in bundled map	45	12606	10.40519682
+EC:1.6.99.3	119984	NADH dehydrogenase	Named in bundled map	46	12606	10.50640085
+EC:1.15.1.1	117160	Superoxide dismutase	Named in bundled map	47	10505	8.966370775
+EC:2.1.1.43	117062	Histone-lysine N-methyltransferase	Transferred in bundled map	48	10505	8.973877091
+EC:3.4.11.18	114341	Methionyl aminopeptidase	Named in bundled map	49	8404	7.349944464
+EC:2.4.1.119	112440	Transferred entry 2.4.99.18	Transferred in bundled map	50	6303	5.60565635
+EC:1.3.5.1	111866	Succinate dehydrogenase (quinone)	Named in bundled map	51	6303	5.634419752
+EC:2.4.1.109	111311	Dolichyl-phosphate-mannose--protein mannosyltransferase	Named in bundled map	52	6303	5.662513139
+EC:2.4.1.198	110930	Phosphatidylinositol N-acetylglucosaminyltransferase	Named in bundled map	53	6303	5.681961597
+EC:2.3.1.7	108274	Carnitine O-acetyltransferase	Named in bundled map	54	4202	3.880894767
+EC:2.7.1.68	107728	1-phosphatidylinositol-4-phosphate 5-kinase	Named in bundled map	55	4202	3.900564384
+EC:3.5.1.48	106201	Acetylspermidine deacetylase	Named in bundled map	56	2101	1.978324121
+EC:2.7.4.6	105237	Nucleoside-diphosphate kinase	Named in bundled map	57	2101	1.996446117
+EC:4.6.1.2	102022	Guanylate cyclase	Named in bundled map	58	0	0
+EC:3.2.1.113	97174	Mannosyl-oligosaccharide 1,2-alpha-mannosidase	Named in bundled map	59	14707	15.13470681
+EC:1.1.1.1	96845	Alcohol dehydrogenase	Named in bundled map	60	29414	30.37224431
+EC:3.2.1.21	91390	Beta-glucosidase	Named in bundled map	61	52525	57.47346537
+EC:2.3.1.16	89023	Acetyl-CoA C-acyltransferase	Named in bundled map	62	8404	9.440257012
+EC:1.6.2.2	86589	Cytochrome-b5 reductase	Named in bundled map	63	6303	7.279215605
+EC:2.6.1.1	86122	Aspartate transaminase	Named in bundled map	64	6303	7.318687443
+EC:2.7.6.1	85907	Ribose-phosphate diphosphokinase	Named in bundled map	65	6303	7.337003969
+EC:1.2.4.1	85840	Pyruvate dehydrogenase (acetyl-transferring)	Named in bundled map	66	6303	7.342730662
+EC:5.99.1.2	85761	DNA topoisomerase	Transferred in bundled map	67	6303	7.349494525
+EC:6.1.1.20	85761	Phenylalanine--tRNA ligase	Named in bundled map	67	6303	7.349494525
+EC:4.2.99.18	85682	DNA-(apurinic or apyrimidinic site) lyase	Named in bundled map	69	6303	7.356270862
+EC:4.2.1.70	85323	Pseudouridylate synthase	Named in bundled map	70	6303	7.387222671
+EC:3.1.1.29	85158	Aminoacyl-tRNA hydrolase	Named in bundled map	71	6303	7.401535968
+EC:3.1.3.5	85158	5'-nucleotidase	Named in bundled map	71	6303	7.401535968
+EC:2.7.7.13	83660	Mannose-1-phosphate guanylyltransferase	Named in bundled map	73	4202	5.022710973
+EC:2.4.2.30	83462	NAD(+) ADP-ribosyltransferase	Named in bundled map	74	23111	27.69044595
+EC:6.4.1.4	83016	Methylcrotonoyl-CoA carboxylase	Named in bundled map	75	4202	5.061674858
+EC:2.7.4.3	82870	Adenylate kinase	Named in bundled map	76	4202	5.070592494
+EC:1.17.4.1	82724	Ribonucleoside-diphosphate reductase	Named in bundled map	77	4202	5.079541608
+EC:3.4.24.71	82489	Endothelin-converting enzyme 1	Named in bundled map	78	4202	5.094012535
+EC:1.3.3.6	80496	Acyl-CoA oxidase	Named in bundled map	79	2101	2.610067581
+EC:3.1.1.23	80271	Acylglycerol lipase	Named in bundled map	80	2101	2.617383613
+EC:2.7.7.9	80201	UTP--glucose-1-phosphate uridylyltransferase	Named in bundled map	81	2101	2.619668084
+EC:3.6.4.3	79687	Microtubule-severing ATPase	Transferred in bundled map	82	2101	2.636565563
+EC:2.1.1.37	79608	DNA (cytosine-5-)-methyltransferase	Named in bundled map	83	2101	2.639181992
+EC:3.1.1.5	66577	Lysophospholipase	Named in bundled map	84	10505	15.77872238
+EC:3.4.19.12	65594	Ubiquitinyl hydrolase 1	Named in bundled map	85	8404	12.81214745
+EC:1.2.1.31	65445	L-aminoadipate-semialdehyde dehydrogenase	Named in bundled map	86	8404	12.84131714
+EC:4.2.1.1	65330	Carbonate dehydratase	Named in bundled map	87	10505	16.07990204
+EC:1.1.1.2	62772	Alcohol dehydrogenase (NADP(+))	Named in bundled map	88	8404	13.38813484
+EC:3.1.3.1	62001	Alkaline phosphatase	Named in bundled map	89	8404	13.55462009
+EC:6.3.2.17	61379	Tetrahydrofolate synthase	Named in bundled map	90	6303	10.26898451
+EC:6.1.1.12	60728	Aspartate--tRNA ligase	Named in bundled map	91	6303	10.37906732
+EC:4.1.1.65	60503	Phosphatidylserine decarboxylase	Named in bundled map	92	6303	10.41766524
+EC:1.6.2.4	60436	NADPH--hemoprotein reductase	Named in bundled map	93	6303	10.42921438
+EC:2.7.1.1	60271	Hexokinase	Named in bundled map	94	6303	10.45776576
+EC:1.1.1.62	60223	17-beta-estradiol 17-dehydrogenase	Named in bundled map	95	6303	10.46610099
+EC:3.1.4.4	60211	Phospholipase D	Named in bundled map	96	6303	10.46818688
+EC:3.2.1.52	60211	Beta-N-acetylhexosaminidase	Named in bundled map	96	6303	10.46818688
+EC:3.1.3.56	60144	Inositol-polyphosphate 5-phosphatase	Named in bundled map	98	6303	10.47984836
+EC:1.1.1.37	60065	Malate dehydrogenase	Named in bundled map	99	6303	10.4936319
+EC:2.3.1.31	60046	Homoserine O-acetyltransferase	Named in bundled map	100	6303	10.49695234
+EC:1.3.1.42	59900	12-oxophytodienoate reductase	Named in bundled map	101	6303	10.52253756
+EC:2.3.3.1	59833	Citrate (Si)-synthase	Named in bundled map	102	6303	10.53432053
+EC:3.6.3.4	59694	Cu(2+)-exporting ATPase	Transferred in bundled map	103	6303	10.55885014
+EC:2.7.1.67	59608	1-phosphatidylinositol 4-kinase	Named in bundled map	104	6303	10.57408402
+EC:3.4.21.48	59237	Cerevisin	Named in bundled map	105	6303	10.64030927
+EC:3.4.16.6	58586	Carboxypeptidase D	Named in bundled map	106	4202	7.172361998
+EC:1.1.99.1	57929	Choline dehydrogenase	Named in bundled map	107	44121	76.1639248
+EC:2.4.1.15	57849	Alpha,alpha-trehalose-phosphate synthase (UDP-forming)	Named in bundled map	108	4202	7.263738353
+EC:3.1.27.9	57777	Transferred entry: 4.6.1.16	Transferred in bundled map	109	4202	7.272790211
+EC:3.1.26.4	57545	Ribonuclease H	Named in bundled map	110	4202	7.302111391
+EC:2.3.1.50	57399	Serine C-palmitoyltransferase	Named in bundled map	111	4202	7.320685029
+EC:3.6.3.6	57399	Proton-exporting ATPase	Transferred in bundled map	111	4202	7.320685029
+EC:4.1.1.15	57399	Glutamate decarboxylase	Named in bundled map	111	4202	7.320685029
+EC:6.3.1.2	57399	Glutamate--ammonia ligase	Named in bundled map	111	4202	7.320685029
+EC:3.1.4.12	57320	Sphingomyelin phosphodiesterase	Named in bundled map	115	4202	7.330774599
+EC:3.4.24.64	57320	Mitochondrial processing peptidase	Named in bundled map	115	4202	7.330774599
+EC:6.1.1.1	57320	Tyrosine--tRNA ligase	Named in bundled map	115	4202	7.330774599
+EC:6.1.1.2	57320	Tryptophan--tRNA ligase	Named in bundled map	115	4202	7.330774599
+EC:6.1.1.6	57320	Lysine--tRNA ligase	Named in bundled map	115	4202	7.330774599
+EC:2.1.1.79	57253	Cyclopropane-fatty-acyl-phospholipid synthase	Named in bundled map	120	4202	7.339353396
+EC:1.1.1.41	57174	Isocitrate dehydrogenase (NAD(+))	Named in bundled map	121	4202	7.349494525
+EC:1.5.1.20	57174	Methylenetetrahydrofolate reductase (NAD(P)H)	Named in bundled map	121	4202	7.349494525
+EC:1.5.1.3	57174	Dihydrofolate reductase	Named in bundled map	121	4202	7.349494525
+EC:2.1.2.1	57174	Glycine hydroxymethyltransferase	Named in bundled map	121	4202	7.349494525
+EC:2.3.1.24	57174	Sphingosine N-acyltransferase	Named in bundled map	121	4202	7.349494525
+EC:2.4.1.141	57174	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase	Named in bundled map	121	4202	7.349494525
+EC:2.7.1.23	57174	NAD(+) kinase	Named in bundled map	121	4202	7.349494525
+EC:2.7.6.2	57174	Thiamine diphosphokinase	Named in bundled map	121	4202	7.349494525
+EC:2.7.8.1	57174	Ethanolaminephosphotransferase	Named in bundled map	121	4202	7.349494525
+EC:3.2.1.28	57174	Alpha,alpha-trehalase	Named in bundled map	121	4202	7.349494525
+EC:4.4.1.17	57174	Holocytochrome-c synthase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.10	57174	Methionine--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.11	57174	Serine--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.15	57174	Proline--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.17	57174	Glutamate--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.22	57174	Asparagine--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.1.1.4	57174	Leucine--tRNA ligase	Named in bundled map	121	4202	7.349494525
+EC:6.3.2.2	57174	Glutamate--cysteine ligase	Named in bundled map	121	4202	7.349494525
+EC:2.5.1.6	57028	Methionine adenosyltransferase	Named in bundled map	139	4202	7.368310304
+EC:2.7.1.48	57028	Uridine kinase	Named in bundled map	139	4202	7.368310304
+EC:2.7.8.8	57028	CDP-diacylglycerol--serine O-phosphatidyltransferase	Named in bundled map	139	4202	7.368310304
+EC:4.2.1.3	57028	Aconitate hydratase	Named in bundled map	139	4202	7.368310304
+EC:6.1.1.3	57028	Threonine--tRNA ligase	Named in bundled map	139	4202	7.368310304
+EC:2.3.1.12	56949	Dihydrolipoyllysine-residue acetyltransferase	Named in bundled map	144	4202	7.378531669
+EC:2.3.1.9	56949	Acetyl-CoA C-acetyltransferase	Named in bundled map	144	4202	7.378531669
+EC:3.1.2.6	56942	Hydroxyacylglutathione hydrolase	Named in bundled map	146	4202	7.379438727
+EC:1.6.5.3	56882	NADH:ubiquinone reductase (H(+)-translocating)	Transferred in bundled map	147	4202	7.387222671
+EC:2.3.2.2	56882	Gamma-glutamyltransferase	Named in bundled map	147	4202	7.387222671
+EC:5.4.2.1	56882	Transferred entry 5.4.2.11 and 5.4.2.12	Transferred in bundled map	147	4202	7.387222671
+EC:4.4.1.14	56657	1-aminocyclopropane-1-carboxylate synthase	Named in bundled map	150	4202	7.416559295
+EC:3.5.1.41	56473	Chitin deacetylase	Named in bundled map	151	4202	7.440723886
+EC:2.7.1.33	54917	Pantothenate kinase	Named in bundled map	152	2101	3.82577344
+EC:1.1.1.21	54721	Aldehyde reductase	Named in bundled map	153	2101	3.839476618
+EC:1.11.1.5	54594	Cytochrome-c peroxidase	Named in bundled map	154	2101	3.84840825
+EC:5.4.2.8	54594	Phosphomannomutase	Named in bundled map	154	2101	3.84840825
+EC:5.99.1.3	54594	DNA topoisomerase (ATP-hydrolyzing)	Transferred in bundled map	154	2101	3.84840825
+EC:2.1.2.10	54467	Aminomethyltransferase	Named in bundled map	157	2101	3.857381534
+EC:2.5.1.9	54467	Riboflavin synthase	Named in bundled map	157	2101	3.857381534
+EC:3.1.3.4	54467	Phosphatidate phosphatase	Named in bundled map	157	2101	3.857381534
+EC:3.4.11.9	54429	Xaa-Pro aminopeptidase	Named in bundled map	160	2101	3.860074593
+EC:4.1.2.13	54340	Fructose-bisphosphate aldolase	Named in bundled map	161	2101	3.866396761
+EC:6.3.5.5	54283	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	Named in bundled map	162	2101	3.870456681
+EC:1.2.4.2	54137	Oxoglutarate dehydrogenase (succinyl-transferring)	Named in bundled map	163	2101	3.880894767
+EC:2.1.1.45	54137	Thymidylate synthase	Named in bundled map	163	2101	3.880894767
+EC:2.3.1.4	54137	Glucosamine-phosphate N-acetyltransferase	Named in bundled map	163	2101	3.880894767
+EC:3.1.3.41	54137	4-nitrophenylphosphatase	Named in bundled map	163	2101	3.880894767
+EC:3.4.23.25	54137	Saccharopepsin	Named in bundled map	163	2101	3.880894767
+EC:3.4.24.56	54137	Insulysin	Named in bundled map	163	2101	3.880894767
+EC:4.2.1.22	54137	Cystathionine beta-synthase	Named in bundled map	163	2101	3.880894767
+EC:5.4.99.12	54137	tRNA pseudouridine(38-40) synthase	Named in bundled map	163	2101	3.880894767
+EC:6.1.1.9	54137	Valine--tRNA ligase	Named in bundled map	163	2101	3.880894767
+EC:3.4.19.1	54058	Acylaminoacyl-peptidase	Named in bundled map	172	2101	3.886566281
+EC:2.7.1.105	54048	6-phosphofructo-2-kinase	Named in bundled map	173	2101	3.887285376
+EC:3.4.21.89	53991	Signal peptidase I	Named in bundled map	174	2101	3.891389306
+EC:1.1.1.38	53959	Malate dehydrogenase (oxaloacetate-decarboxylating)	Named in bundled map	175	2101	3.893697066
+EC:6.4.1.3	51849	Propionyl-CoA carboxylase	Named in bundled map	176	0	0
+EC:1.3.99.3	51655	Transferred entry 1.3.8.7, 1.3.8.8 and 1.3.8.9	Transferred in bundled map	177	0	0
+EC:3.6.3.9	51246	Sodium/potassium-exchanging ATPase	Transferred in bundled map	178	0	0
+EC:1.14.13.8	50138	Flavin-containing monooxygenase	Named in bundled map	179	16808	33.52347521
+EC:1.14.13.1	48966	Salicylate 1-monooxygenase	Named in bundled map	180	29414	60.07025283
+EC:1.1.2.3	42788	L-lactate dehydrogenase (cytochrome)	Named in bundled map	181	12606	29.46153127
+EC:1.1.1.184	41840	Carbonyl reductase (NADPH)	Named in bundled map	182	10505	25.10755258
+EC:1.1.1.14	40900	L-iditol 2-dehydrogenase	Named in bundled map	183	10505	25.68459658
+EC:1.1.1.65	40649	Pyridoxine 4-dehydrogenase	Named in bundled map	184	10505	25.84319417
+EC:1.1.1.95	37765	Phosphoglycerate dehydrogenase	Named in bundled map	185	8404	22.25340924
+EC:1.1.1.141	37600	15-hydroxyprostaglandin dehydrogenase (NAD(+))	Named in bundled map	186	6303	16.76329787
+EC:3.2.1.73	37260	Licheninase	Named in bundled map	187	8404	22.55501879
+EC:3.1.1.7	37085	Acetylcholinesterase	Named in bundled map	188	8404	22.66145342
+EC:3.1.4.11	36870	Phosphoinositide phospholipase C	Named in bundled map	189	8404	22.79359913
+EC:3.1.1.1	36371	Carboxylesterase	Named in bundled map	190	6303	17.32974073
+EC:5.3.3.5	36083	Cholestenol Delta-isomerase	Named in bundled map	191	6303	17.46805975
+EC:1.13.11.5	35826	Homogentisate 1,2-dioxygenase	Named in bundled map	192	8404	23.45782393
+EC:2.6.1.42	35489	Branched-chain-amino-acid transaminase	Named in bundled map	193	6303	17.76043281
+EC:3.4.11.10	35458	Bacterial leucyl aminopeptidase	Named in bundled map	194	8404	23.70128039
+EC:4.2.1.9	35025	Dihydroxy-acid dehydratase	Named in bundled map	195	6303	17.99571734
+EC:3.4.16.5	34826	Carboxypeptidase C	Named in bundled map	196	6303	18.09854706
+EC:1.1.1.91	34448	Aryl-alcohol dehydrogenase (NADP(+))	Named in bundled map	197	6303	18.29714352
+EC:2.1.1.41	34429	Sterol 24-C-methyltransferase	Named in bundled map	198	6303	18.30724099
+EC:3.5.2.9	34283	5-oxoprolinase (ATP-hydrolyzing)	Named in bundled map	199	6303	18.3852055
+EC:5.3.1.6	34204	Ribose-5-phosphate isomerase	Named in bundled map	200	6303	18.42766928
+EC:6.2.1.4	33991	Succinate--CoA ligase (GDP-forming)	Named in bundled map	201	6303	18.54314377
+EC:1.1.1.30	33989	3-hydroxybutyrate dehydrogenase	Named in bundled map	202	6303	18.5442349
+EC:5.1.3.3	33969	Aldose 1-epimerase	Named in bundled map	203	6303	18.55515323
+EC:3.5.1.1	33804	Asparaginase	Named in bundled map	204	6303	18.6457224
+EC:3.7.1.2	33684	Fumarylacetoacetase	Named in bundled map	205	6303	18.7121482
+EC:2.7.1.29	33589	Glycerone kinase	Named in bundled map	206	6303	18.7650719
+EC:3.5.4.3	32804	Guanine deaminase	Named in bundled map	207	4202	12.80941349
+EC:1.1.1.31	32760	3-hydroxyisobutyrate dehydrogenase	Named in bundled map	208	4202	12.82661783
+EC:2.4.2.9	32163	Uracil phosphoribosyltransferase	Named in bundled map	209	4202	13.06470168
+EC:6.2.1.16	32062	Acetoacetate--CoA ligase	Named in bundled map	210	4202	13.1058574
+EC:1.4.3.1	32007	D-aspartate oxidase	Named in bundled map	211	4202	13.12837817
+EC:1.1.1.170	31916	(decarboxylating)	Named in bundled map	212	4202	13.16581025
+EC:6.3.5.4	31849	Asparagine synthase (glutamine-hydrolyzing)	Named in bundled map	213	4202	13.19350686
+EC:1.8.3.1	31837	Sulfite oxidase	Named in bundled map	214	4202	13.19847976
+EC:3.1.11.1	31789	Exodeoxyribonuclease I	Named in bundled map	215	4202	13.21840888
+EC:1.3.99.10	31782	Transferred entry 1.3.8.4	Transferred in bundled map	216	4202	13.22132024
+EC:3.6.1.1	31751	Inorganic diphosphatase	Named in bundled map	217	4202	13.23422884
+EC:6.1.1.5	31713	Isoleucine--tRNA ligase	Named in bundled map	218	4202	13.25008672
+EC:1.14.13.9	31624	Kynurenine 3-monooxygenase	Named in bundled map	219	4202	13.28737668
+EC:1.5.1.2	31624	Pyrroline-5-carboxylate reductase	Named in bundled map	219	4202	13.28737668
+EC:2.2.1.2	31624	Transaldolase	Named in bundled map	219	4202	13.28737668
+EC:3.1.27.1	31624	Ribonuclease T(2)	Transferred in bundled map	219	4202	13.28737668
+EC:4.1.3.1	31624	Isocitrate lyase	Named in bundled map	219	4202	13.28737668
+EC:5.1.99.4	31624	Alpha-methylacyl-CoA racemase	Named in bundled map	219	4202	13.28737668
+EC:5.3.1.1	31624	Triose-phosphate isomerase	Named in bundled map	219	4202	13.28737668
+EC:5.3.1.8	31624	Mannose-6-phosphate isomerase	Named in bundled map	219	4202	13.28737668
+EC:6.5.1.4	31624	RNA 3'-terminal-phosphate cyclase (ATP)	Named in bundled map	219	4202	13.28737668
+EC:2.3.1.88	31605	Peptide alpha-N-acetyltransferase	Named in bundled map	228	4202	13.29536466
+EC:4.4.1.5	31586	Lactoylglutathione lyase	Named in bundled map	229	4202	13.30336225
+EC:1.2.1.16	31557	Succinate-semialdehyde dehydrogenase (NAD(P)(+))	Named in bundled map	230	4202	13.31558767
+EC:5.3.3.10	31557	5-carboxymethyl-2-hydroxymuconate Delta-isomerase	Named in bundled map	230	4202	13.31558767
+EC:2.4.1.173	31545	Sterol 3-beta-glucosyltransferase	Named in bundled map	232	4202	13.32065304
+EC:3.1.3.36	31545	Phosphoinositide 5-phosphatase	Named in bundled map	232	4202	13.32065304
+EC:1.14.13.22	31488	Cyclohexanone monooxygenase	Named in bundled map	234	18909	60.05144817
+EC:1.3.1.38	31478	Trans-2-enoyl-CoA reductase (NADPH)	Named in bundled map	235	4202	13.34900565
+EC:2.4.1.186	31478	Glycogenin glucosyltransferase	Named in bundled map	235	4202	13.34900565
+EC:2.7.7.50	31478	mRNA guanylyltransferase	Named in bundled map	235	4202	13.34900565
+EC:3.1.3.7	31478	3'(2'),5'-bisphosphate nucleotidase	Named in bundled map	235	4202	13.34900565
+EC:3.4.13.9	31478	Xaa-Pro dipeptidase	Named in bundled map	235	4202	13.34900565
+EC:3.6.1.17	31478	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	Named in bundled map	235	4202	13.34900565
+EC:3.1.3.25	31399	Inositol-phosphate phosphatase	Named in bundled map	241	4202	13.3825918
+EC:1.3.99.1	31332	Deleted entry	Deleted in bundled map	242	4202	13.41120899
+EC:3.2.2.1	31332	Purine nucleosidase	Named in bundled map	242	4202	13.41120899
+EC:2.3.1.26	31253	Sterol O-acyltransferase	Named in bundled map	244	4202	13.44510927
+EC:3.2.1.106	31253	Mannosyl-oligosaccharide glucosidase	Named in bundled map	244	4202	13.44510927
+EC:2.7.1.30	31205	Glycerol kinase	Named in bundled map	246	4202	13.46579074
+EC:1.2.4.4	31167	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	Named in bundled map	247	4202	13.48220875
+EC:2.7.1.12	31167	Gluconokinase	Named in bundled map	247	4202	13.48220875
+EC:6.1.1.19	31167	Arginine--tRNA ligase	Named in bundled map	247	4202	13.48220875
+EC:3.1.3.46	31107	Fructose-2,6-bisphosphate 2-phosphatase	Named in bundled map	250	4202	13.50821359
+EC:2.3.2.5	31021	Glutaminyl-peptide cyclotransferase	Named in bundled map	251	4202	13.54566262
+EC:4.3.2.1	30923	Argininosuccinate lyase	Named in bundled map	252	4202	13.58859102
+EC:3.2.1.24	30688	Alpha-mannosidase	Named in bundled map	253	4202	13.69264859
+EC:3.5.99.6	30688	Glucosamine-6-phosphate deaminase	Named in bundled map	253	4202	13.69264859
+EC:1.1.3.15	29700	(S)-2-hydroxy-acid oxidase	Named in bundled map	255	2101	7.074074074
+EC:1.1.1.169	29542	2-dehydropantoate 2-reductase	Named in bundled map	256	2101	7.111908469
+EC:6.4.1.1	29336	Pyruvate carboxylase	Named in bundled map	257	2101	7.161848923
+EC:2.1.1.77	29317	Protein-L-isoaspartate(D-aspartate) O-methyltransferase	Named in bundled map	258	2101	7.166490432
+EC:1.13.11.27	29250	4-hydroxyphenylpyruvate dioxygenase	Named in bundled map	259	2101	7.182905983
+EC:2.1.1.14	29171	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	Named in bundled map	260	2101	7.202358507
+EC:4.2.1.24	29171	Porphobilinogen synthase	Named in bundled map	260	2101	7.202358507
+EC:1.1.1.35	29044	3-hydroxyacyl-CoA dehydrogenase	Named in bundled map	262	2101	7.233852086
+EC:4.1.3.27	29044	Anthranilate synthase	Named in bundled map	262	2101	7.233852086
+EC:4.2.1.20	29037	Tryptophan synthase	Named in bundled map	264	2101	7.235595964
+EC:1.14.18.1	29025	Tyrosinase	Named in bundled map	265	2101	7.238587425
+EC:1.4.99.1	28996	Transferred entry 1.4.99.6	Transferred in bundled map	266	2101	7.245827011
+EC:2.2.1.1	28996	Transketolase	Named in bundled map	266	2101	7.245827011
+EC:2.4.1.130	28996	Transferred entry 2.4.1.258, 2.4.1.259, 2.4.1.260 and 2.4.1.261	Transferred in bundled map	266	2101	7.245827011
+EC:3.5.1.25	28965	N-acetylglucosamine-6-phosphate deacetylase	Named in bundled map	269	2101	7.253581909
+EC:4.1.3.4	28958	Hydroxymethylglutaryl-CoA lyase	Named in bundled map	270	2101	7.255335313
+EC:1.1.1.44	28898	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)	Named in bundled map	271	2101	7.270399336
+EC:3.1.4.1	28898	Phosphodiesterase I	Named in bundled map	271	2101	7.270399336
+EC:1.5.1.12	28891	Transferred entry 1.2.1.88	Transferred in bundled map	273	2101	7.272160881
+EC:1.1.1.87	28879	Homoisocitrate dehydrogenase	Named in bundled map	274	2101	7.275182659
+EC:2.7.7.19	28879	Polynucleotide adenylyltransferase	Named in bundled map	274	2101	7.275182659
+EC:3.1.2.2	28879	Palmitoyl-CoA hydrolase	Named in bundled map	274	2101	7.275182659
+EC:4.2.1.36	28879	Homoaconitate hydratase	Named in bundled map	274	2101	7.275182659
+EC:6.3.5.2	28879	GMP synthase (glutamine-hydrolyzing)	Named in bundled map	274	2101	7.275182659
+EC:1.1.1.157	28812	3-hydroxybutyryl-CoA dehydrogenase	Named in bundled map	279	2101	7.292100514
+EC:1.1.1.205	28812	IMP dehydrogenase	Named in bundled map	279	2101	7.292100514
+EC:1.13.11.20	28812	Cysteine dioxygenase	Named in bundled map	279	2101	7.292100514
+EC:1.2.1.12	28812	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	Named in bundled map	279	2101	7.292100514
+EC:1.3.3.4	28812	Protoporphyrinogen oxidase	Named in bundled map	279	2101	7.292100514
+EC:2.3.1.47	28812	8-amino-7-oxononanoate synthase	Named in bundled map	279	2101	7.292100514
+EC:2.7.1.36	28812	Mevalonate kinase	Named in bundled map	279	2101	7.292100514
+EC:3.5.4.1	28812	Cytosine deaminase	Named in bundled map	279	2101	7.292100514
+EC:3.7.1.3	28812	Kynureninase	Named in bundled map	279	2101	7.292100514
+EC:4.1.1.17	28812	Ornithine decarboxylase	Named in bundled map	279	2101	7.292100514
+EC:4.1.2.5	28812	L-threonine aldolase	Named in bundled map	279	2101	7.292100514
+EC:5.1.3.2	28812	UDP-glucose 4-epimerase	Named in bundled map	279	2101	7.292100514
+EC:6.2.1.1	28812	Acetate--CoA ligase	Named in bundled map	279	2101	7.292100514
+EC:6.3.2.3	28812	Glutathione synthase	Named in bundled map	279	2101	7.292100514
+EC:1.3.3.1	28771	Transferred entry 1.3.98.1	Transferred in bundled map	293	2101	7.302492093
+EC:1.3.1.34	28733	2,4-dienoyl-CoA reductase (NADPH)	Named in bundled map	294	2101	7.312149793
+EC:1.8.1.4	28733	Dihydrolipoyl dehydrogenase	Named in bundled map	294	2101	7.312149793
+EC:2.4.2.28	28733	S-methyl-5'-thioadenosine phosphorylase	Named in bundled map	294	2101	7.312149793
+EC:2.7.1.91	28733	Sphinganine kinase	Named in bundled map	294	2101	7.312149793
+EC:2.7.7.2	28733	FAD synthetase	Named in bundled map	294	2101	7.312149793
+EC:3.2.1.84	28733	Glucan 1,3-alpha-glucosidase	Named in bundled map	294	2101	7.312149793
+EC:3.5.3.4	28733	Allantoicase	Named in bundled map	294	2101	7.312149793
+EC:4.2.1.11	28733	Phosphopyruvate hydratase	Named in bundled map	294	2101	7.312149793
+EC:4.2.1.2	28733	Fumarate hydratase	Named in bundled map	294	2101	7.312149793
+EC:4.4.1.8	28733	Cystathionine beta-lyase	Named in bundled map	294	2101	7.312149793
+EC:5.3.3.8	28733	Dodecenoyl-CoA isomerase	Named in bundled map	294	2101	7.312149793
+EC:6.3.3.2	28733	5-formyltetrahydrofolate cyclo-ligase	Named in bundled map	294	2101	7.312149793
+EC:4.2.1.46	28685	dTDP-glucose 4,6-dehydratase	Named in bundled map	306	2101	7.324385567
+EC:1.2.1.27	28666	Methylmalonate-semialdehyde dehydrogenase (CoA acylating)	Named in bundled map	307	2101	7.329240215
+EC:2.7.1.2	28666	Glucokinase	Named in bundled map	307	2101	7.329240215
+EC:3.1.4.46	28654	Glycerophosphodiester phosphodiesterase	Named in bundled map	309	2101	7.332309625
+EC:1.3.1.21	28635	7-dehydrocholesterol reductase	Named in bundled map	310	2101	7.337174786
+EC:1.1.1.22	28587	UDP-glucose 6-dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.3	28587	Homoserine dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.34	28587	Hydroxymethylglutaryl-CoA reductase (NADPH)	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.42	28587	Isocitrate dehydrogenase (NADP(+))	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.49	28587	Glucose-6-phosphate dehydrogenase (NADP(+))	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.8	28587	Glycerol-3-phosphate dehydrogenase (NAD(+))	Named in bundled map	311	2101	7.349494525
+EC:1.1.1.86	28587	Ketol-acid reductoisomerase (NADP(+))	Named in bundled map	311	2101	7.349494525
+EC:1.11.1.9	28587	Glutathione peroxidase	Named in bundled map	311	2101	7.349494525
+EC:1.13.11.6	28587	3-hydroxyanthranilate 3,4-dioxygenase	Named in bundled map	311	2101	7.349494525
+EC:1.14.11.1	28587	Gamma-butyrobetaine dioxygenase	Named in bundled map	311	2101	7.349494525
+EC:1.2.1.11	28587	Aspartate-semialdehyde dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:1.2.1.41	28587	Glutamate-5-semialdehyde dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:1.3.1.13	28587	Prephenate dehydrogenase (NADP(+))	Named in bundled map	311	2101	7.349494525
+EC:1.3.3.3	28587	Coproporphyrinogen oxidase	Named in bundled map	311	2101	7.349494525
+EC:1.4.1.2	28587	Glutamate dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:1.4.1.4	28587	Glutamate dehydrogenase (NADP(+))	Named in bundled map	311	2101	7.349494525
+EC:1.4.4.2	28587	Glycine dehydrogenase (aminomethyl-transferring)	Named in bundled map	311	2101	7.349494525
+EC:1.5.1.10	28587	Saccharopine dehydrogenase (NADP(+), L-glutamate-forming)	Named in bundled map	311	2101	7.349494525
+EC:1.5.1.15	28587	Methylenetetrahydrofolate dehydrogenase (NAD(+))	Named in bundled map	311	2101	7.349494525
+EC:1.5.5.1	28587	Electron-transferring-flavoprotein dehydrogenase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.10	28587	Homocysteine S-methyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.100	28587	Protein-S-isoprenylcysteine O-methyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.107	28587	Uroporphyrinogen-III C-methyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.17	28587	Phosphatidylethanolamine N-methyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.33	28587	tRNA (guanine(46)-N(7))-methyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.56	28587	 ;  Q06996, L_SENDF    ;  O55528, L_SENDO    	Named in bundled map	311	2101	7.349494525
+EC:2.1.1.98	28587	Diphthine synthase	Named in bundled map	311	2101	7.349494525
+EC:2.1.2.11	28587	3-methyl-2-oxobutanoate hydroxymethyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.2.2	28587	Phosphoribosylglycinamide formyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.2.9	28587	Methionyl-tRNA formyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.1.3.3	28587	Ornithine carbamoyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.1	28587	Amino-acid N-acetyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.37	28587	5-aminolevulinate synthase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.39	28587	[Acyl-carrier-protein] S-malonyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.51	28587	1-acylglycerol-3-phosphate O-acyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.57	28587	Diamine N-acetyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.61	28587	Dihydrolipoyllysine-residue succinyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.1.97	28587	Glycylpeptide N-tetradecanoyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.3.2.8	28587	Arginyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.1	28587	Glycogen phosphorylase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.11	28587	Glycogen(starch) synthase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.117	28587	Dolichyl-phosphate beta-glucosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.142	28587	Chitobiosyldiphosphodolichol beta-mannosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.18	28587	1,4-alpha-glucan branching enzyme	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.80	28587	Ceramide glucosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.1.83	28587	Dolichyl-phosphate beta-D-mannosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.10	28587	Orotate phosphoribosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.14	28587	Amidophosphoribosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.17	28587	ATP phosphoribosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.18	28587	Anthranilate phosphoribosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.19	28587	Nicotinate-nucleotide diphosphorylase (carboxylating)	Named in bundled map	311	2101	7.349494525
+EC:2.4.2.7	28587	Adenine phosphoribosyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.5.1.16	28587	Spermidine synthase	Named in bundled map	311	2101	7.349494525
+EC:2.5.1.21	28587	Squalene synthase	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.11	28587	Acetylornithine transaminase	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.13	28587	Ornithine aminotransferase	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.16	28587	Glutamine--fructose-6-phosphate transaminase (isomerizing)	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.2	28587	Alanine transaminase	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.52	28587	Phosphoserine transaminase	Named in bundled map	311	2101	7.349494525
+EC:2.6.1.9	28587	Histidinol-phosphate transaminase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.11	28587	6-phosphofructokinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.15	28587	Ribokinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.17	28587	Xylulokinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.20	28587	Adenosine kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.24	28587	Dephospho-CoA kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.25	28587	Adenylyl-sulfate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.26	28587	Riboflavin kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.35	28587	Pyridoxal kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.39	28587	Homoserine kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.40	28587	Pyruvate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.1.6	28587	Galactokinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.2.11	28587	Glutamate 5-kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.2.3	28587	Phosphoglycerate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.2.4	28587	Aspartate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.4.2	28587	Phosphomevalonate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.4.8	28587	Guanylate kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.4.9	28587	dTMP kinase	Named in bundled map	311	2101	7.349494525
+EC:2.7.7.15	28587	Choline-phosphate cytidylyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.7.7.4	28587	Sulfate adenylyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.7.7.41	28587	Phosphatidate cytidylyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.7.8.11	28587	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.7.8.15	28587	N-acetylglucosaminephosphotransferase	Named in bundled map	311	2101	7.349494525
+EC:2.7.8.5	28587	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	Named in bundled map	311	2101	7.349494525
+EC:2.8.1.6	28587	Biotin synthase	Named in bundled map	311	2101	7.349494525
+EC:3.1.1.31	28587	6-phosphogluconolactonase	Named in bundled map	311	2101	7.349494525
+EC:3.1.2.1	28587	Acetyl-CoA hydrolase	Named in bundled map	311	2101	7.349494525
+EC:3.1.2.22	28587	Palmitoyl-protein hydrolase	Named in bundled map	311	2101	7.349494525
+EC:3.1.26.3	28587	Ribonuclease III	Named in bundled map	311	2101	7.349494525
+EC:3.1.3.11	28587	Fructose-bisphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.1.3.15	28587	Histidinol-phosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.3.1.1	28587	Adenosylhomocysteinase	Named in bundled map	311	2101	7.349494525
+EC:3.3.2.6	28587	Leukotriene-A(4) hydrolase	Named in bundled map	311	2101	7.349494525
+EC:3.4.11.21	28587	Aspartyl aminopeptidase	Named in bundled map	311	2101	7.349494525
+EC:3.4.19.3	28587	Pyroglutamyl-peptidase I	Named in bundled map	311	2101	7.349494525
+EC:3.4.21.53	28587	Endopeptidase La	Named in bundled map	311	2101	7.349494525
+EC:3.4.21.61	28587	Kexin	Named in bundled map	311	2101	7.349494525
+EC:3.4.21.92	28587	Endopeptidase Clp	Named in bundled map	311	2101	7.349494525
+EC:3.4.24.59	28587	Mitochondrial intermediate peptidase	Named in bundled map	311	2101	7.349494525
+EC:3.5.1.5	28587	Urease	Named in bundled map	311	2101	7.349494525
+EC:3.5.2.3	28587	Dihydroorotase	Named in bundled map	311	2101	7.349494525
+EC:3.5.3.1	28587	Arginase	Named in bundled map	311	2101	7.349494525
+EC:3.5.4.12	28587	dCMP deaminase	Named in bundled map	311	2101	7.349494525
+EC:3.5.4.16	28587	GTP cyclohydrolase I	Named in bundled map	311	2101	7.349494525
+EC:3.5.4.25	28587	GTP cyclohydrolase II	Named in bundled map	311	2101	7.349494525
+EC:3.5.4.5	28587	Cytidine deaminase	Named in bundled map	311	2101	7.349494525
+EC:3.5.4.6	28587	AMP deaminase	Named in bundled map	311	2101	7.349494525
+EC:3.6.1.10	28587	Endopolyphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.6.1.11	28587	Exopolyphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.6.1.23	28587	dUTP diphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.6.1.42	28587	Guanosine-diphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.6.1.43	28587	Dolichyldiphosphatase	Named in bundled map	311	2101	7.349494525
+EC:3.6.3.16	28587	Arsenite-transporting ATPase	Transferred in bundled map	311	2101	7.349494525
+EC:3.6.4.6	28587	Vesicle-fusing ATPase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.21	28587	Phosphoribosylaminoimidazole carboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.28	28587	Aromatic-L-amino-acid decarboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.33	28587	Diphosphomevalonate decarboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.36	28587	Phosphopantothenoylcysteine decarboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.37	28587	Uroporphyrinogen decarboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.49	28587	Phosphoenolpyruvate carboxykinase (ATP)	Named in bundled map	311	2101	7.349494525
+EC:4.1.1.50	28587	Adenosylmethionine decarboxylase	Named in bundled map	311	2101	7.349494525
+EC:4.1.2.27	28587	Sphinganine-1-phosphate aldolase	Named in bundled map	311	2101	7.349494525
+EC:4.3.2.2	28587	Adenylosuccinate lyase	Named in bundled map	311	2101	7.349494525
+EC:4.4.1.1	28587	Cystathionine gamma-lyase	Named in bundled map	311	2101	7.349494525
+EC:4.99.1.1	28587	Ferrochelatase	Named in bundled map	311	2101	7.349494525
+EC:5.1.3.1	28587	Ribulose-phosphate 3-epimerase	Named in bundled map	311	2101	7.349494525
+EC:5.3.1.16	28587	isomerase	Named in bundled map	311	2101	7.349494525
+EC:5.3.1.9	28587	Glucose-6-phosphate isomerase	Named in bundled map	311	2101	7.349494525
+EC:5.3.3.2	28587	Isopentenyl-diphosphate Delta-isomerase	Named in bundled map	311	2101	7.349494525
+EC:5.4.2.2	28587	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	Named in bundled map	311	2101	7.349494525
+EC:5.4.2.3	28587	Phosphoacetylglucosamine mutase	Named in bundled map	311	2101	7.349494525
+EC:5.4.99.5	28587	Chorismate mutase	Named in bundled map	311	2101	7.349494525
+EC:5.5.1.4	28587	Inositol-3-phosphate synthase	Named in bundled map	311	2101	7.349494525
+EC:6.1.1.14	28587	Glycine--tRNA ligase	Named in bundled map	311	2101	7.349494525
+EC:6.1.1.16	28587	Cysteine--tRNA ligase	Named in bundled map	311	2101	7.349494525
+EC:6.1.1.18	28587	Glutamine--tRNA ligase	Named in bundled map	311	2101	7.349494525
+EC:6.1.1.21	28587	Histidine--tRNA ligase	Named in bundled map	311	2101	7.349494525
+EC:6.1.1.7	28587	Alanine--tRNA ligase	Named in bundled map	311	2101	7.349494525
+EC:6.3.2.1	28587	Pantoate--beta-alanine ligase (AMP-forming)	Named in bundled map	311	2101	7.349494525
+EC:6.3.2.5	28587	Phosphopantothenate--cysteine ligase	Named in bundled map	311	2101	7.349494525
+EC:6.3.2.6	28587	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	Named in bundled map	311	2101	7.349494525
+EC:6.3.4.2	28587	CTP synthase (glutamine hydrolyzing)	Named in bundled map	311	2101	7.349494525
+EC:6.3.4.4	28587	Adenylosuccinate synthase	Named in bundled map	311	2101	7.349494525
+EC:6.3.4.5	28587	Argininosuccinate synthase	Named in bundled map	311	2101	7.349494525
+EC:6.3.5.1	28587	NAD(+) synthase (glutamine-hydrolyzing)	Named in bundled map	311	2101	7.349494525
+EC:6.3.5.3	28587	Phosphoribosylformylglycinamidine synthase	Named in bundled map	311	2101	7.349494525
+EC:6.5.1.3	28587	RNA ligase (ATP)	Named in bundled map	311	2101	7.349494525
+EC:2.7.7.53	28508	ATP adenylyltransferase	Named in bundled map	457	2101	7.369861092
+EC:3.4.23.5	28501	Cathepsin D	Named in bundled map	458	2101	7.371671169
+EC:1.1.99.5	28441	Transferred entry 1.1.5.3	Transferred in bundled map	459	2101	7.387222671
+EC:1.14.99.7	28441	Transferred entry 1.14.14.17	Transferred in bundled map	459	2101	7.387222671
+EC:1.18.1.2	28441	Ferredoxin--NADP(+) reductase	Named in bundled map	459	2101	7.387222671
+EC:1.3.99.5	28441	3-oxo-5-alpha-steroid 4-dehydrogenase (acceptor)	Named in bundled map	459	2101	7.387222671
+EC:2.1.1.32	28441	Transferred entry 2.1.1.213, 2.1.1.214, 2.1.1.215 and 2.1.1.216	Transferred in bundled map	459	2101	7.387222671
+EC:2.1.1.72	28441	Site-specific DNA-methyltransferase (adenine-specific)	Named in bundled map	459	2101	7.387222671
+EC:2.3.1.15	28441	Glycerol-3-phosphate 1-O-acyltransferase	Named in bundled map	459	2101	7.387222671
+EC:2.3.1.41	28441	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Named in bundled map	459	2101	7.387222671
+EC:2.4.1.132	28441	GDP-Man:Man(1)GlcNAc(2)-PP-dolichol alpha-1,3-mannosyltransferase	Named in bundled map	459	2101	7.387222671
+EC:2.5.1.8	28441	Transferred entry 2.5.1.75	Transferred in bundled map	459	2101	7.387222671
+EC:2.7.7.1	28441	Nicotinamide-nucleotide adenylyltransferase	Named in bundled map	459	2101	7.387222671
+EC:2.7.7.23	28441	UDP-N-acetylglucosamine diphosphorylase	Named in bundled map	459	2101	7.387222671
+EC:2.7.7.8	28441	Polyribonucleotide nucleotidyltransferase	Named in bundled map	459	2101	7.387222671
+EC:2.8.1.1	28441	Thiosulfate sulfurtransferase	Named in bundled map	459	2101	7.387222671
+EC:3.1.2.16	28441	Citrate-lyase deacetylase	Named in bundled map	459	2101	7.387222671
+EC:3.4.11.5	28441	Prolyl aminopeptidase	Named in bundled map	459	2101	7.387222671
+EC:3.4.13.20	28441	Beta-Ala-His dipeptidase	Named in bundled map	459	2101	7.387222671
+EC:3.4.24.57	28441	O-sialoglycoprotein endopeptidase	Named in bundled map	459	2101	7.387222671
+EC:4.1.3.6	28441	Citrate (pro-3S)-lyase	Named in bundled map	459	2101	7.387222671
+EC:1.14.11.8	28362	Trimethyllysine dioxygenase	Named in bundled map	478	2101	7.407799168
+EC:1.5.1.7	28362	Saccharopine dehydrogenase (NAD(+), L-lysine-forming)	Named in bundled map	478	2101	7.407799168
+EC:3.1.3.3	28362	Phosphoserine phosphatase	Named in bundled map	478	2101	7.407799168
+EC:2.6.1.5	28355	Tyrosine transaminase	Named in bundled map	481	2101	7.409627932
+EC:1.1.1.102	28324	3-dehydrosphinganine reductase	Named in bundled map	482	2101	7.417737608
+EC:3.6.1.29	28276	Bis(5'-adenosyl)-triphosphatase	Named in bundled map	483	2101	7.430329608
+EC:1.2.1.19	28216	Aminobutyraldehyde dehydrogenase	Named in bundled map	484	2101	7.446129855
+EC:3.6.1.22	28187	NAD(+) diphosphatase	Named in bundled map	485	2101	7.453790755
+EC:4.2.1.19	28130	Imidazoleglycerol-phosphate dehydratase	Named in bundled map	486	2101	7.468894419
+EC:5.2.1.2	28032	Maleylacetoacetate isomerase	Named in bundled map	487	2101	7.495005708
+EC:1.1.3.8	27984	L-gulonolactone oxidase	Named in bundled map	488	2101	7.507861635
+EC:1.1.1.105	26134	All-trans-retinol dehydrogenase (NAD(+))	Named in bundled map	489	0	0
+EC:1.4.1.13	26105	Glutamate synthase (NADPH)	Named in bundled map	490	0	0
+EC:2.1.1.2	26105	Guanidinoacetate N-methyltransferase	Named in bundled map	490	0	0
+EC:3.1.13.1	26105	Exoribonuclease II	Named in bundled map	490	0	0
+EC:6.5.1.2	26105	DNA ligase (NAD(+))	Named in bundled map	490	0	0
+EC:1.1.1.23	26007	Histidinol dehydrogenase	Named in bundled map	494	0	0
+EC:1.8.4.6	26007	Transferred entry 1.8.4.11	Transferred in bundled map	494	0	0
+EC:2.4.2.1	26007	Purine-nucleoside phosphorylase	Named in bundled map	494	0	0
+EC:2.6.1.44	26007	Alanine--glyoxylate transaminase	Named in bundled map	494	0	0
+EC:3.1.3.18	26007	Phosphoglycolate phosphatase	Named in bundled map	494	0	0
+EC:4.2.1.96	26007	4a-hydroxytetrahydrobiopterin dehydratase	Named in bundled map	494	0	0
+EC:3.6.1.5	25921	Apyrase	Named in bundled map	500	0	0
+EC:4.1.1.23	25921	Orotidine-5'-phosphate decarboxylase	Named in bundled map	500	0	0
+EC:1.1.1.27	25842	L-lactate dehydrogenase	Named in bundled map	502	0	0
+EC:1.1.1.79	25775	Glyoxylate reductase (NADP(+))	Named in bundled map	503	0	0
+EC:2.7.1.82	25696	Ethanolamine kinase	Named in bundled map	504	0	0
+EC:2.7.7.14	25696	Ethanolamine-phosphate cytidylyltransferase	Named in bundled map	504	0	0
+EC:3.6.1.19	25696	Nucleoside-triphosphate diphosphatase	Transferred in bundled map	504	0	0
+EC:1.1.1.146	25550	11-beta-hydroxysteroid dehydrogenase	Named in bundled map	507	0	0
+EC:1.1.1.193	25550	5-amino-6-(5-phosphoribosylamino)uracil reductase	Named in bundled map	507	0	0
+EC:1.14.16.1	25550	Phenylalanine 4-monooxygenase	Named in bundled map	507	0	0
+EC:2.1.1.13	25550	Methionine synthase	Named in bundled map	507	0	0
+EC:2.1.1.61	25550	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	Named in bundled map	507	0	0
+EC:2.4.2.12	25550	Nicotinamide phosphoribosyltransferase	Named in bundled map	507	0	0
+EC:2.4.2.3	25550	Uridine phosphorylase	Named in bundled map	507	0	0
+EC:2.4.2.8	25550	Hypoxanthine phosphoribosyltransferase	Named in bundled map	507	0	0
+EC:2.5.1.17	25550	Cob(I)yrinic acid a,c-diamide adenosyltransferase	Named in bundled map	507	0	0
+EC:2.5.1.33	25550	Transferred entry 2.5.1.82 and 2.5.1.83	Transferred in bundled map	507	0	0
+EC:2.7.4.14	25550	UMP/CMP kinase	Named in bundled map	507	0	0
+EC:2.7.4.7	25550	Phosphomethylpyrimidine kinase	Named in bundled map	507	0	0
+EC:3.1.3.62	25550	Multiple inositol-polyphosphate phosphatase	Named in bundled map	507	0	0
+EC:3.1.30.2	25550	Serratia marcescens nuclease	Named in bundled map	507	0	0
+EC:3.4.11.1	25550	Leucyl aminopeptidase	Named in bundled map	507	0	0
+EC:3.4.14.10	25550	Tripeptidyl-peptidase II	Named in bundled map	507	0	0
+EC:3.4.21.26	25550	Prolyl oligopeptidase	Named in bundled map	507	0	0
+EC:3.4.21.83	25550	Oligopeptidase B	Named in bundled map	507	0	0
+EC:3.4.23.3	25550	Gastricsin	Named in bundled map	507	0	0
+EC:3.4.24.15	25550	Thimet oligopeptidase	Named in bundled map	507	0	0
+EC:3.5.1.14	25550	N-acyl-aliphatic-L-amino acid amidohydrolase	Named in bundled map	507	0	0
+EC:4.1.1.9	25550	Malonyl-CoA decarboxylase	Named in bundled map	507	0	0
+EC:4.2.1.47	25550	GDP-mannose 4,6-dehydratase	Named in bundled map	507	0	0
+EC:5.1.99.1	25550	Methylmalonyl-CoA epimerase	Named in bundled map	507	0	0
+EC:5.4.99.2	25550	Methylmalonyl-CoA mutase	Named in bundled map	507	0	0
+EC:6.2.1.5	25550	Succinate--CoA ligase (ADP-forming)	Named in bundled map	507	0	0
+EC:3.2.1.58	22393	Glucan 1,3-beta-glucosidase	Named in bundled map	533	14707	65.67677399
+EC:1.14.13.7	21173	Phenol 2-monooxygenase	Named in bundled map	534	12606	59.53809096
+EC:3.2.1.101	20814	Mannan endo-1,6-alpha-mannosidase	Named in bundled map	535	14707	70.65917171
+EC:3.5.1.4	19761	Amidase	Named in bundled map	536	10505	53.16026517
+EC:1.1.1.125	14833	2-deoxy-D-gluconate 3-dehydrogenase	Named in bundled map	537	10505	70.82181622
+EC:3.4.23.18	14503	Aspergillopepsin I	Named in bundled map	538	10505	72.43328966
+EC:1.6.99.1	13646	NADPH dehydrogenase	Named in bundled map	539	10505	76.98226587
+EC:3.2.1.67	12827	Galacturan 1,4-alpha-galacturonidase	Named in bundled map	540	10505	81.89755983
+EC:1.1.1.101	12811	Acylglycerone-phosphate reductase	Named in bundled map	541	8404	65.59987511
+EC:1.10.3.2	12545	Laccase	Named in bundled map	542	8404	66.990833
+EC:1.11.1.6	12294	Catalase	Named in bundled map	543	8404	68.35854889
+EC:1.3.1.33	11361	Protochlorophyllide reductase	Named in bundled map	544	8404	73.97236159
+EC:3.5.4.4	11222	Adenosine deaminase	Named in bundled map	545	8404	74.88861166
+EC:3.2.1.22	10736	Alpha-galactosidase	Named in bundled map	546	8404	78.27868852
+EC:1.14.11.13	10717	Gibberellin 2-beta-dioxygenase	Named in bundled map	547	6303	58.81310068
+EC:3.4.14.9	10511	Tripeptidyl-peptidase I	Named in bundled map	548	6303	59.96575017
+EC:1.4.3.4	10425	Monoamine oxidase	Named in bundled map	549	8404	80.61390887
+EC:3.5.3.11	9549	Agmatinase	Named in bundled map	550	6303	66.00691172
+EC:1.10.3.3	9530	L-ascorbate oxidase	Named in bundled map	551	6303	66.13850997
+EC:3.2.1.59	9329	Glucan endo-1,3-alpha-glucosidase	Named in bundled map	552	6303	67.56351163
+EC:4.2.1.6	9317	Galactonate dehydratase	Named in bundled map	553	6303	67.65053129
+EC:3.1.6.1	9250	Arylsulfatase	Named in bundled map	554	6303	68.14054054
+EC:4.1.99.3	9032	Deoxyribodipyrimidine photo-lyase	Named in bundled map	555	6303	69.78520815
+EC:1.1.1.195	8965	Cinnamyl-alcohol dehydrogenase	Named in bundled map	556	6303	70.30674847
+EC:2.6.1.62	8879	Adenosylmethionine--8-amino-7-oxononanoate transaminase	Named in bundled map	557	6303	70.98772384
+EC:3.4.23.41	8800	Yapsin 1	Named in bundled map	558	6303	71.625
+EC:1.2.1.5	8654	Aldehyde dehydrogenase (NAD(P)(+))	Named in bundled map	559	6303	72.83337185
+EC:1.1.1.215	8362	Gluconate 2-dehydrogenase	Named in bundled map	560	6303	75.37670414
+EC:3.4.17.21	8175	Glutamate carboxypeptidase II	Named in bundled map	561	6303	77.10091743
+EC:3.1.1.8	7845	Cholinesterase	Named in bundled map	562	6303	80.34416826
+EC:3.4.23.24	7826	Candidapepsin	Named in bundled map	563	6303	80.53922821
+EC:1.4.3.6	7146	Transferred entry 1.4.3.21 and 1.4.3.22	Transferred in bundled map	564	4202	58.80212706
+EC:4.1.1.45	6823	Aminocarboxymuconate-semialdehyde decarboxylase	Named in bundled map	565	4202	61.58581269
+EC:1.1.1.250	6756	D-arabinitol 2-dehydrogenase	Named in bundled map	566	4202	62.19656602
+EC:4.1.1.1	6737	Pyruvate decarboxylase	Named in bundled map	567	4202	62.37197566
+EC:3.5.5.1	6610	Nitrilase	Named in bundled map	568	4202	63.57034796
+EC:3.2.1.25	6445	Beta-mannosidase	Named in bundled map	569	4202	65.19782777
+EC:1.1.2.4	6347	D-lactate dehydrogenase (cytochrome)	Named in bundled map	570	4202	66.20450607
+EC:2.4.2.29	6252	tRNA-guanine(34) transglycosylase	Named in bundled map	571	4202	67.21049264
+EC:3.2.1.15	6239	Polygalacturonase	Named in bundled map	572	4202	67.35053695
+EC:3.4.13.19	6220	Membrane dipeptidase	Named in bundled map	573	4202	67.5562701
+EC:3.2.1.23	6153	Beta-galactosidase	Named in bundled map	574	4202	68.29189013
+EC:3.5.2.6	6014	Beta-lactamase	Named in bundled map	575	4202	69.87030263
+EC:1.14.13.12	5986	Benzoate 4-monooxygenase	Transferred in bundled map	576	0	0
+EC:2.7.1.32	5928	Choline kinase	Named in bundled map	577	4202	70.88394062
+EC:1.1.1.85	5890	3-isopropylmalate dehydrogenase	Named in bundled map	578	4202	71.34125637
+EC:3.6.1.13	5617	ADP-ribose diphosphatase	Named in bundled map	579	4202	74.8086167
+EC:3.2.1.26	5598	Beta-fructofuranosidase	Named in bundled map	580	4202	75.06252233
+EC:1.11.1.11	5557	L-ascorbate peroxidase	Named in bundled map	581	4202	75.61633975
+EC:3.2.1.31	5550	Beta-glucuronidase	Named in bundled map	582	4202	75.71171171
+EC:3.4.17.4	5471	Gly-Xaa carboxypeptidase	Named in bundled map	583	4202	76.80497167
+EC:3.2.1.1	4693	Alpha-amylase	Named in bundled map	584	2101	44.7688046
+EC:3.1.1.45	4418	Carboxymethylenebutenolidase	Named in bundled map	585	2101	47.55545496
+EC:1.5.3.1	4207	Sarcosine oxidase	Named in bundled map	586	2101	49.94057523
+EC:2.4.1.34	3916	1,3-beta-glucan synthase	Named in bundled map	587	2101	53.65168539
+EC:2.1.1.6	3865	Catechol O-methyltransferase	Named in bundled map	588	2101	54.35963777
+EC:2.4.1.131	3672	GDP-Man:Man(3)GlcNAc(2)-PP-dolichol alpha-1,2-mannosyltransferase	Named in bundled map	589	2101	57.2167756
+EC:3.1.1.17	3621	Gluconolactonase	Named in bundled map	590	2101	58.02264568
+EC:2.4.1.183	3487	Alpha-1,3-glucan synthase	Named in bundled map	591	2101	60.25236593
+EC:2.7.8.23	3487	Carboxyvinyl-carboxyphosphonate phosphorylmutase	Named in bundled map	591	2101	60.25236593
+EC:2.8.3.5	3475	3-oxoacid CoA-transferase	Named in bundled map	593	2101	60.46043165
+EC:3.5.1.16	3408	Acetylornithine deacetylase	Named in bundled map	594	2101	61.64906103
+EC:4.2.1.33	3408	3-isopropylmalate dehydratase	Named in bundled map	594	2101	61.64906103
+EC:1.2.1.28	3341	Benzaldehyde dehydrogenase (NAD(+))	Named in bundled map	596	2101	62.88536366
+EC:1.3.1.20	3341	Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase	Named in bundled map	596	2101	62.88536366
+EC:1.1.1.206	3329	Tropinone reductase I	Named in bundled map	598	2101	63.11204566
+EC:5.4.3.8	3329	Glutamate-1-semialdehyde 2,1-aminomutase	Named in bundled map	598	2101	63.11204566
+EC:1.1.1.103	3262	L-threonine 3-dehydrogenase	Named in bundled map	600	2101	64.40833844
+EC:3.4.14.4	3262	Dipeptidyl-peptidase III	Named in bundled map	600	2101	64.40833844
+EC:3.5.1.49	3262	Formamidase	Named in bundled map	600	2101	64.40833844
+EC:3.5.1.6	3262	Beta-ureidopropionase	Named in bundled map	600	2101	64.40833844
+EC:4.2.1.79	3262	2-methylcitrate dehydratase	Named in bundled map	600	2101	64.40833844
+EC:1.2.1.2	3183	Formate dehydrogenase	Transferred in bundled map	605	2101	66.00691172
+EC:2.3.1.85	3183	Fatty-acid synthase	Named in bundled map	605	2101	66.00691172
+EC:3.2.1.45	3183	Glucosylceramidase	Named in bundled map	605	2101	66.00691172
+EC:4.2.1.75	3183	Uroporphyrinogen-III synthase	Named in bundled map	605	2101	66.00691172
+EC:1.1.1.40	3126	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))	Named in bundled map	609	2101	67.21049264
+EC:1.7.3.3	3126	Factor independent urate hydroxylase	Named in bundled map	609	2101	67.21049264
+EC:3.5.2.5	3126	Allantoinase	Named in bundled map	609	2101	67.21049264
+EC:1.11.1.7	3123	Peroxidase	Named in bundled map	612	2101	67.27505604
+EC:1.14.11.9	3116	Flavanone 3-dioxygenase	Named in bundled map	613	2101	67.42618742
+EC:1.3.1.35	3116	Transferred entry 1.14.19.22	Transferred in bundled map	613	2101	67.42618742
+EC:3.6.1.15	3116	Nucleoside-triphosphate phosphatase	Named in bundled map	613	2101	67.42618742
+EC:4.2.1.52	3116	Transferred entry 4.3.3.7	Transferred in bundled map	613	2101	67.42618742
+EC:1.13.99.1	3037	Inositol oxygenase	Named in bundled map	617	2101	69.18011195
+EC:1.14.11.2	3037	Procollagen-proline dioxygenase	Named in bundled map	617	2101	69.18011195
+EC:1.4.3.5	3037	Pyridoxal 5'-phosphate synthase	Named in bundled map	617	2101	69.18011195
+EC:1.6.1.2	3037	NAD(P)(+) transhydrogenase (Re/Si-specific)	Named in bundled map	617	2101	69.18011195
+EC:1.6.5.4	3037	Monodehydroascorbate reductase (NADH)	Named in bundled map	617	2101	69.18011195
+EC:2.1.1.16	3037	Methylene-fatty-acyl-phospholipid synthase	Named in bundled map	617	2101	69.18011195
+EC:2.3.1.5	3037	Arylamine N-acetyltransferase	Named in bundled map	617	2101	69.18011195
+EC:2.3.1.87	3037	Aralkylamine N-acetyltransferase	Named in bundled map	617	2101	69.18011195
+EC:2.6.1.19	3037	4-aminobutyrate--2-oxoglutarate transaminase	Named in bundled map	617	2101	69.18011195
+EC:2.7.2.1	3037	Acetate kinase	Named in bundled map	617	2101	69.18011195
+EC:2.7.7.12	3037	UDP-glucose--hexose-1-phosphate uridylyltransferase	Named in bundled map	617	2101	69.18011195
+EC:3.1.3.21	3037	Glycerol-1-phosphatase	Named in bundled map	617	2101	69.18011195
+EC:3.2.1.55	3037	Non-reducing end alpha-L-arabinofuranosidase	Named in bundled map	617	2101	69.18011195
+EC:3.2.2.21	3037	DNA-3-methyladenine glycosylase II	Named in bundled map	617	2101	69.18011195
+EC:3.5.1.10	3037	Formyltetrahydrofolate deformylase	Named in bundled map	617	2101	69.18011195
+EC:3.5.1.19	3037	Nicotinamidase	Named in bundled map	617	2101	69.18011195
+EC:4.1.1.25	3037	Tyrosine decarboxylase	Named in bundled map	617	2101	69.18011195
+EC:4.1.2.4	3037	Deoxyribose-phosphate aldolase	Named in bundled map	617	2101	69.18011195
+EC:4.2.1.10	3037	3-dehydroquinate dehydratase	Named in bundled map	617	2101	69.18011195
+EC:4.2.1.69	3037	Cyanamide hydratase	Named in bundled map	617	2101	69.18011195
+EC:6.2.1.17	3037	Propionate--CoA ligase	Named in bundled map	617	2101	69.18011195
+EC:1.14.13.17	2958	Cholesterol 7-alpha-monooxygenase	Transferred in bundled map	638	2101	71.02772143
+EC:4.3.1.12	2951	Ornithine cyclodeaminase	Named in bundled map	639	2101	71.19620468
+EC:3.6.3.44	2920	Xenobiotic-transporting ATPase	Transferred in bundled map	640	0	0
+EC:3.4.22.40	2901	Bleomycin hydrolase	Named in bundled map	641	2101	72.42330231
+EC:1.1.1.179	2891	D-xylose 1-dehydrogenase (NADP(+))	Named in bundled map	642	2101	72.67381529
+EC:1.1.3.24	2891	Transferred entry 1.3.3.12	Transferred in bundled map	642	2101	72.67381529
+EC:1.1.3.6	2891	Cholesterol oxidase	Named in bundled map	642	2101	72.67381529
+EC:1.13.11.37	2891	Hydroxyquinol 1,2-dioxygenase	Named in bundled map	642	2101	72.67381529
+EC:1.13.12.7	2891	Firefly luciferase	Named in bundled map	642	2101	72.67381529
+EC:1.14.99.9	2891	Transferred entry 1.14.14.19	Transferred in bundled map	642	2101	72.67381529
+EC:1.3.99.7	2891	Transferred entry 1.3.8.6	Transferred in bundled map	642	2101	72.67381529
+EC:2.4.2.11	2891	Transferred entry 6.3.4.21	Transferred in bundled map	642	2101	72.67381529
+EC:2.5.1.31	2891	diphosphate specific)	Named in bundled map	642	2101	72.67381529
+EC:2.6.1.66	2891	Valine--pyruvate transaminase	Named in bundled map	642	2101	72.67381529
+EC:2.7.1.3	2891	Ketohexokinase	Named in bundled map	642	2101	72.67381529
+EC:3.1.4.43	2891	Glycerophosphoinositol inositolphosphodiesterase	Named in bundled map	642	2101	72.67381529
+EC:3.2.1.89	2891	Arabinogalactan endo-beta-1,4-galactanase	Named in bundled map	642	2101	72.67381529
+EC:3.4.24.37	2891	Saccharolysin	Named in bundled map	642	2101	72.67381529
+EC:3.5.3.19	2891	Transferred entry 3.5.1.116	Transferred in bundled map	642	2101	72.67381529
+EC:5.3.99.5	2891	Thromboxane-A synthase	Named in bundled map	642	2101	72.67381529
+EC:2.3.1.74	2812	Naringenin-chalcone synthase	Named in bundled map	658	2101	74.71550498
+EC:3.2.1.51	2812	Alpha-L-fucosidase	Named in bundled map	658	2101	74.71550498
+EC:3.4.11.19	2812	D-stereospecific aminopeptidase	Named in bundled map	658	2101	74.71550498
+EC:3.4.11.22	2812	Aminopeptidase I	Named in bundled map	658	2101	74.71550498
+EC:3.5.1.52	2812	Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase	Named in bundled map	658	2101	74.71550498
+EC:3.6.1.7	2812	Acylphosphatase	Named in bundled map	658	2101	74.71550498
+EC:2.1.1.127	2805	[Ribulose-bisphosphate carboxylase]-lysine N-methyltransferase	Named in bundled map	664	2101	74.90196078
+EC:2.3.1.42	2805	Glycerone-phosphate O-acyltransferase	Named in bundled map	664	2101	74.90196078
+EC:1.2.1.24	2726	Succinate-semialdehyde dehydrogenase (NAD(+))	Named in bundled map	666	2101	77.0726339
+EC:2.1.1.63	2726	Methylated-DNA--[protein]-cysteine S-methyltransferase	Named in bundled map	666	2101	77.0726339
+EC:1.1.1.28	2659	D-lactate dehydrogenase	Named in bundled map	668	2101	79.01466717
+EC:3.4.23.1	2659	Pepsin A	Named in bundled map	668	2101	79.01466717
+EC:3.5.1.23	2628	Ceramidase	Named in bundled map	670	2101	79.94672755
+EC:3.6.3.7	2628	Transferred entry 7.2.2.3	Transferred in bundled map	670	2101	79.94672755
+EC:1.2.1.8	2580	Betaine-aldehyde dehydrogenase	Named in bundled map	672	2101	81.43410853
+EC:2.1.1.95	2580	Tocopherol O-methyltransferase	Named in bundled map	672	2101	81.43410853
+EC:2.7.1.31	2580	Glycerate 3-kinase	Named in bundled map	672	2101	81.43410853
+EC:3.1.1.11	2580	Pectinesterase	Named in bundled map	672	2101	81.43410853
+EC:5.5.1.2	2539	3-carboxy-cis,cis-muconate cycloisomerase	Named in bundled map	676	2101	82.74911382
+EC:1.97.1.4	2482	[Formate-C-acetyltransferase]-activating enzyme	Named in bundled map	677	0	0
+EC:3.1.3.37	2434	Sedoheptulose-bisphosphatase	Named in bundled map	678	2101	86.31881676
+EC:3.10.1.1	2434	N-sulfoglucosamine sulfohydrolase	Named in bundled map	678	2101	86.31881676
+EC:3.4.17.15	2434	Carboxypeptidase A2	Named in bundled map	678	2101	86.31881676
+EC:3.5.1.26	2434	N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase	Named in bundled map	678	2101	86.31881676
+EC:3.6.1.41	2434	Bis(5'-nucleosyl)-tetraphosphatase (symmetrical)	Named in bundled map	678	2101	86.31881676
+EC:2.4.1.17	2336	Glucuronosyltransferase	Named in bundled map	683	2101	89.94006849
+EC:3.4.17.1	2101	Carboxypeptidase A	Named in bundled map	684	2101	100
+EC:3.7.1.5	1606	Acylpyruvate hydrolase	Named in bundled map	685	0	0
+EC:4.1.2.17	1371	L-fuculose-phosphate aldolase	Named in bundled map	686	0	0
+EC:3.6.3.29	1168	Molybdate-transporting ATPase	Transferred in bundled map	687	0	0
+EC:1.1.1.4	1139	(R,R)-butanediol dehydrogenase	Named in bundled map	688	0	0
+EC:3.5.2.2	1041	Dihydropyrimidinase	Named in bundled map	689	0	0
+EC:1.14.11.12	1022	Gibberellin-44 dioxygenase	Named in bundled map	690	0	0
+EC:2.7.1.47	936	D-ribulokinase	Named in bundled map	691	0	0
+EC:2.1.1.109	876	Demethylsterigmatocystin 6-O-methyltransferase	Named in bundled map	692	0	0
+EC:2.8.3.13	876	Succinate--hydroxymethylglutarate CoA-transferase	Named in bundled map	692	0	0
+EC:4.1.1.46	876	o-pyrocatechuate decarboxylase	Named in bundled map	692	0	0
+EC:1.1.1.156	730	Glycerol 2-dehydrogenase (NADP(+))	Named in bundled map	695	0	0
+EC:1.13.11.1	730	Catechol 1,2-dioxygenase	Named in bundled map	695	0	0
+EC:1.1.1.18	682	Inositol 2-dehydrogenase	Named in bundled map	697	0	0
+EC:1.5.3.11	682	Transferred entry 1.5.3.13, 1.5.3.14, 1.5.3.15, 1.5.3.16 and 1.5.3.17	Transferred in bundled map	697	0	0
+EC:1.14.12.3	675	Benzene 1,2-dioxygenase	Named in bundled map	699	0	0
+EC:1.1.1.9	663	D-xylulose reductase	Named in bundled map	700	0	0
+EC:1.1.1.93	641	Tartrate dehydrogenase	Named in bundled map	701	0	0
+EC:1.1.1.208	584	(+)-neomenthol dehydrogenase	Named in bundled map	702	0	0
+EC:2.3.1.135	584	Phosphatidylcholine--retinol O-acyltransferase	Named in bundled map	702	0	0
+EC:3.8.1.2	584	(S)-2-haloacid dehalogenase	Named in bundled map	702	0	0
+EC:4.1.1.6	584	Aconitate decarboxylase	Named in bundled map	702	0	0
+EC:1.1.1.56	555	Ribitol 2-dehydrogenase	Named in bundled map	706	0	0
+EC:2.1.1.114	555	Polyprenyldihydroxybenzoate methyltransferase	Named in bundled map	706	0	0
+EC:2.3.1.20	555	Diacylglycerol O-acyltransferase	Named in bundled map	706	0	0
+EC:1.2.1.51	457	Pyruvate dehydrogenase (NADP(+))	Named in bundled map	709	0	0
+EC:2.4.2.21	457	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	Named in bundled map	709	0	0
+EC:4.3.1.5	450	Transferred entry 4.3.1.23, 4.3.1.24 and 4.3.1.25	Transferred in bundled map	711	0	0
+EC:1.14.11.18	438	Phytanoyl-CoA dioxygenase	Named in bundled map	712	0	0
+EC:1.3.1.9	438	Enoyl-[acyl-carrier-protein] reductase (NADH)	Named in bundled map	712	0	0
+EC:2.3.1.133	438	Shikimate O-hydroxycinnamoyltransferase	Named in bundled map	712	0	0
+EC:3.1.11.2	438	Exodeoxyribonuclease III	Named in bundled map	712	0	0
+EC:3.1.3.8	438	3-phytase	Named in bundled map	712	0	0
+EC:3.2.2.3	438	Uridine nucleosidase	Named in bundled map	712	0	0
+EC:3.5.99.5	438	2-aminomuconate deaminase	Named in bundled map	712	0	0
+EC:4.2.1.66	438	Cyanide hydratase	Named in bundled map	712	0	0
+EC:1.2.1.36	371	Retinal dehydrogenase	Named in bundled map	720	0	0
+EC:1.3.1.28	330	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	Named in bundled map	721	0	0
+EC:6.3.2.25	323	Tubulin--tyrosine ligase	Named in bundled map	722	0	0
+EC:1.1.1.10	292	L-xylulose reductase	Named in bundled map	723	0	0
+EC:1.1.1.116	292	D-arabinose 1-dehydrogenase (NAD(+))	Named in bundled map	723	0	0
+EC:1.1.1.173	292	L-rhamnose 1-dehydrogenase	Named in bundled map	723	0	0
+EC:1.1.1.252	292	Tetrahydroxynaphthalene reductase	Named in bundled map	723	0	0
+EC:1.1.1.29	292	Glycerate dehydrogenase	Named in bundled map	723	0	0
+EC:1.1.3.13	292	Alcohol oxidase	Named in bundled map	723	0	0
+EC:1.13.12.4	292	Lactate 2-monooxygenase	Named in bundled map	723	0	0
+EC:1.4.3.3	292	D-amino-acid oxidase	Named in bundled map	723	0	0
+EC:1.8.1.2	292	Assimilatory sulfite reductase (NADPH)	Named in bundled map	723	0	0
+EC:1.8.3.2	292	Thiol oxidase	Named in bundled map	723	0	0
+EC:2.1.1.1	292	Nicotinamide N-methyltransferase	Named in bundled map	723	0	0
+EC:2.1.1.137	292	Arsenite methyltransferase	Named in bundled map	723	0	0
+EC:2.1.1.60	292	Calmodulin-lysine N-methyltransferase	Named in bundled map	723	0	0
+EC:2.3.1.86	292	Fatty-acyl-CoA synthase	Named in bundled map	723	0	0
+EC:2.7.1.78	292	Polynucleotide 5'-hydroxyl-kinase	Named in bundled map	723	0	0
+EC:2.7.7.48	292	 ;  Q06996, L_SENDF    	Named in bundled map	723	0	0
+EC:3.1.1.13	292	Sterol esterase	Named in bundled map	723	0	0
+EC:3.1.1.4	292	Phospholipase A(2)	Named in bundled map	723	0	0
+EC:3.1.1.73	292	Feruloyl esterase	Named in bundled map	723	0	0
+EC:3.2.1.37	292	Xylan 1,4-beta-xylosidase	Named in bundled map	723	0	0
+EC:3.2.1.39	292	Glucan endo-1,3-beta-D-glucosidase	Named in bundled map	723	0	0
+EC:3.2.1.99	292	Arabinan endo-1,5-alpha-L-arabinosidase	Named in bundled map	723	0	0
+EC:3.5.1.3	292	Omega-amidase	Named in bundled map	723	0	0
+EC:3.6.1.21	292	ADP-sugar diphosphatase	Named in bundled map	723	0	0
+EC:3.6.3.27	292	Phosphate-transporting ATPase	Transferred in bundled map	723	0	0
+EC:3.8.1.5	292	Haloalkane dehalogenase	Named in bundled map	723	0	0
+EC:4.1.1.44	292	4-carboxymuconolactone decarboxylase	Named in bundled map	723	0	0
+EC:4.1.3.30	292	Methylisocitrate lyase	Named in bundled map	723	0	0
+EC:4.2.1.18	292	Methylglutaconyl-CoA hydratase	Named in bundled map	723	0	0
+EC:4.2.1.94	292	Scytalone dehydratase	Named in bundled map	723	0	0
+EC:4.4.1.16	292	Selenocysteine lyase	Named in bundled map	723	0	0
+EC:5.5.1.5	292	Carboxy-cis,cis-muconate cyclase	Named in bundled map	723	0	0
+EC:1.2.3.4	232	Oxalate oxidase	Named in bundled map	755	0	0
+EC:1.3.99.2	232	Transferred entry 1.3.8.1	Transferred in bundled map	755	0	0
+EC:2.1.1.34	232	tRNA (guanosine(18)-2'-O)-methyltransferase	Named in bundled map	755	0	0
+EC:2.7.7.56	232	tRNA nucleotidyltransferase	Named in bundled map	755	0	0
+EC:6.3.4.13	232	Phosphoribosylamine--glycine ligase	Named in bundled map	755	0	0
+EC:1.1.1.255	225	Mannitol dehydrogenase	Named in bundled map	760	0	0
+EC:1.13.11.32	225	Transferred entry 1.13.12.16	Transferred in bundled map	760	0	0
+EC:1.14.13.30	225	Transferred entry 1.14.14.94	Transferred in bundled map	760	0	0
+EC:1.5.99.2	225	Transferred entry 1.5.8.4	Transferred in bundled map	760	0	0
+EC:2.1.1.76	225	Quercetin 3-O-methyltransferase	Named in bundled map	760	0	0
+EC:2.3.1.79	225	Maltose O-acetyltransferase	Named in bundled map	760	0	0
+EC:2.4.1.14	225	Sucrose-phosphate synthase	Named in bundled map	760	0	0
+EC:2.7.6.3	225	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	Named in bundled map	760	0	0
+EC:3.4.16.2	225	Lysosomal Pro-Xaa carboxypeptidase	Named in bundled map	760	0	0
+EC:1.1.1.133	146	dTDP-4-dehydrorhamnose reductase	Named in bundled map	769	0	0
+EC:1.1.1.17	146	Mannitol-1-phosphate 5-dehydrogenase	Named in bundled map	769	0	0
+EC:1.1.1.24	146	Quinate dehydrogenase	Named in bundled map	769	0	0
+EC:1.1.3.20	146	Long-chain-alcohol oxidase	Named in bundled map	769	0	0
+EC:1.1.3.37	146	D-arabinono-1,4-lactone oxidase	Named in bundled map	769	0	0
+EC:1.1.99.2	146	L-2-hydroxyglutarate dehydrogenase	Named in bundled map	769	0	0
+EC:1.1.99.24	146	Hydroxyacid-oxoacid transhydrogenase	Named in bundled map	769	0	0
+EC:1.1.99.28	146	Glucose-fructose oxidoreductase	Named in bundled map	769	0	0
+EC:1.13.11.18	146	Persulfide dioxygenase	Named in bundled map	769	0	0
+EC:1.13.11.4	146	Gentisate 1,2-dioxygenase	Named in bundled map	769	0	0
+EC:1.14.11.17	146	Taurine dioxygenase	Named in bundled map	769	0	0
+EC:1.14.13.63	146	3-hydroxyphenylacetate 6-hydroxylase	Named in bundled map	769	0	0
+EC:1.14.99.29	146	Deoxyhypusine monooxygenase	Named in bundled map	769	0	0
+EC:1.14.99.3	146	Transferred entry 1.14.14.18	Transferred in bundled map	769	0	0
+EC:1.16.3.1	146	Ferroxidase	Named in bundled map	769	0	0
+EC:1.3.1.22	146	3-oxo-5-alpha-steroid 4-dehydrogenase (NADP(+))	Named in bundled map	769	0	0
+EC:1.3.99.12	146	2-methylacyl-CoA dehydrogenase	Named in bundled map	769	0	0
+EC:1.4.3.2	146	L-amino-acid oxidase	Named in bundled map	769	0	0
+EC:1.6.5.2	146	NAD(P)H dehydrogenase (quinone)	Named in bundled map	769	0	0
+EC:2.1.1.104	146	Caffeoyl-CoA O-methyltransferase	Named in bundled map	769	0	0
+EC:2.1.1.110	146	Sterigmatocystin 8-O-methyltransferase	Named in bundled map	769	0	0
+EC:2.1.1.125	146	Transferred entry 2.1.1.319, 2.1.1.320, 2.1.1.321 and 2.1.1.322	Transferred in bundled map	769	0	0
+EC:2.1.1.35	146	tRNA (uracil(54)-C(5))-methyltransferase	Named in bundled map	769	0	0
+EC:2.1.1.67	146	Thiopurine S-methyltransferase	Named in bundled map	769	0	0
+EC:2.1.1.85	146	Protein-histidine N-methyltransferase	Named in bundled map	769	0	0
+EC:2.3.1.22	146	2-acylglycerol O-acyltransferase	Named in bundled map	769	0	0
+EC:2.3.1.30	146	Serine O-acetyltransferase	Named in bundled map	769	0	0
+EC:2.3.1.32	146	Lysine N-acetyltransferase	Named in bundled map	769	0	0
+EC:2.4.1.123	146	Inositol 3-alpha-galactosyltransferase	Named in bundled map	769	0	0
+EC:2.4.1.4	146	Amylosucrase	Named in bundled map	769	0	0
+EC:2.4.1.41	146	Polypeptide N-acetylgalactosaminyltransferase	Named in bundled map	769	0	0
+EC:2.4.1.50	146	Procollagen galactosyltransferase	Named in bundled map	769	0	0
+EC:2.4.1.82	146	Galactinol--sucrose galactosyltransferase	Named in bundled map	769	0	0
+EC:2.5.1.39	146	4-hydroxybenzoate polyprenyltransferase	Named in bundled map	769	0	0
+EC:2.6.1.7	146	Kynurenine--oxoglutarate transaminase	Named in bundled map	769	0	0
+EC:2.7.1.86	146	NADH kinase	Named in bundled map	769	0	0
+EC:2.7.7.49	146	RNA-directed DNA polymerase	Named in bundled map	769	0	0
+EC:2.7.7.52	146	RNA uridylyltransferase	Named in bundled map	769	0	0
+EC:2.7.8.7	146	Holo-[acyl-carrier-protein] synthase	Named in bundled map	769	0	0
+EC:3.1.1.65	146	L-rhamnono-1,4-lactonase	Named in bundled map	769	0	0
+EC:3.1.2.12	146	S-formylglutathione hydrolase	Named in bundled map	769	0	0
+EC:3.1.2.4	146	3-hydroxyisobutyryl-CoA hydrolase	Named in bundled map	769	0	0
+EC:3.1.27.3	146	Ribonuclease T(1)	Named in bundled map	769	0	0
+EC:3.1.3.27	146	Phosphatidylglycerophosphatase	Named in bundled map	769	0	0
+EC:3.1.3.43	146	[Pyruvate dehydrogenase (acetyl-transferring)]-phosphatase	Named in bundled map	769	0	0
+EC:3.1.31.1	146	Micrococcal nuclease	Named in bundled map	769	0	0
+EC:3.1.4.3	146	Phospholipase C	Named in bundled map	769	0	0
+EC:3.1.4.37	146	2',3'-cyclic-nucleotide 3'-phosphodiesterase	Named in bundled map	769	0	0
+EC:3.1.6.6	146	Choline-sulfatase	Named in bundled map	769	0	0
+EC:3.2.1.139	146	Alpha-glucuronidase	Named in bundled map	769	0	0
+EC:3.2.1.143	146	Poly(ADP-ribose) glycohydrolase	Named in bundled map	769	0	0
+EC:3.2.1.4	146	Cellulase	Named in bundled map	769	0	0
+EC:3.2.1.40	146	Alpha-L-rhamnosidase	Named in bundled map	769	0	0
+EC:3.2.1.6	146	Endo-1,3(4)-beta-glucanase	Named in bundled map	769	0	0
+EC:3.4.14.2	146	Dipeptidyl-peptidase II	Named in bundled map	769	0	0
+EC:3.4.24.13	146	IgA-specific metalloendopeptidase	Named in bundled map	769	0	0
+EC:3.5.1.53	146	N-carbamoylputrescine amidase	Named in bundled map	769	0	0
+EC:3.5.1.9	146	Arylformamidase	Named in bundled map	769	0	0
+EC:3.5.3.12	146	Agmatine deiminase	Named in bundled map	769	0	0
+EC:3.5.3.9	146	Allantoate deiminase	Named in bundled map	769	0	0
+EC:4.2.1.51	146	Prephenate dehydratase	Named in bundled map	769	0	0
+EC:4.2.1.77	146	Trans-L-3-hydroxyproline dehydratase	Named in bundled map	769	0	0
+EC:4.2.1.90	146	L-rhamnonate dehydratase	Named in bundled map	769	0	0
+EC:4.2.1.93	146	ATP-dependent NAD(P)H-hydrate dehydratase	Named in bundled map	769	0	0
+EC:4.3.1.15	146	Diaminopropionate ammonia-lyase	Named in bundled map	769	0	0
+EC:4.3.2.3	146	Ureidoglycolate lyase	Named in bundled map	769	0	0
+EC:5.1.3.15	146	Glucose-6-phosphate 1-epimerase	Named in bundled map	769	0	0
+EC:5.3.1.13	146	Arabinose-5-phosphate isomerase	Named in bundled map	769	0	0
+EC:5.3.1.23	146	S-methyl-5-thioribose-1-phosphate isomerase	Named in bundled map	769	0	0
+EC:5.3.99.2	146	Prostaglandin-D synthase	Named in bundled map	769	0	0
+EC:5.3.99.3	146	Prostaglandin-E synthase	Named in bundled map	769	0	0
+EC:6.2.1.2	146	Butyrate--CoA ligase	Named in bundled map	769	0	0

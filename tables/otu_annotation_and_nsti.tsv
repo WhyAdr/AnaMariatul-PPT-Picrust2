@@ -1,0 +1,35 @@
+FeatureID	SC	Phylum	Genus	Species	Evidence	ITSxAnyFullBoundary	ReferenceChimera	TaxonLabel	ReadPctPreprocessed	NSTI	PICRUSt2Stage	ITSNormalizedAbundance	FungalTraitsPrimary	FungalTraitsSecondary	FUNGuildTaxon	FUNGuildGuild	FUNGuildTrophicMode	FUNGuildConfidence	FUNGuildProbable
+OTU_1	9715	Chytridiomycota			UNITE full-query match	False	N	Chytridiomycota; unresolved genus	18.53866117	1.382583	Predicted	9715			-			-	False
+OTU_2	6025				ITSx origin only	False	N	fungal origin only	11.49721395		Alignment excluded				-			-	False
+OTU_4	4650				ITSx origin only	False	N	fungal origin only	8.873368445	0.831419	Predicted	4650			-			-	False
+OTU_5	3575				ITSx origin only	False	N	fungal origin only	6.821998321		Alignment excluded				-			-	False
+OTU_6	3180				UNITE full-query match	False	N	fungal origin only	6.068239066	1.106291	Predicted	3180			-			-	False
+OTU_7	2982	Chytridiomycota			UNITE full-query match	False	N	Chytridiomycota; unresolved genus	5.690405313	0.906902	Predicted	2982			Spizellomycetaceae	Plant Pathogen-Undefined Parasite-Undefined Saprotroph	Pathotroph	Probable	True
+OTU_9	2101	Ascomycota	Gibellulopsis		UNITE full-query match	True	?	Gibellulopsis	4.009235936	0.271072	Predicted	2101	plant_pathogen	litter_saprotroph	Gibellulopsis	Plant Pathogen	Pathotroph	Probable	True
+OTU_10	1338				ITSx origin only	False	N	fungal origin only	2.553240211	0.91253	Predicted	1338			-			-	False
+OTU_11	1087				ITSx origin only	False	N	fungal origin only	2.07426914		Alignment excluded				-			-	False
+OTU_12	1083				ITSx origin only	False	N	fungal origin only	2.066636135	0.883522	Predicted	1083			-			-	False
+OTU_13	750				ITSx origin only	False	N	fungal origin only	1.431188459	2.168265	NSTI excluded				-			-	False
+OTU_14	740	Chytridiomycota			UNITE full-query match	False	N	Chytridiomycota; unresolved genus	1.412105946	1.064235	Predicted	740			-			-	False
+OTU_16	373				ITSx origin only	False	N	fungal origin only	0.7117777269	1.137579	Predicted	373			-			-	False
+OTU_17	331				ITSx origin only	False	N	fungal origin only	0.6316311732	1.359111	Predicted	331			-			-	False
+OTU_18	293	Chytridiomycota			UNITE full-query match	False	N	Chytridiomycota; unresolved genus	0.5591176246	1.781543	Predicted	293			-			-	False
+OTU_19	235	Ascomycota	Wardomycopsis		UNITE full-query match	True	N	Wardomycopsis	0.4484390505	0.580287	Predicted	235	soil_saprotroph	foliar_endophyte	Wardomycopsis	Undefined Saprotroph	Saprotroph	Probable	True
+OTU_21	165	Chytridiomycota			UNITE full-query match	False	N	Chytridiomycota; unresolved genus	0.314861461	0.9606	Predicted	165			-			-	False
+OTU_22	152	Ascomycota			UNITE full-query match	False	N	Ascomycota; unresolved genus	0.2900541943	0.539088	Predicted	152			-			-	False
+OTU_23	146	Ascomycota			UNITE full-query match	False	N	Ascomycota; unresolved genus	0.2786046867	0.274169	Predicted	146			Herpotrichiellaceae	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	Pathotroph-Saprotroph	Probable	True
+OTU_24	151				ITSx origin only	False	N	fungal origin only	0.2881459431		Alignment excluded				-			-	False
+OTU_25	141				ITSx origin only	False	N	fungal origin only	0.2690634303	1.760376	Predicted	141			-			-	False
+OTU_26	129				ITSx origin only	False	N	fungal origin only	0.2461644149	1.394911	Predicted	129			-			-	False
+OTU_27	115				ITSx origin only	False	N	fungal origin only	0.219448897	0.766476	Predicted	115			-			-	False
+OTU_28	116				UNITE full-query match	False	N	fungal origin only	0.2213571483	0.229971	Predicted	116			-			-	False
+OTU_29	117				ITSx origin only	False	N	fungal origin only	0.2232653996	1.293149	Predicted	117			-			-	False
+OTU_30	109				UNITE full-query match	False	N	fungal origin only	0.2079993894	0.225754	Predicted	109			-			-	False
+OTU_31	98	Ascomycota	Microascus		UNITE full-query match	True	N	Microascus	0.1870086253	0.657979	Predicted	98	soil_saprotroph	litter_saprotroph	Microascus	Animal Pathogen-Endophyte-Plant Pathogen-Undefined Saprotroph	Pathotroph-Saprotroph-Symbiotroph	Probable	True
+OTU_32	97				ITSx origin only	False	N	fungal origin only	0.185100374		Alignment excluded				-			-	False
+OTU_33	92				ITSx origin only	False	N	fungal origin only	0.1755591176	2.417704	NSTI excluded				-			-	False
+OTU_34	89				ITSx origin only	False	N	fungal origin only	0.1698343638	1.249029	Predicted	89			-			-	False
+OTU_37	64				ITSx origin only	False	N	fungal origin only	0.1221280818	0.747365	Predicted	64			-			-	False
+OTU_39	48				ITSx origin only	True	N	fungal origin only	0.09159606137	0.969566	Predicted	48			-			-	False
+OTU_40	45				ITSx origin only	False	N	fungal origin only	0.08587130753	1.251306	Predicted	45			-			-	False
+OTU_41	32	Ascomycota	Alloconiothyrium	Alloconiothyrium aptrootii	UNITE full-query match	False	N	Alloconiothyrium aptrootii	0.06106404091	0.807975	Predicted	32	soil_saprotroph		Alloconiothyrium	Soil Saprotroph	Saprotroph	Highly Probable	True

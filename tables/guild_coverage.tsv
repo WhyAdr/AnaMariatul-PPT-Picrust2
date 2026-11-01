@@ -1,0 +1,7 @@
+Database	Category	Reads	PctPreprocessedReads	AnnotatedOTUs	ReadPctFungalInput	OTUPctFungalInput
+FungalTraits	Annotated	2466	4.705747653	4	6.10940442	11.76470588
+FungalTraits	Unassigned fungal input	37898	72.31890695			
+FungalTraits	Outside fungal input	12040	22.97534539			
+FUNGuild	Annotated	5594	10.67475765	6	13.85888415	17.64705882
+FUNGuild	Unassigned fungal input	34770	66.34989695			
+FUNGuild	Outside fungal input	12040	22.97534539			

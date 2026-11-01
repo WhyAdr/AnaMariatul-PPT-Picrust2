@@ -1,0 +1,11 @@
+DatabaseField	Category	Reads	PctPreprocessedReads	OTU9Reads	OTU9PctPreprocessedReads
+FT primary	plant_pathogen	2101	4.009235936	2101	4.009235936
+FT primary	soil_saprotroph	365	0.6965117167	0	0
+FT secondary	litter_saprotroph	2199	4.196244561	2101	4.009235936
+FT secondary	foliar_endophyte	235	0.4484390505	0	0
+FUNGuild	Plant Pathogen-Undefined Parasite-Undefined Saprotroph	2982	5.690405313	0	0
+FUNGuild	Plant Pathogen	2101	4.009235936	2101	4.009235936
+FUNGuild	Undefined Saprotroph	235	0.4484390505	0	0
+FUNGuild	Animal Pathogen-Fungal Parasite-Undefined Saprotroph	146	0.2786046867	0	0
+FUNGuild	Animal Pathogen-Endophyte-Plant Pathogen-Undefined Saprotroph	98	0.1870086253	0	0
+FUNGuild	Soil Saprotroph	32	0.06106404091	0	0

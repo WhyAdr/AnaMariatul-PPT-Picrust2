@@ -1,0 +1,326 @@
+{
+  "prepared_local_date": "2026-10-30",
+  "timezone": "Asia/Jakarta",
+  "source_analysis_date": "2026-10-23",
+  "analytical_workflows_rerun": false,
+  "script_sha256": "dd19311214a061b5cf6f38c3408ae4843628db8870d26820e59a3dac83191db1",
+  "input_sha256": {
+    "09_inputs/amplicon_sorter_strict/taxonomy_and_quality.tsv": "f02c7cc9cdfa7d68108e792a5b16ae852e7d1a1008e4a7b6637294e0c9f33545",
+    "09_inputs/amplicon_sorter_strict/ecological_annotations.tsv": "e31197c7f9dab344ab67ddb4f8038735b6b5ef459cd046a1455b2fb341a27dd2",
+    "09_inputs/amplicon_sorter_strict/fungal_otu_table.tsv": "0f62934b430ad5c0abe0f08dc5195bd6b9c3253432eef7d7c8ea4f8bfc2c2d69",
+    "10_picrust2/amplicon_sorter_strict/marker_predicted_and_nsti.tsv.gz": "3fd1b95705df5c9c37efa59a4b40a46169eec38c3fa487ed61fd88c4380ac3bd",
+    "10_picrust2/amplicon_sorter_strict/ec_ITS_counts.txt_metagenome_out/seqtab_norm.tsv.gz": "40d2b22bfe28abc51e6b3123b128be462c5377c6317f99b9a83be5b367249ff1",
+    "10_picrust2/amplicon_sorter_strict/ec_ITS_counts.txt_metagenome_out/weighted_nsti.tsv.gz": "9e44a792a9ac3251cd5f0ea14d076b80d929ec070eca90612dce2900f3f4fcdc",
+    "10_picrust2/amplicon_sorter_strict/ec_ITS_counts.txt_metagenome_out/pred_metagenome_unstrat.tsv.gz": "67c9d6f88f781346f1121b89a3692321e3b420903507901f6dfaeda74d72bd07",
+    "10_picrust2/amplicon_sorter_strict/ec_ITS_counts.txt_metagenome_out/pred_metagenome_contrib.tsv.gz": "2027147ae0b0e431633a41a1e73280dba37191f5728d8a374bd401a005efc6b1",
+    "10_picrust2/amplicon_sorter_strict/pathways_out/path_abun_unstrat.tsv.gz": "65486b354e74c12ff4ac5c96807ff6c188112299e28f5bee4200738b306ed1e6",
+    "10_picrust2/amplicon_sorter_strict/pathways_out/path_abun_contrib.tsv.gz": "110f585fce6183bf75925d2adbb116e1f61a4d7e578c6481d2b1a3c20ca282ab",
+    "11_report/workflow_comparison.tsv": "bf9707f9aba2d3d868ce62c5eed74fe15778b08badf5763f74716ce77df7913b",
+    "/home/prom/miniconda3/envs/picrust2/lib/python3.12/site-packages/picrust2/default_files/description_mapfiles/ec_level4_info.tsv.gz": "e4428f634af779e464afce107499886cc88cb836d222c9c7619e81828effe2bd",
+    "/home/prom/miniconda3/envs/picrust2/lib/python3.12/site-packages/picrust2/default_files/description_mapfiles/metacyc_pathways_info.txt.gz": "5897c9be931f48de5164fee201c8676abf79f62db05df79ffd864ddd32d5146d",
+    "/home/prom/miniconda3/envs/picrust2/lib/python3.12/site-packages/picrust2/default_files/description_mapfiles/ec_name.txt.gz": "58e95f12f424e77bcacd6259f8c6895cc131f8cd955017f001deb8b7323d959b"
+  },
+  "validation": {
+    "EC_reference_status_counts": {
+      "Named in bundled map": 780,
+      "Transferred in bundled map": 58,
+      "Deleted in bundled map": 2
+    },
+    "EC_contributions_reconcile": true,
+    "EC_description_matches": 840,
+    "MetaCyc_contributions_reconcile": true,
+    "MetaCyc_description_matches": 67,
+    "input_hashes_unchanged": true,
+    "read_partition_reconciles": true,
+    "fungal_input_reads": 40364,
+    "fungal_input_OTUs": 34,
+    "prediction_OTUs": 27,
+    "weighted_NSTI_recomputed": 1.0473022643159475,
+    "all_required_checks_passed": true
+  },
+  "figures": [
+    {
+      "stem": "01_community_context",
+      "title": "SC | Community context",
+      "caption": "Read assignment and fungal phylum resolution share the denominator of 52,404 preprocessed reads. Outside fungal input includes other/uncertain core ITS plus ambiguous and unassigned reads. Fungal origin without resolved phylum is retained explicitly. These are sequencing read proportions, not biomass or cell proportions.",
+      "source_tables": [
+        "read_assignment_context.tsv",
+        "phylum_context.tsv"
+      ]
+    },
+    {
+      "stem": "02_guild_annotation_coverage",
+      "title": "SC | Ecological annotation coverage",
+      "caption": "Panel A retains the unassigned and outside-input fractions using all 52,404 preprocessed reads. Panel B separates read-weighted coverage from the percentage of 34 fungal-input OTUs annotated. Original Y-only chimera exclusion was used; borderline OTU_9 is included. Database-specific ranks and confidence schemes differ.",
+      "source_tables": [
+        "guild_coverage.tsv"
+      ]
+    },
+    {
+      "stem": "03_guild_lifestyle_composition",
+      "title": "SC | Putative lifestyles and guilds",
+      "caption": "FungalTraits primary and secondary fields are plotted separately and are not added together. FUNGuild retains combined guild labels and Probable/Highly Probable calls. Bar lengths are percentages of all preprocessed reads, not percentages of the small annotated subset. Hatching identifies the contribution of reference-chimera-borderline OTU_9. Labels are taxon-associated hypotheses, not observations of disease or activity.",
+      "source_tables": [
+        "guild_lifestyle_composition.tsv"
+      ]
+    },
+    {
+      "stem": "04_guild_sensitivity",
+      "title": "SC | Sensitivity of ecological annotations",
+      "caption": "Panel A recomputes existing annotation totals after omitting OTU_9; the underlying annotation workflow was not rerun. Both policies use the same denominator of 52,404 reads. Panel B compares the three existing clustering/refinement workflows under their original Y-only chimera exclusion rules. Similar totals across workflows are technical stability evidence, not biological replication. No error bars or significance tests are warranted.",
+      "source_tables": [
+        "guild_borderline_sensitivity.tsv"
+      ]
+    },
+    {
+      "stem": "05_picrust2_diagnostics",
+      "title": "SC | PICRUSt2 representation and reference distance",
+      "caption": "PICRUSt2 retained 27 of 34 fungal-input OTUs after excluding five alignment failures and two OTUs above NSTI 2. The 28,587 represented reads are 54.55% of preprocessed and 27.75% of delivered raw reads. NSTI is phylogenetic distance, not percent mismatch. The weighted value uses ITS-copy-normalized abundance after filtering. Panel C applies hypothetical NSTI cutoffs to existing placed OTUs; it is not a rerun or accuracy calibration.",
+      "source_tables": [
+        "picrust2_retention.tsv",
+        "otu_annotation_and_nsti.tsv",
+        "picrust2_nsti_threshold_retention.tsv"
+      ]
+    },
+    {
+      "stem": "06_picrust2_ec_profile",
+      "title": "SC | Predicted enzyme categories",
+      "caption": "The 15 largest EC predictions are ranked by unstratified predicted abundance. Names and entry status come from the installed PICRUSt2 description maps. Entries labelled transferred or deleted in the bundled map are gray; original IDs and counts are preserved and are not automatically reassigned to one or more successor ECs. Broad classes sum original predicted gene-family abundances; these totals are not read percentages or independent ecosystem functions. Predictions are not enzyme assays or measured gene counts. All 840 categories are provided in the source table.",
+      "source_tables": [
+        "ec_predicted_profiles.tsv",
+        "ec_class_profile.tsv",
+        "ec_reference_status_summary.tsv"
+      ]
+    },
+    {
+      "stem": "07_picrust2_pathway_profile",
+      "title": "SC | Predicted MetaCyc pathway profile",
+      "caption": "The top 20 MetaCyc pathways are ranked by predicted abundance from the original fungal pathway output. Descriptions come from the installed PICRUSt2 map. Hatched portions are existing stratified contributions from borderline OTU_9; their sums reconcile with unstratified abundance. Removing these portions visually is not a rerun of pathway inference. Pathways overlap in component reactions and should not be interpreted as mutually exclusive fractions of reads or activity.",
+      "source_tables": [
+        "metacyc_predicted_profiles.tsv"
+      ]
+    },
+    {
+      "stem": "08_picrust2_otu_contributions",
+      "title": "SC | Which OTUs drive the pathway predictions?",
+      "caption": "Cell values are each OTU contribution divided by the total predicted abundance of that pathway. Every row sums to 100%; this is not a heatmap comparing biological samples. OTUs are ordered by normalized abundance, not hierarchical clustering. Values at least 10% are printed; the color scale saturates above 40%. OTU_9 is marked because of its borderline reference-chimera call. Per-OTU NSTI and taxonomy are provided in the linked audit table.",
+      "source_tables": [
+        "top_pathways_otu_contribution_percent.tsv",
+        "otu_annotation_and_nsti.tsv"
+      ]
+    }
+  ],
+  "software": {
+    "python": "3.11.17 (main, Oct 13 2026, 16:45:47) [GCC 15.3.0]",
+    "pandas": "3.1.0",
+    "numpy": "2.4.6",
+    "matplotlib": "3.11.2"
+  },
+  "artifacts": [
+    {
+      "path": "FIGURE_GUIDE.md",
+      "bytes": 7546,
+      "sha256": "3c4c777c0f5d664d554189f3ea198625729b352aed3c575937a5e1170c43cbde"
+    },
+    {
+      "path": "SC_figures.pdf",
+      "bytes": 85706,
+      "sha256": "3f4d0b2e144711102606532a716a0557acce855511df013e1d08212db966f789"
+    },
+    {
+      "path": "figures/01_community_context.pdf",
+      "bytes": 24351,
+      "sha256": "f1c37ba03e98274ab045736e5fa0e1de6fd204b03bb73d2503179d639ea0767f"
+    },
+    {
+      "path": "figures/01_community_context.png",
+      "bytes": 186901,
+      "sha256": "09d83a532f969172c9f2dce144068b94e5055d238d9877126c2ad94271bd17bf"
+    },
+    {
+      "path": "figures/01_community_context.svg",
+      "bytes": 15961,
+      "sha256": "88cf430e354654eafbdf7378d6060865cf4957f8afdad7e46ad304909e26c8de"
+    },
+    {
+      "path": "figures/02_guild_annotation_coverage.pdf",
+      "bytes": 28970,
+      "sha256": "71520aa91357bc98fc42e743fb2a9b13e0e3587769c599694d0a13153598d5e4"
+    },
+    {
+      "path": "figures/02_guild_annotation_coverage.png",
+      "bytes": 207526,
+      "sha256": "878e7ebb830b5ae174ac65a7353bccb22fa88b50be0e8ec933e0c3c7d6407b6d"
+    },
+    {
+      "path": "figures/02_guild_annotation_coverage.svg",
+      "bytes": 19336,
+      "sha256": "b3eb97c5ea1e4a1ca35eaec8e9a231302f0b40d17e67a87bed9fab18b149dce2"
+    },
+    {
+      "path": "figures/03_guild_lifestyle_composition.pdf",
+      "bytes": 32500,
+      "sha256": "fe0d0137a45af955c4b78cbed60817d4726ba7d9adfefb8e69a2ed27f85e0c9f"
+    },
+    {
+      "path": "figures/03_guild_lifestyle_composition.png",
+      "bytes": 294230,
+      "sha256": "a21c29f4b4ee6efa995231c6f0154d29556f06733f11607b46dfd1aea7abbf38"
+    },
+    {
+      "path": "figures/03_guild_lifestyle_composition.svg",
+      "bytes": 27835,
+      "sha256": "6951b4e5b309ba135e8db4adf1a8f59a35d2d03a2ffc50e33edf7334581b23bb"
+    },
+    {
+      "path": "figures/04_guild_sensitivity.pdf",
+      "bytes": 35490,
+      "sha256": "4c90f41abf633d8c585393edef7d84b39e534e4a2c1fe5516517c290c6db372e"
+    },
+    {
+      "path": "figures/04_guild_sensitivity.png",
+      "bytes": 202037,
+      "sha256": "c9d27eb1088817679b205e1675302385dd1852e3a5eb64103f38939adb68983a"
+    },
+    {
+      "path": "figures/04_guild_sensitivity.svg",
+      "bytes": 20778,
+      "sha256": "b419a630bae0d87177158fa43a425719f0d0677c3f504ad40aa5467c24334591"
+    },
+    {
+      "path": "figures/05_picrust2_diagnostics.pdf",
+      "bytes": 33309,
+      "sha256": "eebbe933d63595d014fe7f80eb89b396da7bb1ede784816c306ea5aee56bf694"
+    },
+    {
+      "path": "figures/05_picrust2_diagnostics.png",
+      "bytes": 282057,
+      "sha256": "5e6d47cc1cd6d3cd4c739920412a115ef2cd3134ea2e2eff281bed9a9eb6aae3"
+    },
+    {
+      "path": "figures/05_picrust2_diagnostics.svg",
+      "bytes": 37929,
+      "sha256": "db081342acea75fc2ab02f158be8153462e5ad3598dfe451c9f0890d9c0adb6d"
+    },
+    {
+      "path": "figures/06_picrust2_ec_profile.pdf",
+      "bytes": 31937,
+      "sha256": "7efae3fea4c742f27cf27f102e14606bdde42b54c1c511bf8a5bdb122390b5a0"
+    },
+    {
+      "path": "figures/06_picrust2_ec_profile.png",
+      "bytes": 349506,
+      "sha256": "a08a2eea8fba3eeaffa763c75314772bb0ad6e41b4298ed0a3f7e37173b0b775"
+    },
+    {
+      "path": "figures/06_picrust2_ec_profile.svg",
+      "bytes": 27684,
+      "sha256": "3e5da110bf059162d68d1b02408280559209056374b8e5c8b256ef2af85c0e96"
+    },
+    {
+      "path": "figures/07_picrust2_pathway_profile.pdf",
+      "bytes": 36160,
+      "sha256": "6467df14da6591650b4e385f76cdd69edfd9e833a5affd22982e7b31e14e8357"
+    },
+    {
+      "path": "figures/07_picrust2_pathway_profile.png",
+      "bytes": 404922,
+      "sha256": "d6e649812674d3ddcc61cafd56724e0db1ec7a85665ae925481fd8b32c6a5e1a"
+    },
+    {
+      "path": "figures/07_picrust2_pathway_profile.svg",
+      "bytes": 28949,
+      "sha256": "9f67e424e96f1742c4d3e866be86de4faace68edd3b6aeeabbe92a835e6a05bf"
+    },
+    {
+      "path": "figures/08_picrust2_otu_contributions.pdf",
+      "bytes": 58813,
+      "sha256": "91f586008af19e665951f689e3119b56868a2da84a9d05c1a3424531e322ea4a"
+    },
+    {
+      "path": "figures/08_picrust2_otu_contributions.png",
+      "bytes": 421276,
+      "sha256": "1c4999b85b3ac5e076981ee4f9aa5046d8f9c51a9111ed776e4a131672c923b5"
+    },
+    {
+      "path": "figures/08_picrust2_otu_contributions.svg",
+      "bytes": 60759,
+      "sha256": "0ddf5d2029be933cf41a4d81b8bd3ee18d79437bb41d5f021df70c3f9536d928"
+    },
+    {
+      "path": "index.html",
+      "bytes": 477177,
+      "sha256": "8d51ed5a03f537e963c0fd4c22949cc0f386892e2c8571779fed600c5ddfa401"
+    },
+    {
+      "path": "references/visualization_references.md",
+      "bytes": 5443,
+      "sha256": "c49279cb8ca1375a59150e9e8000bd85a3e410ce58aede2591906f56bd1e53bb"
+    },
+    {
+      "path": "tables/ec_class_profile.tsv",
+      "bytes": 197,
+      "sha256": "7d37a7ce5c52379c299264225d8c4fabf435f0fa4492fbce01a0a5ac234e88d7"
+    },
+    {
+      "path": "tables/ec_predicted_profiles.tsv",
+      "bytes": 72238,
+      "sha256": "0479914bba270af2b0fabadad16bd74ce7d4a9125695a1d870607d8abcd4f700"
+    },
+    {
+      "path": "tables/ec_reference_status_summary.tsv",
+      "bytes": 153,
+      "sha256": "15a5133f474e57b87aad9360aab22fadf45ccb05561d720441fd7c12982fed8c"
+    },
+    {
+      "path": "tables/guild_borderline_sensitivity.tsv",
+      "bytes": 191,
+      "sha256": "c45be5f02b945155753764374faffd2207e8d3c92a31b02d05860df22b74da05"
+    },
+    {
+      "path": "tables/guild_coverage.tsv",
+      "bytes": 441,
+      "sha256": "8174d59f8688cd975fa48ecb63344c3b7de04ee6ddd04c71ce8f3f2e767035f3"
+    },
+    {
+      "path": "tables/guild_lifestyle_composition.tsv",
+      "bytes": 723,
+      "sha256": "cc536dfc933e6499c2940463d377e583dd892479a61908523443e51c7badc48e"
+    },
+    {
+      "path": "tables/metacyc_predicted_profiles.tsv",
+      "bytes": 7680,
+      "sha256": "5d3bc4307725ca4c76cf9d3d7501cf28c2d22ab27ba16e8ca97ccac4512e389e"
+    },
+    {
+      "path": "tables/otu_annotation_and_nsti.tsv",
+      "bytes": 4846,
+      "sha256": "9e4d846403e97b710176373297f429dcc08f6d9b609d325f7b608b2c1b637766"
+    },
+    {
+      "path": "tables/phylum_context.tsv",
+      "bytes": 180,
+      "sha256": "214a43d73bce4d1bd1c1dd722c080057e007adabeafd4bc8a6169501f822d504"
+    },
+    {
+      "path": "tables/picrust2_nsti_threshold_retention.tsv",
+      "bytes": 2307,
+      "sha256": "fb4a591c15f89b302265a0377c990dde6af0200a09ba679412fb8470ff9ceef9"
+    },
+    {
+      "path": "tables/picrust2_retention.tsv",
+      "bytes": 141,
+      "sha256": "4c358aee5ca8a9ac90b356e86b5ecdb40e0d9254420e3d9b83cde539aba65ab0"
+    },
+    {
+      "path": "tables/read_assignment_context.tsv",
+      "bytes": 197,
+      "sha256": "8bbaa750e6390f0e3b09429607224d8b5d1edd71d6fa742408ddb5ff0422f82d"
+    },
+    {
+      "path": "tables/top_pathways_otu_contribution_percent.tsv",
+      "bytes": 4359,
+      "sha256": "696acaff15a84d8debfcc68d1e9f725fd74f7af4b90363be796968d453daa936"
+    }
+  ]
+}

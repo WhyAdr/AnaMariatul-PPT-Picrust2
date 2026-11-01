@@ -1,0 +1,68 @@
+FeatureID	PredictedAbundance	Description	ReferenceStatus	Rank	OTU9Contribution	OTU9ContributionPct
+PWY-3781	134790.6634	aerobic respiration I (cytochrome c)	Name from bundled map	1	8922.290826	6.619368584
+PWY-7279	134790.6634	aerobic respiration II (cytochrome c) (yeast)	Name from bundled map	1	8791.741575	6.522515251
+PWY-7288	95692.4433	fatty acid β-oxidation (peroxisome, yeast)	Name from bundled map	3	7007.336363	7.32276878
+PWY-7184	56412.40978	pyrimidine deoxyribonucleotides de novo biosynthesis I	Name from bundled map	4	2098.478956	3.719888875
+PWY-6126	49996.1035	superpathway of adenosine nucleotides de novo biosynthesis II	Name from bundled map	5	3095.48502	6.19145254
+PWY-7219	47939.08437	adenosine ribonucleotides de novo biosynthesis	Name from bundled map	6	3321.223477	6.928007744
+PWY-7229	46903.39093	superpathway of adenosine nucleotides de novo biosynthesis I	Name from bundled map	7	2904.001189	6.19145254
+PWY-5690	46368.59483	TCA cycle II (plants and fungi)	Name from bundled map	8	3406.099897	7.345704371
+PWY-7197	44960.69642	pyrimidine deoxyribonucleotide phosphorylation	Name from bundled map	9	1070.958008	2.381987143
+PWY-7007	44791.00338	methyl ketone biosynthesis	Name from bundled map	10	3613.589397	8.06766789
+PWY-7228	44399.75787	superpathway of guanosine nucleotides de novo biosynthesis I	Name from bundled map	11	1720.760309	3.875607417
+TRNA-CHARGING-PWY	43985.70717	tRNA charging	Name from bundled map	12	3390.857009	7.708997371
+PWY-5659	42774.67267	GDP-mannose biosynthesis	Name from bundled map	13	2716.940134	6.351749679
+PWY-6351	42132.8166	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	Name from bundled map	14	3802.56484	9.025185465
+GLYOXYLATE-BYPASS	41405.75769	glyoxylate cycle	Name from bundled map	15	4593.049031	11.09277861
+PWY-7196	39749.7663	superpathway of pyrimidine ribonucleosides salvage	Name from bundled map	16	1794.442668	4.514347719
+PWY-6606	37714.69013	guanosine nucleotides degradation II	Name from bundled map	17	3715.286266	9.851032192
+PWY-7111	36751.63876	pyruvate fermentation to isobutanol (engineered)	Name from bundled map	18	8661.96847	23.56893124
+PWY-7208	36180.80517	superpathway of pyrimidine nucleobases salvage	Name from bundled map	19	1587.492164	4.387664002
+PWY-7221	35228.28621	guanosine ribonucleotides de novo biosynthesis	Name from bundled map	20	1545.876392	4.388168029
+SER-GLYSYN-PWY	35108.69735	superpathway of L-serine and glycine biosynthesis I	Name from bundled map	21	3885.145536	11.06604867
+PWY66-409	34510.49064	superpathway of purine nucleotide salvage	Name from bundled map	22	2084.505979	6.040209631
+PWY-6837	34237.03662	fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)	Name from bundled map	23	1726.074902	5.041542938
+HSERMETANA-PWY	33306.14697	L-methionine biosynthesis III	Name from bundled map	24	2438.896714	7.322662438
+PANTO-PWY	32781.16731	phosphopantothenate biosynthesis I	Name from bundled map	25	1945.118229	5.933645407
+UDPNACETYLGALSYN-PWY	32411.11256	UDP-N-acetyl-D-glucosamine biosynthesis II	Name from bundled map	26	1949.04538	6.013509646
+THRESYN-PWY	32168.80268	superpathway of L-threonine biosynthesis	Name from bundled map	27	2359.986936	7.336259789
+VALSYN-PWY	31572.96903	L-valine biosynthesis	Name from bundled map	28	4685.559738	14.84041533
+P185-PWY	31220.24669	formaldehyde assimilation III (dihydroxyacetone cycle)	Name from bundled map	29	3115.256354	9.978320752
+PWY-922	30813.65547	mevalonate pathway I	Name from bundled map	30	2264.647922	7.349494525
+TYRFUMCAT-PWY	30802.83787	L-tyrosine degradation I	Name from bundled map	31	4171.318966	13.54199566
+ANAGLYCOLYSIS-PWY	30548.17681	glycolysis III (from glucose)	Name from bundled map	32	2240.019806	7.332744666
+NONOXIPENT-PWY	30198.13403	pentose phosphate pathway (non-oxidative branch)	Name from bundled map	33	3330.360395	11.02836484
+PWY-5067	29962.92636	glycogen biosynthesis II (from UDP-D-Glucose)	Name from bundled map	34	3144.199199	10.4936319
+PWY-7282	29917.35364	4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)	Name from bundled map	35	3649.79477	12.19959096
+PWY66-422	29826.65407	D-galactose degradation V (Leloir pathway)	Name from bundled map	36	3566.578326	11.9576883
+PENTOSE-P-PWY	29384.48657	pentose phosphate pathway	Name from bundled map	37	2847.650607	9.691000046
+PWY-4981	29290.21904	L-proline biosynthesis II (from arginine)	Name from bundled map	38	2772.078209	9.464177121
+PWY-4984	29025.53212	urea cycle	Name from bundled map	39	2613.153602	9.002948133
+HEME-BIOSYNTHESIS-II	28642.9199	heme biosynthesis I (aerobic)	Name from bundled map	40	2100.975787	7.335061489
+PWY-5667	28513.81311	CDP-diacylglycerol biosynthesis I	Name from bundled map	41	2099.194814	7.362027682
+PWY-6609	25776.47458	adenine and adenosine salvage III	Name from bundled map	42	2439.860928	9.465456266
+PWY-7411	19139.61926	superpathway of phosphatidate biosynthesis (yeast)	Name from bundled map	43	3177.867655	16.60360957
+PWY-7118	15867.06582	chitin degradation to ethanol	Name from bundled map	44	2745.727828	17.304572
+PWY-7210	12919.95305	pyrimidine deoxyribonucleotides biosynthesis from CTP	Name from bundled map	45	532.741051	4.123397731
+PWY-5920	9555.08914	superpathway of heme biosynthesis from glycine	Name from bundled map	46	800.6580443	8.379388539
+PWY-6317	9337.07666	galactose degradation I (Leloir pathway)	Name from bundled map	47	1246.789771	13.3531063
+PWY-7385	8570.295843	1,3-propanediol biosynthesis (engineered)	Name from bundled map	48	628.8395462	7.337431026
+PWY-7388	7231.748893	octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)	Name from bundled map	49	1813.264314	25.07366255
+PWY-5994	6293.081441	palmitate biosynthesis I (animals and fungi)	Name from bundled map	50	1877.793814	29.83901974
+PWY-5083	5767.134007	NAD/NADH phosphorylation and dephosphorylation	Name from bundled map	51	516.7541751	8.960328901
+PWY-5189	5733.948222	tetrapyrrole biosynthesis II (from glycine)	Name from bundled map	52	593.0502559	10.34279057
+PWY-621	807.3799263	sucrose degradation III (sucrose invertase)	Name from bundled map	53	96.32781076	11.93091475
+LEU-DEG2-PWY	722.1184865	L-leucine degradation I	Name from bundled map	54	61.60891774	8.531690975
+PWY-7269	580.5455379	NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)	Name from bundled map	55	42.33708668	7.292638375
+PWY-7409	579.7744737	phospholipid remodeling (phosphatidylethanolamine, yeast)	Name from bundled map	56	76.5118036	13.19682171
+PWY3O-355	579.6808472	stearate biosynthesis III (fungi)	Name from bundled map	57	140.8086901	24.29072667
+SO4ASSIM-PWY	578.0950864	sulfate reduction I (assimilatory)	Name from bundled map	58	42.27117866	7.312149793
+PWY-6121	573.024365	5-aminoimidazole ribonucleotide biosynthesis I	Name from bundled map	59	42.00077416	7.329666368
+PWY-7268	434.6700687	NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)	Name from bundled map	60	31.90531607	7.340122627
+PWY4FS-7	433.5656887	phosphatidylglycerol biosynthesis I (plastidic)	Name from bundled map	61	31.86488656	7.349494525
+PWY4FS-8	433.5656887	phosphatidylglycerol biosynthesis II (non-plastidic)	Name from bundled map	61	31.86488656	7.349494525
+PWY-5651	362.3204057	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Name from bundled map	63	34.14797396	9.424800099
+PWY-7420	291.4698633	monoacylglycerol metabolism (yeast)	Name from bundled map	64	7.621952888	2.615005476
+LIPASYN-PWY	291.2561708	phospholipases	Name from bundled map	65	43.92481981	15.08116367
+PWY-2723	290.6352961	trehalose degradation V	Name from bundled map	66	33.41567929	11.49746082
+GLUCOSE1PMETAB-PWY	290.5162705	glucose and glucose-1-phosphate degradation	Name from bundled map	67	30.00858822	10.3294002

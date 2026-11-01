@@ -10,7 +10,7 @@
 **Target Audience:** Research Colleague (Ana Mariatul) — new to bioinformatics; requires clear, intuitive, and well-calibrated plain-English explanations of each figure.  
 **Tone & Perspective:** Educational, encouraging, and scientifically careful. Connects the sequence results to plausible *Sonneratia alba* rhizosphere and sediment biology while clearly distinguishing direct sequence observations from database-derived ecological/metabolic hypotheses in a single-sample dataset.  
 **Visual Asset & Layout Standard for PPT Generation:**  
-* **Images:** 240 DPI PNG files in `12_visualizations_2026-10-30/figures/01_*.png` through `08_*.png`, plus `Report/data/electrophoresis.PNG` on Slide 08.
+* **Images:** 240 DPI PNG files in `figures/01_*.png` through `08_*.png`, plus `Report/data/electrophoresis.PNG` on Slide 08.
 * **Density & Text Placement Rule:** To keep 16:9 widescreen slides visually clean (especially on dense slides like Slides 08, 10, 11, and 12), place the **"Visual Elements Guide (On-Slide Callouts)"** directly on the slide canvas next to the PNG, and place the longer **"Plain-English Elaboration (Extended Companion / Notes Pane)"** in the PowerPoint notes pane (or an optional companion handout slide).
 * **Table-Only Callouts:** Items explicitly tagged **`[Table Callout — From Companion TSV, Not Plotted in PNG]`** come from the underlying source tables rather than the PNG labels, so the PPT layout should format them as supplementary side-boxes rather than pointing arrows at the image.
 * **Typography:** Plain text and standard Unicode symbols are used throughout (no LaTeX `$...$` wrappers) for clean automated PPT generation and bilingual adaptation.
@@ -108,7 +108,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ## PART 2: WHO IS IN YOUR SAMPLE? (COMMUNITY TAXONOMY)
 
 ### Slide 04: Figure 01 — Community Context & Taxonomic Resolution
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/01_community_context.png`
+* **Visual Asset:** `figures/01_community_context.png`
 * **Slide Title:** Figure 01: Community Context & Taxonomic Resolution
 * **Subtitle:** Accounting for All 52,404 Preprocessed Reads Across Core OTUs and Fungal Phyla
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -133,7 +133,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ## PART 3: WHAT ARE THEY DOING? (ECOLOGICAL GUILDS & LIFESTYLES)
 
 ### Slide 05: Figure 02 — Ecological Annotation Coverage
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/02_guild_annotation_coverage.png`
+* **Visual Asset:** `figures/02_guild_annotation_coverage.png`
 * **Slide Title:** Figure 02: Ecological Annotation Coverage
 * **Subtitle:** How Much of Your Mangrove Fungal Community Can Literature Databases Currently Explain?
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -151,7 +151,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ---
 
 ### Slide 06: Figure 03 — Putative Lifestyles & Ecological Guilds
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/03_guild_lifestyle_composition.png`
+* **Visual Asset:** `figures/03_guild_lifestyle_composition.png`
 * **Slide Title:** Figure 03: Putative Lifestyles & Guild Composition
 * **Subtitle:** Deconstructing FungalTraits Lifestyles, FUNGuild Trophic Modes, and the Role of OTU_9
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -167,7 +167,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ---
 
 ### Slide 07: Figure 04 — Sensitivity Analysis & Workflow Concordance
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/04_guild_sensitivity.png`
+* **Visual Asset:** `figures/04_guild_sensitivity.png`
 * **Slide Title:** Figure 04: Sensitivity Analysis & Pipeline Stability
 * **Subtitle:** Testing the Impact of Omitting OTU_9 and Comparing Three Independent Clustering Workflows
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -201,7 +201,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ## PART 4: WHAT IS THEIR METABOLIC POTENTIAL? (PICRUSt2 FUNCTIONAL PREDICTIONS)
 
 ### Slide 09: Figure 05 — PICRUSt2 Diagnostics: Representation & Reference Distance
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/05_picrust2_diagnostics.png`
+* **Visual Asset:** `figures/05_picrust2_diagnostics.png`
 * **Slide Title:** Figure 05: Fungal PICRUSt2 Diagnostics & Reference Distance
 * **Subtitle:** Evaluating Read Retention (`54.55%`) and Evolutionary Distance (`Weighted NSTI = 1.047`) Before Interpreting Pathways
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -218,7 +218,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ---
 
 ### Slide 10: Figure 06 — Predicted Enzyme Categories (EC Profile)
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/06_picrust2_ec_profile.png`
+* **Visual Asset:** `figures/06_picrust2_ec_profile.png`
 * **Slide Title:** Figure 06: Predicted Enzyme Profiles (840 EC Categories)
 * **Subtitle:** Core Housekeeping Machinery, Database Nomenclature Status, and Detrital Polysaccharide Hydrolases
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -239,7 +239,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ---
 
 ### Slide 11: Figure 07 — Predicted MetaCyc Metabolic Pathways
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/07_picrust2_pathway_profile.png`
+* **Visual Asset:** `figures/07_picrust2_pathway_profile.png`
 * **Slide Title:** Figure 07: Predicted MetaCyc Metabolic Pathway Profile
 * **Subtitle:** Top 20 of 67 Reconstructed Fungal Pathways: Core Eukaryotic Bioenergetics & Conserved Fungal Metabolism
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -258,7 +258,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
 ---
 
 ### Slide 12: Figure 08 — Deconvoluting Pathways: Which Fungi Drive Predictions?
-* **Visual Asset:** `12_visualizations_2026-10-30/figures/08_picrust2_otu_contributions.png`
+* **Visual Asset:** `figures/08_picrust2_otu_contributions.png`
 * **Slide Title:** Figure 08: Deconvoluting Pathways: Which OTUs Drive the Predictions?
 * **Subtitle:** Stratified Heatmap of the Top 12 MetaCyc Pathways Across All 27 Retained Fungal OTUs
 * **Visual Elements Guide (On-Slide Callouts):**
@@ -269,7 +269,7 @@ PART 5: ECOLOGICAL SYNTHESIS & NEXT STEPS
     3. **`OTU_6` (`11%–12%` printed in column 3)** — Unresolved fungal phylum (`3,180` reads)
     4. **`OTU_7` (`10%–11%` printed in column 4)** — Chytridiomycota (*Spizellomycetaceae*, `2,982` reads)
     *(followed in column 5 by Ascomycota **`OTU_9*`**, *Gibellulopsis*, `2,101` reads, contributing `2.4%–8.1%`).*
-  * **`[Table Callout — From Companion TSV, Not Plotted in PNG]` Reference Genomes & NSTI (`marker_predicted_and_nsti.tsv.gz` & `tables/otu_annotation_and_nsti.tsv`):**
+  * **`[Table Callout — From Companion TSV, Not Plotted in PNG]` Reference Genomes & NSTI (`tables/marker_predicted_and_nsti.tsv` & `tables/otu_annotation_and_nsti.tsv`):**
     * **Predicted `ITS` copy number = `1`** for all `29` placed OTUs (draft fungal genome assemblies collapse repetitive rDNA arrays, so copy-normalized abundance order equals raw read count order).
     * **14 of the 27 retained OTUs (`24,696 / 28,587` reads = `86.4%` of predicted reads—including `OTU_1` [`NSTI = 1.38`], `OTU_4` [`0.83`], `OTU_6` [`1.11`], and `OTU_7` [`0.91`]) share the exact same closest sequenced reference genome: *Spizellomyces punctatus* (`Spipu1`)!**
 * **Plain-English Elaboration (Extended Companion / Notes Pane):**
